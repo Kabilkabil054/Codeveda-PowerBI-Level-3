@@ -1,0 +1,2001 @@
+OrderID,OrderDate,City,Region,Category,Product,CustomerID,CustomerType,PaymentMode,Quantity,Sales,Cost,DiscountPercent,Profit,ProfitMargin_%
+1,2022-01-01,Mumbai,West,Clothing,Sofa,1044,New,Card,3,14986,7964,21,7022,46.86
+2,2022-01-02,Delhi,West,Electronics,Laptop,1401,New,UPI,8,33322,17610,21,15712,47.15
+3,2022-01-03,Hyderabad,North,Groceries,Laptop,1205,Returning,Cash,6,49929,14048,27,35881,71.86
+4,2022-01-04,Delhi,South,Electronics,Mobile,1061,Returning,UPI,2,17160,7621,5,9539,55.59
+5,2022-01-05,Delhi,North,Groceries,Sofa,1419,New,Net Banking,2,10808,10340,29,468,4.33
+6,2022-01-06,Bangalore,South,Furniture,Rice,1867,Returning,UPI,9,30612,4812,25,25800,84.28
+7,2022-01-07,Hyderabad,South,Furniture,Rice,1467,Returning,Cash,7,22725,8500,4,14225,62.6
+8,2022-01-08,Hyderabad,South,Furniture,Shirt,1819,Returning,Card,9,7998,9961,12,-1963,-24.54
+9,2022-01-09,Hyderabad,North,Clothing,Table,1018,Returning,Card,6,40950,21427,28,19523,47.68
+10,2022-01-10,Delhi,South,Clothing,Laptop,1364,Returning,Cash,5,24418,24898,4,-480,-1.97
+11,2022-01-11,Mumbai,North,Groceries,Shirt,1299,New,Net Banking,1,19040,818,24,18222,95.7
+12,2022-01-12,Hyderabad,West,Furniture,Mobile,1006,Returning,Cash,6,21557,15829,12,5728,26.57
+13,2022-01-13,Delhi,West,Clothing,Rice,1760,Returning,Net Banking,6,22825,16291,23,6534,28.63
+14,2022-01-14,Bangalore,South,Furniture,Laptop,1427,New,Card,3,9998,20359,19,-10361,-103.63
+15,2022-01-15,Mumbai,North,Clothing,Mobile,1116,New,Net Banking,3,37080,14872,22,22208,59.89
+16,2022-01-16,Bangalore,West,Electronics,Table,1579,New,Cash,3,47097,16435,7,30662,65.1
+17,2022-01-17,Mumbai,North,Electronics,Mobile,1506,New,Cash,3,16802,27854,27,-11052,-65.78
+18,2022-01-18,Delhi,North,Furniture,Laptop,1545,Returning,Cash,7,12167,16201,8,-4034,-33.16
+19,2022-01-19,Chennai,South,Groceries,Table,1705,Returning,Net Banking,2,36092,11750,20,24342,67.44
+20,2022-01-20,Mumbai,West,Clothing,Mobile,1324,Returning,Net Banking,2,43407,22037,18,21370,49.23
+21,2022-01-21,Bangalore,South,Clothing,Table,1054,Returning,Net Banking,3,14338,21018,28,-6680,-46.59
+22,2022-01-22,Delhi,South,Electronics,Laptop,1777,New,Card,7,11753,2102,19,9651,82.12
+23,2022-01-23,Mumbai,West,Electronics,Laptop,1991,New,UPI,3,6984,19140,14,-12156,-174.05
+24,2022-01-24,Chennai,West,Groceries,Table,1041,Returning,UPI,7,19895,25905,25,-6010,-30.21
+25,2022-01-25,Chennai,North,Groceries,Sofa,1296,Returning,Cash,9,48910,9547,21,39363,80.48
+26,2022-01-26,Hyderabad,West,Groceries,Shirt,1972,Returning,Card,4,44831,24203,9,20628,46.01
+27,2022-01-27,Hyderabad,North,Furniture,Mobile,1230,Returning,Net Banking,7,1362,15734,10,-14372,-1055.21
+28,2022-01-28,Bangalore,North,Electronics,Mobile,1452,New,Cash,9,4454,8032,4,-3578,-80.33
+29,2022-01-29,Mumbai,North,Furniture,Sofa,1889,Returning,Card,8,22004,7866,8,14138,64.25
+30,2022-01-30,Mumbai,West,Electronics,Sofa,1393,New,Cash,8,37023,3148,28,33875,91.5
+31,2022-01-31,Hyderabad,South,Electronics,Sofa,1521,New,Card,9,18601,7403,10,11198,60.2
+32,2022-02-01,Mumbai,North,Clothing,Rice,1357,New,Card,5,6349,18742,26,-12393,-195.2
+33,2022-02-02,Mumbai,South,Electronics,Rice,1986,New,UPI,5,40963,17986,29,22977,56.09
+34,2022-02-03,Chennai,South,Electronics,Table,1443,Returning,Cash,3,11047,14288,18,-3241,-29.34
+35,2022-02-04,Hyderabad,West,Furniture,Rice,1127,Returning,Net Banking,5,8750,2981,1,5769,65.93
+36,2022-02-05,Delhi,South,Electronics,Laptop,1690,Returning,UPI,8,30393,2320,5,28073,92.37
+37,2022-02-06,Hyderabad,South,Furniture,Table,1404,Returning,UPI,5,23463,10771,28,12692,54.09
+38,2022-02-07,Delhi,West,Groceries,Mobile,1391,New,Net Banking,4,10399,20042,22,-9643,-92.73
+39,2022-02-08,Chennai,North,Electronics,Shirt,1192,New,Card,8,14686,27516,20,-12830,-87.36
+40,2022-02-09,Bangalore,South,Electronics,Laptop,1603,New,Net Banking,7,41803,4184,0,37619,89.99
+41,2022-02-10,Mumbai,West,Furniture,Mobile,1880,Returning,Cash,6,35275,24295,2,10980,31.13
+42,2022-02-11,Chennai,South,Groceries,Mobile,1742,New,Net Banking,5,23787,26331,2,-2544,-10.69
+43,2022-02-12,Mumbai,South,Clothing,Table,1077,New,Card,5,15776,28033,27,-12257,-77.69
+44,2022-02-13,Bangalore,North,Groceries,Sofa,1084,New,Net Banking,2,30527,4151,13,26376,86.4
+45,2022-02-14,Bangalore,South,Furniture,Sofa,1029,New,Card,4,40351,10931,19,29420,72.91
+46,2022-02-15,Chennai,West,Groceries,Laptop,1724,Returning,Card,8,37695,10631,29,27064,71.8
+47,2022-02-16,Bangalore,South,Furniture,Sofa,1048,New,Cash,8,16797,24591,25,-7794,-46.4
+48,2022-02-17,Delhi,North,Furniture,Mobile,1776,New,Net Banking,1,37999,25345,21,12654,33.3
+49,2022-02-18,Bangalore,North,Clothing,Sofa,1144,Returning,Net Banking,2,6302,24991,4,-18689,-296.56
+50,2022-02-19,Mumbai,West,Electronics,Rice,1068,Returning,Cash,5,39059,23765,16,15294,39.16
+51,2022-02-20,Mumbai,North,Furniture,Sofa,1057,Returning,Card,9,1908,23104,14,-21196,-1110.9
+52,2022-02-21,Mumbai,South,Furniture,Mobile,1696,New,Net Banking,7,16123,5330,5,10793,66.94
+53,2022-02-22,Mumbai,North,Clothing,Table,1573,New,Cash,5,13877,29140,13,-15263,-109.99
+54,2022-02-23,Delhi,West,Furniture,Laptop,1478,New,Card,1,15239,21863,13,-6624,-43.47
+55,2022-02-24,Hyderabad,North,Electronics,Shirt,1819,New,Cash,6,22435,7834,24,14601,65.08
+56,2022-02-25,Chennai,North,Clothing,Sofa,1444,Returning,Net Banking,8,28313,15119,26,13194,46.6
+57,2022-02-26,Mumbai,North,Electronics,Mobile,1295,New,Cash,7,36354,20659,16,15695,43.17
+58,2022-02-27,Bangalore,West,Electronics,Shirt,1677,New,UPI,2,43103,9804,7,33299,77.25
+59,2022-02-28,Mumbai,North,Clothing,Shirt,1170,Returning,Card,5,49408,15379,7,34029,68.87
+60,2022-03-01,Bangalore,North,Furniture,Rice,1574,Returning,UPI,4,18715,17532,18,1183,6.32
+61,2022-03-02,Bangalore,South,Electronics,Shirt,1146,Returning,UPI,9,24235,26255,28,-2020,-8.34
+62,2022-03-03,Mumbai,West,Electronics,Table,1483,New,Card,1,27129,15085,8,12044,44.4
+63,2022-03-04,Delhi,North,Electronics,Mobile,1305,New,Card,6,11534,27218,10,-15684,-135.98
+64,2022-03-05,Bangalore,West,Electronics,Mobile,1672,New,Cash,3,35574,516,12,35058,98.55
+65,2022-03-06,Bangalore,North,Clothing,Sofa,1652,New,Card,9,44060,8808,12,35252,80.01
+66,2022-03-07,Mumbai,North,Clothing,Sofa,1845,New,UPI,5,18189,6976,26,11213,61.65
+67,2022-03-08,Bangalore,North,Groceries,Sofa,1608,Returning,UPI,6,21531,6442,23,15089,70.08
+68,2022-03-09,Bangalore,South,Groceries,Table,1445,Returning,Net Banking,9,11967,18429,18,-6462,-54.0
+69,2022-03-10,Mumbai,South,Electronics,Shirt,1220,New,Card,9,17455,28227,25,-10772,-61.71
+70,2022-03-11,Mumbai,South,Furniture,Shirt,1554,New,UPI,8,1027,3193,20,-2166,-210.91
+71,2022-03-12,Chennai,West,Electronics,Rice,1944,New,Net Banking,9,9660,24483,18,-14823,-153.45
+72,2022-03-13,Delhi,West,Furniture,Table,1803,New,Net Banking,4,26339,16062,4,10277,39.02
+73,2022-03-14,Delhi,South,Electronics,Sofa,1377,New,Cash,6,40823,20973,15,19850,48.62
+74,2022-03-15,Bangalore,West,Groceries,Laptop,1619,Returning,UPI,5,10616,6759,8,3857,36.33
+75,2022-03-16,Delhi,North,Groceries,Rice,1265,Returning,Cash,5,11440,21942,27,-10502,-91.8
+76,2022-03-17,Bangalore,North,Furniture,Laptop,1094,Returning,UPI,4,37600,16079,19,21521,57.24
+77,2022-03-18,Chennai,North,Electronics,Shirt,1261,New,Cash,2,49738,9968,21,39770,79.96
+78,2022-03-19,Mumbai,South,Furniture,Rice,1824,New,Cash,6,14107,20124,2,-6017,-42.65
+79,2022-03-20,Mumbai,West,Groceries,Rice,1896,Returning,Card,9,29646,5442,18,24204,81.64
+80,2022-03-21,Mumbai,South,Electronics,Mobile,1070,Returning,Cash,1,47545,15151,4,32394,68.13
+81,2022-03-22,Delhi,West,Electronics,Shirt,1953,New,Card,7,27251,4288,7,22963,84.26
+82,2022-03-23,Chennai,North,Furniture,Shirt,1218,Returning,Net Banking,6,16954,23837,13,-6883,-40.6
+83,2022-03-24,Delhi,South,Clothing,Table,1532,Returning,UPI,3,17943,871,23,17072,95.15
+84,2022-03-25,Delhi,West,Furniture,Rice,1091,New,Net Banking,1,41725,27883,2,13842,33.17
+85,2022-03-26,Chennai,West,Groceries,Shirt,1126,Returning,UPI,4,46434,23904,23,22530,48.52
+86,2022-03-27,Chennai,North,Groceries,Rice,1079,Returning,Net Banking,9,21215,7620,12,13595,64.08
+87,2022-03-28,Chennai,South,Groceries,Table,1823,Returning,UPI,2,11110,6202,10,4908,44.18
+88,2022-03-29,Chennai,South,Groceries,Table,1237,New,Cash,3,41112,8847,28,32265,78.48
+89,2022-03-30,Mumbai,South,Groceries,Mobile,1982,Returning,UPI,2,22555,3161,7,19394,85.99
+90,2022-03-31,Hyderabad,North,Clothing,Rice,1371,Returning,UPI,2,17462,24064,18,-6602,-37.81
+91,2022-04-01,Hyderabad,South,Electronics,Shirt,1915,Returning,Net Banking,8,14696,7151,9,7545,51.34
+92,2022-04-02,Chennai,North,Furniture,Shirt,1485,New,Net Banking,3,2031,25540,28,-23509,-1157.51
+93,2022-04-03,Hyderabad,North,Furniture,Rice,1693,New,Net Banking,7,24765,5378,25,19387,78.28
+94,2022-04-04,Hyderabad,North,Groceries,Rice,1024,Returning,Card,8,48858,13591,17,35267,72.18
+95,2022-04-05,Chennai,West,Furniture,Rice,1155,New,Card,3,16816,4815,25,12001,71.37
+96,2022-04-06,Hyderabad,South,Groceries,Sofa,1516,Returning,UPI,2,18868,23042,17,-4174,-22.12
+97,2022-04-07,Delhi,South,Clothing,Shirt,1631,New,UPI,8,11437,10465,24,972,8.5
+98,2022-04-08,Bangalore,North,Clothing,Table,1788,New,Cash,3,16453,8808,6,7645,46.47
+99,2022-04-09,Bangalore,North,Electronics,Shirt,1529,Returning,Cash,7,23222,6974,15,16248,69.97
+100,2022-04-10,Chennai,South,Clothing,Sofa,1942,Returning,UPI,1,15258,27179,5,-11921,-78.13
+101,2022-04-11,Mumbai,North,Clothing,Rice,1709,Returning,Card,6,35318,1874,15,33444,94.69
+102,2022-04-12,Chennai,South,Electronics,Mobile,1056,New,UPI,9,13977,11895,15,2082,14.9
+103,2022-04-13,Mumbai,West,Furniture,Rice,1604,Returning,Cash,3,38450,7893,22,30557,79.47
+104,2022-04-14,Bangalore,North,Groceries,Rice,1018,New,Card,7,48207,4903,23,43304,89.83
+105,2022-04-15,Chennai,South,Groceries,Sofa,1383,New,Card,6,19213,4046,27,15167,78.94
+106,2022-04-16,Delhi,North,Furniture,Shirt,1864,Returning,Cash,8,37519,4477,0,33042,88.07
+107,2022-04-17,Hyderabad,South,Electronics,Rice,1192,New,UPI,3,46682,29393,23,17289,37.04
+108,2022-04-18,Mumbai,South,Furniture,Shirt,1236,Returning,Net Banking,3,11223,9888,18,1335,11.9
+109,2022-04-19,Hyderabad,North,Clothing,Laptop,1386,New,UPI,4,49166,20295,2,28871,58.72
+110,2022-04-20,Hyderabad,West,Electronics,Table,1425,Returning,UPI,3,40369,9488,5,30881,76.5
+111,2022-04-21,Chennai,South,Electronics,Shirt,1276,New,Cash,9,21843,4392,3,17451,79.89
+112,2022-04-22,Hyderabad,South,Electronics,Mobile,1226,New,Card,4,4856,24208,3,-19352,-398.52
+113,2022-04-23,Delhi,South,Groceries,Table,1744,Returning,Cash,6,13661,25226,3,-11565,-84.66
+114,2022-04-24,Hyderabad,West,Furniture,Mobile,1551,New,UPI,8,16591,14508,9,2083,12.55
+115,2022-04-25,Chennai,West,Electronics,Rice,1322,Returning,Net Banking,8,7182,3749,8,3433,47.8
+116,2022-04-26,Delhi,North,Electronics,Table,1152,New,Net Banking,5,8970,611,7,8359,93.19
+117,2022-04-27,Bangalore,West,Electronics,Shirt,1638,New,Net Banking,5,48922,17566,18,31356,64.09
+118,2022-04-28,Hyderabad,North,Furniture,Table,1236,New,Cash,6,35862,18045,16,17817,49.68
+119,2022-04-29,Chennai,North,Groceries,Rice,1997,Returning,Card,7,31755,7900,16,23855,75.12
+120,2022-04-30,Bangalore,West,Clothing,Sofa,1054,Returning,Cash,7,45863,2879,0,42984,93.72
+121,2022-05-01,Bangalore,North,Groceries,Mobile,1979,Returning,Net Banking,4,20416,13680,19,6736,32.99
+122,2022-05-02,Mumbai,West,Electronics,Rice,1435,Returning,UPI,6,14672,22310,13,-7638,-52.06
+123,2022-05-03,Delhi,North,Groceries,Sofa,1683,Returning,Card,7,18932,8852,21,10080,53.24
+124,2022-05-04,Hyderabad,West,Groceries,Table,1108,New,Cash,5,47996,18309,19,29687,61.85
+125,2022-05-05,Chennai,West,Clothing,Table,1865,New,Cash,5,9559,20545,26,-10986,-114.93
+126,2022-05-06,Mumbai,North,Furniture,Rice,1980,Returning,Card,2,1064,8969,10,-7905,-742.95
+127,2022-05-07,Delhi,South,Furniture,Shirt,1183,New,Card,7,4299,28467,2,-24168,-562.18
+128,2022-05-08,Mumbai,North,Groceries,Table,1950,New,UPI,6,5849,10248,23,-4399,-75.21
+129,2022-05-09,Delhi,West,Groceries,Shirt,1367,New,Card,1,6639,23924,29,-17285,-260.36
+130,2022-05-10,Delhi,South,Furniture,Shirt,1982,New,UPI,4,12055,21476,7,-9421,-78.15
+131,2022-05-11,Hyderabad,North,Furniture,Shirt,1197,Returning,Net Banking,3,23058,24414,21,-1356,-5.88
+132,2022-05-12,Delhi,North,Clothing,Laptop,1370,New,Net Banking,3,30427,10607,24,19820,65.14
+133,2022-05-13,Mumbai,North,Electronics,Sofa,1372,Returning,Cash,7,17980,13442,27,4538,25.24
+134,2022-05-14,Delhi,South,Groceries,Sofa,1972,Returning,Net Banking,4,11866,19991,9,-8125,-68.47
+135,2022-05-15,Hyderabad,West,Furniture,Table,1496,New,Net Banking,8,4889,17186,16,-12297,-251.52
+136,2022-05-16,Hyderabad,North,Groceries,Table,1598,Returning,UPI,9,49226,5033,28,44193,89.78
+137,2022-05-17,Mumbai,North,Groceries,Shirt,1200,New,Cash,3,32335,19657,7,12678,39.21
+138,2022-05-18,Bangalore,North,Furniture,Laptop,1848,New,Card,5,27162,24083,21,3079,11.34
+139,2022-05-19,Bangalore,North,Clothing,Shirt,1508,New,Cash,4,24913,4781,0,20132,80.81
+140,2022-05-20,Delhi,North,Groceries,Laptop,1321,Returning,Net Banking,6,25687,28321,19,-2634,-10.25
+141,2022-05-21,Chennai,West,Clothing,Shirt,1274,Returning,Card,4,34220,5268,20,28952,84.61
+142,2022-05-22,Delhi,West,Furniture,Mobile,1210,Returning,Cash,8,11995,17884,6,-5889,-49.1
+143,2022-05-23,Mumbai,North,Electronics,Mobile,1503,New,Cash,3,3631,28910,23,-25279,-696.2
+144,2022-05-24,Mumbai,South,Electronics,Rice,1902,New,Cash,5,35954,12698,8,23256,64.68
+145,2022-05-25,Mumbai,West,Groceries,Shirt,1117,New,Cash,1,6967,29854,27,-22887,-328.51
+146,2022-05-26,Mumbai,South,Furniture,Table,1702,Returning,UPI,6,23758,18602,11,5156,21.7
+147,2022-05-27,Mumbai,West,Clothing,Sofa,1553,New,Cash,5,22742,7669,21,15073,66.28
+148,2022-05-28,Hyderabad,North,Groceries,Rice,1041,New,Net Banking,8,38116,7861,25,30255,79.38
+149,2022-05-29,Bangalore,West,Furniture,Table,1314,Returning,Net Banking,9,27580,4330,8,23250,84.3
+150,2022-05-30,Mumbai,North,Furniture,Mobile,1787,Returning,UPI,8,35227,24038,19,11189,31.76
+151,2022-05-31,Chennai,West,Clothing,Shirt,1328,Returning,Card,8,2942,21904,23,-18962,-644.53
+152,2022-06-01,Chennai,North,Groceries,Rice,1016,New,Card,3,48664,28257,2,20407,41.93
+153,2022-06-02,Chennai,North,Furniture,Shirt,1282,New,Net Banking,4,29069,3382,3,25687,88.37
+154,2022-06-03,Chennai,North,Furniture,Mobile,1942,New,Net Banking,4,22806,1498,9,21308,93.43
+155,2022-06-04,Hyderabad,North,Furniture,Rice,1257,Returning,UPI,5,15407,16442,3,-1035,-6.72
+156,2022-06-05,Chennai,South,Clothing,Mobile,1574,Returning,Card,9,49390,17168,21,32222,65.24
+157,2022-06-06,Mumbai,North,Groceries,Laptop,1573,Returning,Card,9,15557,16746,8,-1189,-7.64
+158,2022-06-07,Delhi,South,Groceries,Mobile,1611,Returning,Cash,1,17445,25496,21,-8051,-46.15
+159,2022-06-08,Chennai,South,Groceries,Shirt,1018,New,Cash,8,18878,19044,0,-166,-0.88
+160,2022-06-09,Hyderabad,North,Groceries,Sofa,1528,New,Cash,1,18564,3565,4,14999,80.8
+161,2022-06-10,Hyderabad,South,Electronics,Mobile,1836,New,UPI,2,14093,10967,8,3126,22.18
+162,2022-06-11,Chennai,West,Electronics,Table,1422,New,Net Banking,7,36556,18378,4,18178,49.73
+163,2022-06-12,Delhi,North,Groceries,Sofa,1465,New,UPI,8,27451,12576,5,14875,54.19
+164,2022-06-13,Chennai,South,Clothing,Laptop,1372,New,Card,1,44168,21507,18,22661,51.31
+165,2022-06-14,Hyderabad,North,Electronics,Rice,1757,New,Net Banking,3,25086,3043,7,22043,87.87
+166,2022-06-15,Bangalore,North,Furniture,Rice,1762,New,Cash,7,17489,29202,9,-11713,-66.97
+167,2022-06-16,Mumbai,North,Electronics,Sofa,1966,Returning,UPI,9,29004,29333,10,-329,-1.13
+168,2022-06-17,Hyderabad,South,Furniture,Rice,1080,Returning,UPI,8,21471,10533,12,10938,50.94
+169,2022-06-18,Chennai,West,Groceries,Mobile,1550,New,Cash,8,27284,21684,19,5600,20.52
+170,2022-06-19,Mumbai,West,Electronics,Sofa,1547,Returning,UPI,9,37693,25797,3,11896,31.56
+171,2022-06-20,Chennai,South,Clothing,Shirt,1423,New,Cash,3,19292,1901,10,17391,90.15
+172,2022-06-21,Chennai,North,Electronics,Mobile,1428,New,Card,8,19433,17329,11,2104,10.83
+173,2022-06-22,Bangalore,South,Electronics,Mobile,1387,Returning,Net Banking,1,15568,27867,4,-12299,-79.0
+174,2022-06-23,Mumbai,South,Electronics,Mobile,1997,New,Card,8,46424,5022,29,41402,89.18
+175,2022-06-24,Mumbai,South,Groceries,Shirt,1920,New,Card,7,10466,20651,9,-10185,-97.32
+176,2022-06-25,Bangalore,North,Clothing,Laptop,1708,New,Cash,8,26521,3051,24,23470,88.5
+177,2022-06-26,Hyderabad,South,Electronics,Table,1669,New,UPI,1,37672,22530,28,15142,40.19
+178,2022-06-27,Chennai,North,Clothing,Rice,1203,New,Card,6,16467,27043,23,-10576,-64.23
+179,2022-06-28,Delhi,South,Groceries,Sofa,1195,New,Card,7,33019,20772,6,12247,37.09
+180,2022-06-29,Chennai,West,Furniture,Laptop,1727,New,Card,5,11419,5316,20,6103,53.45
+181,2022-06-30,Chennai,South,Electronics,Sofa,1284,Returning,UPI,5,17676,19615,8,-1939,-10.97
+182,2022-07-01,Hyderabad,South,Clothing,Rice,1968,Returning,UPI,7,30255,8199,8,22056,72.9
+183,2022-07-02,Chennai,West,Clothing,Shirt,1195,New,Cash,3,32514,3129,9,29385,90.38
+184,2022-07-03,Bangalore,North,Groceries,Mobile,1306,Returning,Card,6,44182,8187,9,35995,81.47
+185,2022-07-04,Bangalore,North,Electronics,Mobile,1663,New,Net Banking,7,23650,10656,1,12994,54.94
+186,2022-07-05,Mumbai,South,Furniture,Shirt,1013,New,UPI,1,23754,17941,3,5813,24.47
+187,2022-07-06,Delhi,West,Clothing,Laptop,1836,New,Cash,2,13165,29907,7,-16742,-127.17
+188,2022-07-07,Chennai,North,Electronics,Laptop,1145,New,Card,4,11683,7334,28,4349,37.23
+189,2022-07-08,Chennai,South,Furniture,Sofa,1937,Returning,Net Banking,8,33556,25833,13,7723,23.02
+190,2022-07-09,Hyderabad,West,Clothing,Shirt,1056,Returning,UPI,6,16442,18679,16,-2237,-13.61
+191,2022-07-10,Bangalore,North,Clothing,Laptop,1722,Returning,Net Banking,1,5860,26719,12,-20859,-355.96
+192,2022-07-11,Delhi,North,Furniture,Shirt,1779,Returning,UPI,5,4729,5349,20,-620,-13.11
+193,2022-07-12,Mumbai,West,Furniture,Rice,1209,New,Cash,7,32351,16282,23,16069,49.67
+194,2022-07-13,Bangalore,West,Groceries,Mobile,1528,Returning,Net Banking,6,48168,16327,17,31841,66.1
+195,2022-07-14,Mumbai,West,Electronics,Mobile,1797,New,Card,9,25346,25099,17,247,0.97
+196,2022-07-15,Hyderabad,West,Electronics,Mobile,1343,New,Card,8,9619,9931,12,-312,-3.24
+197,2022-07-16,Hyderabad,South,Groceries,Shirt,1714,Returning,UPI,4,12164,4650,7,7514,61.77
+198,2022-07-17,Chennai,West,Clothing,Shirt,1610,New,Card,5,39878,11789,25,28089,70.44
+199,2022-07-18,Delhi,North,Furniture,Sofa,1278,Returning,Net Banking,7,7955,9996,11,-2041,-25.66
+200,2022-07-19,Mumbai,North,Furniture,Mobile,1208,Returning,Cash,8,1106,23831,24,-22725,-2054.7
+201,2022-07-20,Bangalore,South,Furniture,Sofa,1640,Returning,UPI,5,5754,6970,22,-1216,-21.13
+202,2022-07-21,Hyderabad,North,Clothing,Mobile,1334,Returning,Net Banking,9,45293,13757,23,31536,69.63
+203,2022-07-22,Chennai,North,Furniture,Sofa,1287,Returning,UPI,4,22662,27618,20,-4956,-21.87
+204,2022-07-23,Chennai,West,Furniture,Sofa,1251,New,Cash,4,7408,24063,0,-16655,-224.82
+205,2022-07-24,Mumbai,North,Groceries,Rice,1264,Returning,UPI,8,41403,4212,19,37191,89.83
+206,2022-07-25,Hyderabad,South,Clothing,Sofa,1270,Returning,Card,1,2225,29031,17,-26806,-1204.76
+207,2022-07-26,Delhi,West,Electronics,Shirt,1923,New,Card,8,13196,13221,2,-25,-0.19
+208,2022-07-27,Hyderabad,West,Groceries,Sofa,1919,Returning,UPI,5,5250,12995,11,-7745,-147.52
+209,2022-07-28,Mumbai,South,Groceries,Mobile,1699,Returning,Cash,1,16372,12920,18,3452,21.08
+210,2022-07-29,Mumbai,West,Electronics,Sofa,1418,New,Cash,4,18279,22342,24,-4063,-22.23
+211,2022-07-30,Hyderabad,West,Groceries,Laptop,1725,New,Card,2,45865,5815,12,40050,87.32
+212,2022-07-31,Mumbai,South,Clothing,Table,1794,Returning,Cash,4,31193,5881,9,25312,81.15
+213,2022-08-01,Hyderabad,West,Furniture,Mobile,1210,New,UPI,8,45823,9997,14,35826,78.18
+214,2022-08-02,Bangalore,South,Clothing,Laptop,1364,Returning,Net Banking,5,27868,29540,19,-1672,-6.0
+215,2022-08-03,Hyderabad,South,Electronics,Mobile,1075,New,UPI,1,39187,20058,1,19129,48.81
+216,2022-08-04,Hyderabad,North,Electronics,Shirt,1659,Returning,Card,7,49481,13994,18,35487,71.72
+217,2022-08-05,Mumbai,North,Groceries,Table,1320,Returning,Card,1,29475,28704,2,771,2.62
+218,2022-08-06,Mumbai,West,Clothing,Table,1724,Returning,Card,9,45552,23271,13,22281,48.91
+219,2022-08-07,Chennai,West,Clothing,Shirt,1432,New,Cash,3,3433,25857,6,-22424,-653.19
+220,2022-08-08,Chennai,South,Electronics,Table,1108,Returning,UPI,3,11998,23651,7,-11653,-97.12
+221,2022-08-09,Bangalore,West,Clothing,Shirt,1640,New,Net Banking,6,45343,17450,28,27893,61.52
+222,2022-08-10,Chennai,South,Electronics,Laptop,1521,Returning,UPI,6,32133,16252,10,15881,49.42
+223,2022-08-11,Hyderabad,South,Clothing,Rice,1046,Returning,Net Banking,6,35069,5122,28,29947,85.39
+224,2022-08-12,Mumbai,West,Clothing,Mobile,1378,Returning,UPI,1,7858,4632,21,3226,41.05
+225,2022-08-13,Chennai,South,Clothing,Shirt,1826,Returning,Card,5,9950,29349,19,-19399,-194.96
+226,2022-08-14,Chennai,North,Electronics,Mobile,1095,Returning,Net Banking,6,9938,9330,5,608,6.12
+227,2022-08-15,Bangalore,West,Groceries,Laptop,1957,New,UPI,8,26168,28776,28,-2608,-9.97
+228,2022-08-16,Bangalore,North,Clothing,Rice,1102,New,Cash,1,33099,7495,10,25604,77.36
+229,2022-08-17,Hyderabad,West,Electronics,Laptop,1891,New,Cash,5,6644,21051,16,-14407,-216.84
+230,2022-08-18,Mumbai,South,Electronics,Table,1853,Returning,UPI,3,44846,27475,28,17371,38.73
+231,2022-08-19,Bangalore,West,Clothing,Mobile,1145,Returning,Card,2,10260,3170,9,7090,69.1
+232,2022-08-20,Chennai,North,Clothing,Rice,1879,New,Net Banking,8,48458,9864,23,38594,79.64
+233,2022-08-21,Mumbai,South,Groceries,Table,1941,Returning,UPI,7,37075,26796,16,10279,27.72
+234,2022-08-22,Mumbai,West,Electronics,Rice,1927,Returning,Cash,7,17488,25180,20,-7692,-43.98
+235,2022-08-23,Chennai,West,Electronics,Table,1026,Returning,Net Banking,5,1395,18566,1,-17171,-1230.9
+236,2022-08-24,Bangalore,West,Furniture,Laptop,1731,New,Cash,9,11845,29392,5,-17547,-148.14
+237,2022-08-25,Chennai,North,Electronics,Shirt,1529,New,Cash,5,37059,10541,24,26518,71.56
+238,2022-08-26,Mumbai,North,Groceries,Mobile,1678,New,UPI,2,19394,9554,4,9840,50.74
+239,2022-08-27,Delhi,West,Furniture,Sofa,1944,New,Cash,3,29457,12137,3,17320,58.8
+240,2022-08-28,Delhi,South,Furniture,Sofa,1988,New,Net Banking,4,46906,11257,29,35649,76.0
+241,2022-08-29,Hyderabad,South,Furniture,Laptop,1081,Returning,Card,5,38305,8990,1,29315,76.53
+242,2022-08-30,Chennai,North,Clothing,Mobile,1427,Returning,UPI,3,43628,27984,11,15644,35.86
+243,2022-08-31,Chennai,South,Clothing,Mobile,1583,Returning,Net Banking,7,22352,12829,2,9523,42.6
+244,2022-09-01,Hyderabad,North,Electronics,Laptop,1821,Returning,UPI,5,22146,1270,5,20876,94.27
+245,2022-09-02,Hyderabad,West,Furniture,Mobile,1478,New,Cash,5,18435,27615,23,-9180,-49.8
+246,2022-09-03,Hyderabad,North,Groceries,Shirt,1765,New,Cash,6,40386,26538,13,13848,34.29
+247,2022-09-04,Mumbai,North,Clothing,Laptop,1161,Returning,Net Banking,7,38491,4354,7,34137,88.69
+248,2022-09-05,Chennai,West,Groceries,Shirt,1838,New,Net Banking,8,20968,3618,20,17350,82.75
+249,2022-09-06,Mumbai,South,Groceries,Mobile,1931,Returning,Card,9,48605,19016,20,29589,60.88
+250,2022-09-07,Hyderabad,North,Clothing,Laptop,1401,Returning,Net Banking,4,9539,10401,25,-862,-9.04
+251,2022-09-08,Chennai,North,Clothing,Mobile,1507,Returning,Net Banking,5,2263,24109,13,-21846,-965.36
+252,2022-09-09,Mumbai,West,Clothing,Laptop,1037,Returning,UPI,5,14305,17874,28,-3569,-24.95
+253,2022-09-10,Mumbai,South,Clothing,Mobile,1954,New,Cash,8,25398,17594,2,7804,30.73
+254,2022-09-11,Hyderabad,North,Furniture,Shirt,1510,Returning,Net Banking,9,44702,21188,15,23514,52.6
+255,2022-09-12,Chennai,West,Furniture,Shirt,1392,New,Card,7,33080,22251,14,10829,32.74
+256,2022-09-13,Hyderabad,North,Furniture,Mobile,1712,Returning,Net Banking,5,11265,14022,6,-2757,-24.47
+257,2022-09-14,Chennai,West,Furniture,Laptop,1493,Returning,Cash,3,33152,538,14,32614,98.38
+258,2022-09-15,Delhi,South,Electronics,Sofa,1199,Returning,Net Banking,1,28724,18159,12,10565,36.78
+259,2022-09-16,Bangalore,South,Furniture,Shirt,1254,Returning,UPI,9,31624,16502,5,15122,47.82
+260,2022-09-17,Bangalore,South,Clothing,Shirt,1178,New,Cash,5,35119,23953,14,11166,31.79
+261,2022-09-18,Bangalore,South,Groceries,Table,1546,Returning,Net Banking,9,40958,5357,16,35601,86.92
+262,2022-09-19,Hyderabad,North,Furniture,Sofa,1593,New,UPI,4,30389,16812,3,13577,44.68
+263,2022-09-20,Delhi,North,Electronics,Mobile,1388,Returning,Cash,5,17650,1936,21,15714,89.03
+264,2022-09-21,Chennai,South,Clothing,Laptop,1397,Returning,Net Banking,4,27014,28069,26,-1055,-3.91
+265,2022-09-22,Mumbai,South,Groceries,Table,1731,Returning,UPI,2,11885,26545,21,-14660,-123.35
+266,2022-09-23,Chennai,South,Groceries,Mobile,1157,New,Card,1,8434,18983,26,-10549,-125.08
+267,2022-09-24,Mumbai,North,Furniture,Rice,1003,Returning,UPI,8,31028,25449,13,5579,17.98
+268,2022-09-25,Chennai,South,Groceries,Shirt,1166,Returning,Card,4,2022,8193,14,-6171,-305.19
+269,2022-09-26,Delhi,South,Furniture,Rice,1467,Returning,Net Banking,5,25331,13718,27,11613,45.85
+270,2022-09-27,Mumbai,South,Furniture,Shirt,1959,Returning,UPI,6,3037,4751,11,-1714,-56.44
+271,2022-09-28,Hyderabad,West,Clothing,Shirt,1408,Returning,Card,8,9756,20909,18,-11153,-114.32
+272,2022-09-29,Chennai,South,Clothing,Rice,1411,New,Cash,8,47326,9805,21,37521,79.28
+273,2022-09-30,Chennai,West,Electronics,Rice,1203,New,UPI,7,18443,27802,27,-9359,-50.75
+274,2022-10-01,Mumbai,West,Clothing,Mobile,1193,Returning,Net Banking,4,35192,11090,9,24102,68.49
+275,2022-10-02,Hyderabad,South,Clothing,Table,1234,Returning,Cash,6,5123,23096,5,-17973,-350.83
+276,2022-10-03,Hyderabad,West,Furniture,Table,1717,New,Card,4,17603,20118,27,-2515,-14.29
+277,2022-10-04,Delhi,South,Clothing,Rice,1149,Returning,UPI,7,1405,26341,24,-24936,-1774.8
+278,2022-10-05,Hyderabad,North,Furniture,Mobile,1158,New,UPI,1,43597,8162,8,35435,81.28
+279,2022-10-06,Hyderabad,North,Furniture,Table,1278,Returning,Net Banking,5,19702,24434,1,-4732,-24.02
+280,2022-10-07,Hyderabad,North,Clothing,Mobile,1815,Returning,Cash,4,43719,3623,3,40096,91.71
+281,2022-10-08,Bangalore,North,Electronics,Mobile,1403,New,UPI,7,27250,17537,8,9713,35.64
+282,2022-10-09,Delhi,West,Electronics,Shirt,1892,Returning,UPI,9,42751,4658,14,38093,89.1
+283,2022-10-10,Chennai,South,Groceries,Table,1677,New,Cash,5,22442,9200,29,13242,59.01
+284,2022-10-11,Mumbai,South,Groceries,Table,1310,New,UPI,4,18693,11031,12,7662,40.99
+285,2022-10-12,Chennai,South,Clothing,Shirt,1067,New,Cash,9,25005,28238,19,-3233,-12.93
+286,2022-10-13,Delhi,North,Electronics,Rice,1462,Returning,Cash,5,45793,10379,7,35414,77.33
+287,2022-10-14,Mumbai,North,Furniture,Shirt,1087,New,Cash,9,38697,6043,25,32654,84.38
+288,2022-10-15,Delhi,South,Groceries,Table,1216,New,Net Banking,8,29988,14480,27,15508,51.71
+289,2022-10-16,Hyderabad,North,Furniture,Table,1000,Returning,Cash,4,33333,15656,18,17677,53.03
+290,2022-10-17,Mumbai,South,Groceries,Rice,1134,Returning,Cash,7,30992,10080,18,20912,67.48
+291,2022-10-18,Hyderabad,South,Clothing,Shirt,1696,Returning,Card,5,10522,19081,24,-8559,-81.34
+292,2022-10-19,Chennai,South,Electronics,Laptop,1350,Returning,Card,4,46406,4411,15,41995,90.49
+293,2022-10-20,Chennai,South,Groceries,Laptop,1139,Returning,Net Banking,5,42470,14082,10,28388,66.84
+294,2022-10-21,Mumbai,South,Electronics,Rice,1617,Returning,Cash,5,44532,11620,9,32912,73.91
+295,2022-10-22,Mumbai,South,Furniture,Shirt,1132,New,Card,9,13121,5735,7,7386,56.29
+296,2022-10-23,Delhi,South,Clothing,Shirt,1619,Returning,Card,9,15219,5299,0,9920,65.18
+297,2022-10-24,Delhi,North,Electronics,Mobile,1177,New,UPI,6,2617,25591,9,-22974,-877.88
+298,2022-10-25,Hyderabad,South,Clothing,Table,1809,Returning,Cash,4,44016,28734,29,15282,34.72
+299,2022-10-26,Mumbai,South,Electronics,Sofa,1357,New,Card,2,25276,14725,17,10551,41.74
+300,2022-10-27,Chennai,North,Furniture,Rice,1379,New,Net Banking,3,35351,26909,2,8442,23.88
+301,2022-10-28,Delhi,North,Furniture,Sofa,1907,Returning,UPI,2,7704,22244,29,-14540,-188.73
+302,2022-10-29,Delhi,North,Clothing,Sofa,1870,Returning,UPI,5,41756,25105,10,16651,39.88
+303,2022-10-30,Chennai,South,Furniture,Rice,1657,New,Cash,6,18959,28290,17,-9331,-49.22
+304,2022-10-31,Delhi,West,Groceries,Shirt,1449,Returning,Cash,5,29522,17209,2,12313,41.71
+305,2022-11-01,Hyderabad,West,Electronics,Rice,1585,Returning,UPI,2,10953,4266,7,6687,61.05
+306,2022-11-02,Mumbai,North,Furniture,Sofa,1462,New,Net Banking,5,27567,4611,26,22956,83.27
+307,2022-11-03,Chennai,West,Groceries,Table,1989,New,Cash,9,23560,25186,26,-1626,-6.9
+308,2022-11-04,Mumbai,North,Clothing,Table,1107,New,Cash,4,3613,7515,27,-3902,-108.0
+309,2022-11-05,Delhi,South,Groceries,Table,1121,Returning,UPI,2,37660,7356,13,30304,80.47
+310,2022-11-06,Delhi,West,Clothing,Shirt,1016,Returning,UPI,3,46104,16990,5,29114,63.15
+311,2022-11-07,Chennai,South,Clothing,Laptop,1195,Returning,Cash,3,40501,2926,14,37575,92.78
+312,2022-11-08,Hyderabad,West,Electronics,Rice,1326,Returning,Card,9,38199,14997,13,23202,60.74
+313,2022-11-09,Bangalore,South,Electronics,Table,1317,New,Cash,4,25496,21262,6,4234,16.61
+314,2022-11-10,Chennai,West,Groceries,Rice,1808,Returning,Card,1,18765,21248,9,-2483,-13.23
+315,2022-11-11,Bangalore,South,Electronics,Table,1478,New,UPI,1,26721,19415,14,7306,27.34
+316,2022-11-12,Bangalore,South,Electronics,Shirt,1251,Returning,Card,7,4515,23694,28,-19179,-424.78
+317,2022-11-13,Hyderabad,West,Electronics,Laptop,1502,Returning,Net Banking,7,5454,11836,9,-6382,-117.02
+318,2022-11-14,Bangalore,South,Groceries,Laptop,1998,New,UPI,2,41537,5816,21,35721,86.0
+319,2022-11-15,Bangalore,South,Furniture,Table,1118,Returning,Cash,9,23873,5862,16,18011,75.45
+320,2022-11-16,Hyderabad,South,Electronics,Shirt,1673,Returning,Cash,9,9384,5193,26,4191,44.66
+321,2022-11-17,Bangalore,West,Electronics,Mobile,1709,New,UPI,5,14727,9490,18,5237,35.56
+322,2022-11-18,Bangalore,West,Groceries,Rice,1497,Returning,UPI,3,4534,15633,28,-11099,-244.79
+323,2022-11-19,Bangalore,South,Furniture,Rice,1485,New,Net Banking,3,34523,22152,16,12371,35.83
+324,2022-11-20,Chennai,South,Electronics,Sofa,1044,New,UPI,3,32889,14678,11,18211,55.37
+325,2022-11-21,Chennai,West,Clothing,Shirt,1313,New,Cash,6,26465,11129,14,15336,57.95
+326,2022-11-22,Chennai,West,Groceries,Sofa,1178,New,Net Banking,4,31593,18895,25,12698,40.19
+327,2022-11-23,Hyderabad,South,Electronics,Table,1893,Returning,Cash,8,22330,15251,11,7079,31.7
+328,2022-11-24,Delhi,South,Electronics,Sofa,1417,Returning,Card,5,9302,925,24,8377,90.06
+329,2022-11-25,Bangalore,South,Clothing,Laptop,1555,Returning,UPI,1,13907,3544,28,10363,74.52
+330,2022-11-26,Bangalore,North,Clothing,Rice,1782,New,Card,9,25430,11980,8,13450,52.89
+331,2022-11-27,Hyderabad,West,Groceries,Sofa,1077,Returning,Cash,1,42752,11606,4,31146,72.85
+332,2022-11-28,Bangalore,North,Groceries,Laptop,1325,Returning,Card,6,48153,6729,3,41424,86.03
+333,2022-11-29,Chennai,West,Clothing,Shirt,1689,Returning,Card,1,8181,1739,11,6442,78.74
+334,2022-11-30,Delhi,West,Groceries,Sofa,1356,Returning,Cash,3,47213,7066,15,40147,85.03
+335,2022-12-01,Mumbai,West,Clothing,Table,1415,New,Cash,5,13875,20275,8,-6400,-46.13
+336,2022-12-02,Bangalore,West,Electronics,Table,1962,New,UPI,7,28219,4713,24,23506,83.3
+337,2022-12-03,Chennai,West,Clothing,Table,1514,Returning,Card,8,37182,20881,2,16301,43.84
+338,2022-12-04,Mumbai,West,Clothing,Rice,1213,New,Net Banking,9,16005,3506,20,12499,78.09
+339,2022-12-05,Delhi,West,Furniture,Sofa,1853,Returning,Net Banking,6,43269,7525,2,35744,82.61
+340,2022-12-06,Mumbai,North,Clothing,Shirt,1073,Returning,Cash,9,15245,19923,25,-4678,-30.69
+341,2022-12-07,Chennai,South,Clothing,Sofa,1562,Returning,Cash,8,7457,7058,17,399,5.35
+342,2022-12-08,Mumbai,South,Furniture,Rice,1578,New,Card,9,7749,25674,16,-17925,-231.32
+343,2022-12-09,Hyderabad,North,Groceries,Laptop,1508,Returning,Cash,4,34064,27163,27,6901,20.26
+344,2022-12-10,Mumbai,North,Furniture,Rice,1331,New,Net Banking,9,10821,1684,9,9137,84.44
+345,2022-12-11,Bangalore,North,Electronics,Table,1092,New,UPI,7,33761,27826,1,5935,17.58
+346,2022-12-12,Bangalore,North,Furniture,Laptop,1687,Returning,UPI,5,39051,19468,23,19583,50.15
+347,2022-12-13,Hyderabad,West,Electronics,Table,1656,New,Card,5,14119,29835,10,-15716,-111.31
+348,2022-12-14,Chennai,South,Groceries,Mobile,1518,New,UPI,1,8664,14930,23,-6266,-72.32
+349,2022-12-15,Bangalore,West,Furniture,Rice,1268,Returning,Cash,2,30281,28589,2,1692,5.59
+350,2022-12-16,Delhi,South,Furniture,Rice,1375,New,Cash,3,41279,8602,22,32677,79.16
+351,2022-12-17,Bangalore,South,Groceries,Shirt,1833,New,Cash,8,32821,14369,22,18452,56.22
+352,2022-12-18,Bangalore,North,Electronics,Sofa,1003,Returning,Cash,6,39233,7616,1,31617,80.59
+353,2022-12-19,Chennai,West,Furniture,Laptop,1137,Returning,Card,5,25647,13437,8,12210,47.61
+354,2022-12-20,Mumbai,North,Electronics,Laptop,1230,New,UPI,1,46325,29130,18,17195,37.12
+355,2022-12-21,Bangalore,West,Furniture,Shirt,1599,Returning,Net Banking,9,5382,4883,1,499,9.27
+356,2022-12-22,Hyderabad,South,Clothing,Shirt,1528,Returning,UPI,3,17449,20820,27,-3371,-19.32
+357,2022-12-23,Mumbai,North,Furniture,Sofa,1051,New,Cash,3,18263,18583,18,-320,-1.75
+358,2022-12-24,Delhi,North,Groceries,Table,1645,New,Net Banking,2,25643,5007,1,20636,80.47
+359,2022-12-25,Chennai,South,Groceries,Sofa,1722,Returning,Card,4,10408,15235,14,-4827,-46.38
+360,2022-12-26,Delhi,South,Electronics,Rice,1324,New,Cash,2,24606,27651,23,-3045,-12.38
+361,2022-12-27,Mumbai,South,Furniture,Table,1991,Returning,Cash,9,28603,17019,20,11584,40.5
+362,2022-12-28,Mumbai,North,Electronics,Mobile,1969,Returning,Net Banking,7,47458,2525,2,44933,94.68
+363,2022-12-29,Mumbai,West,Electronics,Sofa,1904,New,Card,8,6069,20419,4,-14350,-236.45
+364,2022-12-30,Delhi,North,Clothing,Shirt,1730,New,Net Banking,3,20623,5354,10,15269,74.04
+365,2022-12-31,Mumbai,West,Clothing,Table,1716,Returning,Card,6,45440,5867,26,39573,87.09
+366,2023-01-01,Delhi,North,Groceries,Sofa,1722,Returning,Cash,6,17891,3390,23,14501,81.05
+367,2023-01-02,Mumbai,North,Electronics,Laptop,1276,Returning,UPI,1,8704,19641,6,-10937,-125.65
+368,2023-01-03,Hyderabad,South,Groceries,Mobile,1535,Returning,Cash,6,29290,4273,5,25017,85.41
+369,2023-01-04,Mumbai,West,Furniture,Rice,1485,New,UPI,3,28460,25456,13,3004,10.56
+370,2023-01-05,Delhi,North,Electronics,Laptop,1515,Returning,UPI,3,18509,23536,28,-5027,-27.16
+371,2023-01-06,Bangalore,North,Electronics,Laptop,1151,New,Card,3,18269,16319,0,1950,10.67
+372,2023-01-07,Mumbai,South,Furniture,Mobile,1954,New,Net Banking,8,8975,2028,25,6947,77.4
+373,2023-01-08,Bangalore,South,Furniture,Rice,1482,Returning,Card,5,45837,29977,16,15860,34.6
+374,2023-01-09,Hyderabad,West,Groceries,Shirt,1258,New,Cash,4,7565,21455,16,-13890,-183.61
+375,2023-01-10,Chennai,North,Groceries,Table,1323,New,Net Banking,9,23467,12320,13,11147,47.5
+376,2023-01-11,Hyderabad,West,Furniture,Rice,1868,Returning,UPI,9,5870,5549,9,321,5.47
+377,2023-01-12,Mumbai,North,Groceries,Sofa,1167,New,UPI,1,19909,1348,29,18561,93.23
+378,2023-01-13,Bangalore,West,Furniture,Laptop,1687,New,Cash,2,10117,21011,7,-10894,-107.68
+379,2023-01-14,Bangalore,South,Electronics,Sofa,1309,Returning,Net Banking,8,2938,10619,7,-7681,-261.44
+380,2023-01-15,Delhi,North,Electronics,Shirt,1802,Returning,Cash,5,29390,10857,13,18533,63.06
+381,2023-01-16,Bangalore,West,Clothing,Sofa,1478,Returning,Cash,7,45322,16667,6,28655,63.23
+382,2023-01-17,Delhi,South,Electronics,Rice,1055,Returning,Card,1,37000,24235,5,12765,34.5
+383,2023-01-18,Chennai,South,Furniture,Sofa,1619,Returning,Cash,5,21128,12978,3,8150,38.57
+384,2023-01-19,Mumbai,West,Groceries,Shirt,1472,Returning,Net Banking,3,32781,22750,0,10031,30.6
+385,2023-01-20,Delhi,North,Clothing,Shirt,1295,Returning,Cash,2,4465,22753,14,-18288,-409.59
+386,2023-01-21,Chennai,North,Groceries,Shirt,1460,New,Net Banking,2,1440,2621,24,-1181,-82.01
+387,2023-01-22,Bangalore,South,Furniture,Rice,1323,New,UPI,9,6413,13410,14,-6997,-109.11
+388,2023-01-23,Bangalore,North,Electronics,Shirt,1813,Returning,Cash,4,12663,27994,0,-15331,-121.07
+389,2023-01-24,Chennai,North,Clothing,Laptop,1845,New,Net Banking,4,39523,5181,19,34342,86.89
+390,2023-01-25,Bangalore,North,Furniture,Shirt,1140,New,UPI,7,38780,15255,2,23525,60.66
+391,2023-01-26,Chennai,South,Clothing,Sofa,1666,Returning,Net Banking,2,20547,972,22,19575,95.27
+392,2023-01-27,Delhi,West,Clothing,Table,1261,New,UPI,3,17126,18671,4,-1545,-9.02
+393,2023-01-28,Delhi,North,Electronics,Sofa,1784,Returning,Card,3,40520,613,4,39907,98.49
+394,2023-01-29,Chennai,South,Furniture,Table,1419,New,Cash,6,1005,14190,3,-13185,-1311.94
+395,2023-01-30,Delhi,South,Groceries,Sofa,1743,Returning,Cash,3,38544,26412,16,12132,31.48
+396,2023-01-31,Delhi,West,Clothing,Rice,1240,New,UPI,5,8038,6973,20,1065,13.25
+397,2023-02-01,Delhi,North,Clothing,Sofa,1354,New,Card,4,7414,9030,19,-1616,-21.8
+398,2023-02-02,Hyderabad,North,Groceries,Rice,1848,New,Net Banking,3,23123,19169,13,3954,17.1
+399,2023-02-03,Mumbai,West,Furniture,Rice,1769,Returning,Card,8,4970,1696,25,3274,65.88
+400,2023-02-04,Bangalore,West,Clothing,Shirt,1760,New,Net Banking,3,12050,16962,28,-4912,-40.76
+401,2023-02-05,Hyderabad,South,Clothing,Laptop,1588,New,Net Banking,6,3606,21443,7,-17837,-494.65
+402,2023-02-06,Delhi,South,Clothing,Table,1179,Returning,Cash,7,17482,6517,1,10965,62.72
+403,2023-02-07,Chennai,West,Furniture,Shirt,1065,Returning,UPI,7,34293,3152,7,31141,90.81
+404,2023-02-08,Delhi,North,Furniture,Shirt,1819,New,Cash,2,7337,29733,0,-22396,-305.25
+405,2023-02-09,Mumbai,South,Groceries,Rice,1347,New,Cash,3,34948,29456,28,5492,15.71
+406,2023-02-10,Delhi,South,Furniture,Rice,1170,New,Cash,4,25451,21202,3,4249,16.69
+407,2023-02-11,Chennai,North,Furniture,Table,1473,New,Net Banking,7,27265,11332,18,15933,58.44
+408,2023-02-12,Mumbai,South,Electronics,Sofa,1533,Returning,Cash,2,26714,5885,4,20829,77.97
+409,2023-02-13,Delhi,North,Groceries,Sofa,1366,New,Net Banking,3,21875,15208,28,6667,30.48
+410,2023-02-14,Mumbai,North,Clothing,Shirt,1106,New,UPI,7,14057,26332,4,-12275,-87.32
+411,2023-02-15,Bangalore,North,Furniture,Mobile,1438,Returning,Net Banking,7,33400,23938,20,9462,28.33
+412,2023-02-16,Bangalore,West,Clothing,Mobile,1834,New,Net Banking,3,6922,17711,27,-10789,-155.87
+413,2023-02-17,Delhi,West,Clothing,Sofa,1226,New,Card,1,4071,15071,19,-11000,-270.2
+414,2023-02-18,Mumbai,West,Electronics,Mobile,1443,New,Cash,3,23025,27794,23,-4769,-20.71
+415,2023-02-19,Chennai,North,Furniture,Sofa,1441,Returning,Cash,5,28503,21807,18,6696,23.49
+416,2023-02-20,Delhi,North,Groceries,Rice,1395,Returning,Cash,7,24765,11502,11,13263,53.56
+417,2023-02-21,Bangalore,West,Furniture,Shirt,1727,New,Cash,4,36560,3885,19,32675,89.37
+418,2023-02-22,Bangalore,South,Clothing,Laptop,1580,New,Card,1,47612,22940,0,24672,51.82
+419,2023-02-23,Delhi,North,Groceries,Shirt,1083,Returning,Card,6,33782,2465,6,31317,92.7
+420,2023-02-24,Mumbai,South,Furniture,Sofa,1614,New,Card,2,19799,2927,16,16872,85.22
+421,2023-02-25,Bangalore,South,Clothing,Sofa,1550,New,Card,3,36453,3341,1,33112,90.83
+422,2023-02-26,Mumbai,North,Clothing,Shirt,1012,Returning,Cash,4,28476,25689,10,2787,9.79
+423,2023-02-27,Bangalore,North,Electronics,Table,1808,Returning,Net Banking,6,17212,25638,6,-8426,-48.95
+424,2023-02-28,Bangalore,South,Electronics,Sofa,1824,Returning,UPI,6,10428,7063,16,3365,32.27
+425,2023-03-01,Hyderabad,South,Electronics,Mobile,1692,New,Card,7,32419,14887,26,17532,54.08
+426,2023-03-02,Bangalore,West,Clothing,Mobile,1492,New,Net Banking,5,9159,6340,2,2819,30.78
+427,2023-03-03,Chennai,West,Furniture,Sofa,1267,New,Card,7,25310,15654,28,9656,38.15
+428,2023-03-04,Delhi,North,Electronics,Sofa,1524,New,Cash,2,37868,24694,21,13174,34.79
+429,2023-03-05,Delhi,West,Furniture,Table,1119,Returning,Cash,1,40142,14593,5,25549,63.65
+430,2023-03-06,Mumbai,West,Electronics,Mobile,1969,New,Net Banking,8,7004,22948,21,-15944,-227.64
+431,2023-03-07,Bangalore,West,Groceries,Sofa,1352,New,Net Banking,1,39289,24028,10,15261,38.84
+432,2023-03-08,Chennai,West,Groceries,Sofa,1056,Returning,Net Banking,2,12412,29902,28,-17490,-140.91
+433,2023-03-09,Mumbai,South,Electronics,Table,1039,Returning,Cash,6,12755,4852,17,7903,61.96
+434,2023-03-10,Hyderabad,North,Clothing,Table,1885,New,Cash,1,20017,684,17,19333,96.58
+435,2023-03-11,Mumbai,West,Electronics,Shirt,1335,Returning,UPI,3,4890,10884,21,-5994,-122.58
+436,2023-03-12,Mumbai,South,Electronics,Table,1639,Returning,Net Banking,7,29840,14819,9,15021,50.34
+437,2023-03-13,Bangalore,South,Clothing,Laptop,1172,New,UPI,8,18175,22693,4,-4518,-24.86
+438,2023-03-14,Hyderabad,South,Groceries,Mobile,1546,New,Card,4,10191,20949,29,-10758,-105.56
+439,2023-03-15,Mumbai,West,Furniture,Shirt,1258,New,UPI,3,1151,24065,22,-22914,-1990.79
+440,2023-03-16,Chennai,West,Electronics,Laptop,1887,New,Card,1,20447,8937,22,11510,56.29
+441,2023-03-17,Chennai,North,Clothing,Sofa,1516,Returning,Card,9,23751,29162,20,-5411,-22.78
+442,2023-03-18,Delhi,West,Electronics,Sofa,1729,Returning,UPI,6,30175,10926,23,19249,63.79
+443,2023-03-19,Hyderabad,West,Clothing,Shirt,1522,New,Net Banking,6,25288,8004,25,17284,68.35
+444,2023-03-20,Hyderabad,South,Furniture,Table,1893,New,Card,9,47629,24310,21,23319,48.96
+445,2023-03-21,Delhi,North,Furniture,Sofa,1838,Returning,Net Banking,1,48800,25941,14,22859,46.84
+446,2023-03-22,Mumbai,West,Groceries,Rice,1116,New,Cash,6,38367,18971,20,19396,50.55
+447,2023-03-23,Hyderabad,West,Clothing,Shirt,1183,New,Card,5,13274,1100,19,12174,91.71
+448,2023-03-24,Chennai,South,Clothing,Laptop,1905,New,Cash,6,13218,8304,22,4914,37.18
+449,2023-03-25,Chennai,South,Groceries,Shirt,1873,New,UPI,8,24792,13749,3,11043,44.54
+450,2023-03-26,Bangalore,West,Groceries,Mobile,1115,Returning,Net Banking,5,3977,6037,20,-2060,-51.8
+451,2023-03-27,Hyderabad,North,Clothing,Table,1161,New,UPI,2,18226,19917,20,-1691,-9.28
+452,2023-03-28,Mumbai,North,Groceries,Table,1578,Returning,Card,2,30022,18940,0,11082,36.91
+453,2023-03-29,Delhi,South,Furniture,Shirt,1711,New,Cash,5,4793,15185,14,-10392,-216.82
+454,2023-03-30,Delhi,South,Electronics,Sofa,1542,New,Card,3,2659,27207,16,-24548,-923.2
+455,2023-03-31,Mumbai,West,Furniture,Sofa,1586,Returning,UPI,3,38930,9224,18,29706,76.31
+456,2023-04-01,Bangalore,South,Groceries,Rice,1236,New,Net Banking,8,44473,5584,13,38889,87.44
+457,2023-04-02,Delhi,West,Clothing,Rice,1838,Returning,Net Banking,7,17040,2542,26,14498,85.08
+458,2023-04-03,Hyderabad,North,Clothing,Table,1065,New,Card,1,5270,24844,18,-19574,-371.42
+459,2023-04-04,Bangalore,North,Furniture,Rice,1069,New,Card,5,14286,17241,17,-2955,-20.68
+460,2023-04-05,Hyderabad,West,Clothing,Laptop,1808,New,Cash,9,4603,17261,27,-12658,-274.99
+461,2023-04-06,Chennai,South,Groceries,Rice,1446,New,UPI,4,47540,27295,1,20245,42.59
+462,2023-04-07,Bangalore,North,Furniture,Laptop,1415,New,Card,1,18600,13836,5,4764,25.61
+463,2023-04-08,Delhi,South,Clothing,Rice,1531,Returning,Cash,8,3291,21372,12,-18081,-549.41
+464,2023-04-09,Bangalore,North,Electronics,Table,1440,Returning,Card,5,14123,13914,16,209,1.48
+465,2023-04-10,Bangalore,West,Electronics,Table,1737,New,Net Banking,2,4811,5297,5,-486,-10.1
+466,2023-04-11,Bangalore,West,Groceries,Laptop,1945,New,Cash,1,14347,3807,20,10540,73.46
+467,2023-04-12,Bangalore,West,Clothing,Shirt,1463,Returning,Cash,3,32276,14221,21,18055,55.94
+468,2023-04-13,Hyderabad,North,Groceries,Table,1920,Returning,Card,9,47619,3096,4,44523,93.5
+469,2023-04-14,Chennai,South,Furniture,Shirt,1395,New,UPI,1,16513,17667,6,-1154,-6.99
+470,2023-04-15,Mumbai,South,Electronics,Sofa,1710,New,Net Banking,4,6142,22808,0,-16666,-271.34
+471,2023-04-16,Bangalore,South,Furniture,Laptop,1550,Returning,UPI,8,24246,19263,12,4983,20.55
+472,2023-04-17,Delhi,North,Clothing,Table,1656,New,Cash,8,26507,24715,18,1792,6.76
+473,2023-04-18,Bangalore,North,Groceries,Mobile,1556,Returning,UPI,8,27714,12295,21,15419,55.64
+474,2023-04-19,Delhi,North,Groceries,Sofa,1394,New,Cash,8,13194,15484,0,-2290,-17.36
+475,2023-04-20,Hyderabad,North,Groceries,Shirt,1325,Returning,UPI,4,8526,26058,12,-17532,-205.63
+476,2023-04-21,Delhi,North,Furniture,Table,1892,Returning,Card,8,20362,12634,10,7728,37.95
+477,2023-04-22,Mumbai,South,Electronics,Laptop,1918,New,UPI,9,47281,11282,26,35999,76.14
+478,2023-04-23,Chennai,North,Furniture,Rice,1090,Returning,Cash,7,45852,9734,6,36118,78.77
+479,2023-04-24,Delhi,North,Furniture,Mobile,1749,New,Net Banking,2,47117,22151,19,24966,52.99
+480,2023-04-25,Delhi,South,Clothing,Shirt,1069,New,Net Banking,9,48836,24522,2,24314,49.79
+481,2023-04-26,Chennai,North,Clothing,Sofa,1165,New,Net Banking,8,5595,19422,25,-13827,-247.13
+482,2023-04-27,Mumbai,South,Clothing,Laptop,1641,New,Cash,5,31394,15118,24,16276,51.84
+483,2023-04-28,Bangalore,South,Electronics,Mobile,1213,Returning,UPI,3,16402,17745,0,-1343,-8.19
+484,2023-04-29,Delhi,West,Electronics,Laptop,1851,New,Net Banking,7,28140,18760,7,9380,33.33
+485,2023-04-30,Chennai,West,Clothing,Table,1600,New,Net Banking,2,23595,10527,16,13068,55.38
+486,2023-05-01,Hyderabad,West,Clothing,Rice,1334,New,Net Banking,3,43723,14486,12,29237,66.87
+487,2023-05-02,Chennai,West,Electronics,Sofa,1763,New,Card,9,47764,12900,13,34864,72.99
+488,2023-05-03,Hyderabad,North,Groceries,Laptop,1368,Returning,Cash,4,25911,4026,4,21885,84.46
+489,2023-05-04,Mumbai,West,Electronics,Shirt,1860,New,Cash,4,26752,26761,25,-9,-0.03
+490,2023-05-05,Bangalore,South,Electronics,Table,1583,Returning,Cash,3,20405,12093,23,8312,40.74
+491,2023-05-06,Chennai,North,Electronics,Table,1676,Returning,Cash,5,25220,2122,21,23098,91.59
+492,2023-05-07,Delhi,West,Clothing,Sofa,1048,Returning,Cash,3,34953,6018,22,28935,82.78
+493,2023-05-08,Mumbai,South,Groceries,Table,1051,New,Card,9,37053,3157,26,33896,91.48
+494,2023-05-09,Chennai,North,Electronics,Shirt,1288,New,UPI,3,4447,18816,23,-14369,-323.12
+495,2023-05-10,Delhi,North,Clothing,Laptop,1789,New,Card,2,11662,9199,28,2463,21.12
+496,2023-05-11,Chennai,West,Furniture,Sofa,1625,New,Net Banking,5,5899,14455,5,-8556,-145.04
+497,2023-05-12,Hyderabad,North,Furniture,Table,1238,Returning,Card,6,29582,29637,26,-55,-0.19
+498,2023-05-13,Chennai,South,Electronics,Table,1132,Returning,Cash,1,49828,20362,21,29466,59.14
+499,2023-05-14,Chennai,North,Furniture,Shirt,1998,New,Card,6,2935,3156,26,-221,-7.53
+500,2023-05-15,Chennai,South,Groceries,Rice,1785,New,Cash,3,43213,26197,5,17016,39.38
+501,2023-05-16,Mumbai,North,Furniture,Rice,1165,New,Card,4,43042,17173,20,25869,60.1
+502,2023-05-17,Chennai,West,Furniture,Table,1373,New,Cash,6,11335,23895,7,-12560,-110.81
+503,2023-05-18,Delhi,South,Groceries,Laptop,1372,New,Net Banking,8,18669,6358,12,12311,65.94
+504,2023-05-19,Hyderabad,North,Electronics,Sofa,1804,New,Cash,9,9545,24207,17,-14662,-153.61
+505,2023-05-20,Hyderabad,North,Electronics,Table,1477,New,Card,6,41247,19713,22,21534,52.21
+506,2023-05-21,Chennai,North,Groceries,Mobile,1754,Returning,Net Banking,7,39023,10901,3,28122,72.07
+507,2023-05-22,Mumbai,South,Groceries,Sofa,1478,Returning,Card,5,19269,22846,16,-3577,-18.56
+508,2023-05-23,Mumbai,South,Groceries,Rice,1831,Returning,Net Banking,9,38830,21696,28,17134,44.13
+509,2023-05-24,Delhi,South,Furniture,Table,1649,Returning,UPI,4,8066,24148,4,-16082,-199.38
+510,2023-05-25,Chennai,West,Groceries,Shirt,1590,New,UPI,6,11712,26476,2,-14764,-126.06
+511,2023-05-26,Hyderabad,West,Clothing,Mobile,1681,New,UPI,5,16991,9258,3,7733,45.51
+512,2023-05-27,Mumbai,South,Furniture,Table,1634,New,Card,1,36790,1973,22,34817,94.64
+513,2023-05-28,Chennai,North,Electronics,Laptop,1687,New,Card,5,22649,13781,4,8868,39.15
+514,2023-05-29,Mumbai,West,Electronics,Mobile,1299,New,Net Banking,5,35315,16464,13,18851,53.38
+515,2023-05-30,Mumbai,South,Electronics,Table,1081,Returning,Net Banking,9,31806,18871,14,12935,40.67
+516,2023-05-31,Hyderabad,North,Furniture,Laptop,1086,New,Net Banking,1,13210,28863,19,-15653,-118.49
+517,2023-06-01,Bangalore,West,Clothing,Mobile,1224,Returning,Net Banking,5,37972,12557,16,25415,66.93
+518,2023-06-02,Delhi,North,Groceries,Laptop,1015,New,Cash,7,41358,8173,5,33185,80.24
+519,2023-06-03,Delhi,North,Groceries,Laptop,1821,Returning,UPI,6,35136,20144,26,14992,42.67
+520,2023-06-04,Hyderabad,North,Electronics,Mobile,1357,New,Cash,6,45297,28623,9,16674,36.81
+521,2023-06-05,Mumbai,North,Electronics,Mobile,1162,Returning,Cash,7,16945,24374,21,-7429,-43.84
+522,2023-06-06,Chennai,West,Furniture,Laptop,1609,New,Cash,6,30665,23623,22,7042,22.96
+523,2023-06-07,Mumbai,West,Clothing,Rice,1667,New,Cash,5,43477,14781,15,28696,66.0
+524,2023-06-08,Hyderabad,West,Groceries,Mobile,1513,New,UPI,5,14644,3751,16,10893,74.39
+525,2023-06-09,Delhi,South,Furniture,Table,1349,New,Cash,9,5917,22789,13,-16872,-285.14
+526,2023-06-10,Mumbai,West,Groceries,Sofa,1908,Returning,Net Banking,8,20868,22184,19,-1316,-6.31
+527,2023-06-11,Delhi,North,Electronics,Shirt,1680,New,Card,4,12877,5554,11,7323,56.87
+528,2023-06-12,Chennai,West,Groceries,Laptop,1463,Returning,Net Banking,4,14224,2216,8,12008,84.42
+529,2023-06-13,Delhi,North,Clothing,Laptop,1826,New,Card,5,4052,9704,14,-5652,-139.49
+530,2023-06-14,Delhi,South,Clothing,Shirt,1836,Returning,Net Banking,3,28272,14606,11,13666,48.34
+531,2023-06-15,Bangalore,North,Electronics,Rice,1374,New,Net Banking,8,42150,1810,13,40340,95.71
+532,2023-06-16,Bangalore,North,Clothing,Shirt,1091,New,Card,7,31668,29646,25,2022,6.38
+533,2023-06-17,Bangalore,North,Clothing,Mobile,1180,Returning,UPI,5,18316,17501,21,815,4.45
+534,2023-06-18,Delhi,South,Furniture,Shirt,1742,New,Cash,3,8240,29812,17,-21572,-261.8
+535,2023-06-19,Hyderabad,West,Groceries,Laptop,1300,New,Net Banking,5,32559,16382,19,16177,49.69
+536,2023-06-20,Delhi,West,Electronics,Shirt,1659,Returning,UPI,3,4238,4757,5,-519,-12.25
+537,2023-06-21,Hyderabad,South,Electronics,Sofa,1791,New,Cash,5,44175,16346,3,27829,63.0
+538,2023-06-22,Hyderabad,North,Electronics,Table,1188,Returning,UPI,1,1565,22983,25,-21418,-1368.56
+539,2023-06-23,Bangalore,West,Electronics,Mobile,1858,New,UPI,6,22762,27058,22,-4296,-18.87
+540,2023-06-24,Mumbai,South,Electronics,Shirt,1861,Returning,Cash,4,6558,10920,11,-4362,-66.51
+541,2023-06-25,Chennai,West,Clothing,Laptop,1313,Returning,Net Banking,4,17375,13512,12,3863,22.23
+542,2023-06-26,Bangalore,South,Furniture,Table,1492,Returning,UPI,8,26710,968,18,25742,96.38
+543,2023-06-27,Bangalore,North,Electronics,Mobile,1922,Returning,Net Banking,2,12103,6405,21,5698,47.08
+544,2023-06-28,Mumbai,West,Furniture,Laptop,1921,New,Net Banking,4,16174,12808,12,3366,20.81
+545,2023-06-29,Chennai,South,Furniture,Rice,1127,New,Net Banking,2,42490,16134,11,26356,62.03
+546,2023-06-30,Delhi,West,Clothing,Sofa,1518,Returning,Cash,1,22793,29431,19,-6638,-29.12
+547,2023-07-01,Delhi,West,Electronics,Rice,1425,New,Card,3,28597,15301,2,13296,46.49
+548,2023-07-02,Bangalore,West,Clothing,Sofa,1558,New,Net Banking,8,9753,18023,27,-8270,-84.79
+549,2023-07-03,Chennai,West,Electronics,Shirt,1564,New,Card,6,39397,10128,2,29269,74.29
+550,2023-07-04,Bangalore,South,Clothing,Mobile,1186,Returning,Card,7,7318,9228,13,-1910,-26.1
+551,2023-07-05,Hyderabad,North,Furniture,Shirt,1549,New,UPI,2,34069,17835,17,16234,47.65
+552,2023-07-06,Bangalore,South,Electronics,Sofa,1452,New,Net Banking,6,21151,24896,26,-3745,-17.71
+553,2023-07-07,Bangalore,South,Groceries,Sofa,1470,Returning,Net Banking,8,41274,11505,18,29769,72.13
+554,2023-07-08,Delhi,South,Furniture,Sofa,1987,New,Net Banking,8,9701,19890,28,-10189,-105.03
+555,2023-07-09,Delhi,North,Groceries,Table,1737,Returning,Card,4,7962,29070,27,-21108,-265.11
+556,2023-07-10,Delhi,West,Furniture,Laptop,1564,Returning,Cash,6,39197,22959,29,16238,41.43
+557,2023-07-11,Hyderabad,West,Clothing,Mobile,1910,Returning,Card,5,49634,8390,9,41244,83.1
+558,2023-07-12,Delhi,West,Electronics,Shirt,1223,New,Net Banking,9,31041,26916,16,4125,13.29
+559,2023-07-13,Chennai,North,Furniture,Shirt,1153,New,Net Banking,8,8248,22836,14,-14588,-176.87
+560,2023-07-14,Mumbai,West,Clothing,Rice,1559,Returning,Net Banking,2,20829,7577,18,13252,63.62
+561,2023-07-15,Chennai,North,Electronics,Sofa,1350,Returning,Card,7,3203,25926,8,-22723,-709.43
+562,2023-07-16,Chennai,West,Electronics,Sofa,1146,Returning,Net Banking,7,26370,2471,3,23899,90.63
+563,2023-07-17,Delhi,West,Furniture,Sofa,1904,Returning,UPI,1,36247,14068,14,22179,61.19
+564,2023-07-18,Mumbai,South,Electronics,Shirt,1575,Returning,Net Banking,1,11386,1691,18,9695,85.15
+565,2023-07-19,Mumbai,North,Furniture,Rice,1348,Returning,Cash,4,1434,20804,15,-19370,-1350.77
+566,2023-07-20,Mumbai,South,Electronics,Laptop,1181,New,UPI,5,43998,13320,7,30678,69.73
+567,2023-07-21,Hyderabad,South,Groceries,Table,1636,Returning,Net Banking,4,35474,8265,16,27209,76.7
+568,2023-07-22,Delhi,South,Clothing,Mobile,1178,Returning,UPI,7,25644,10754,20,14890,58.06
+569,2023-07-23,Mumbai,North,Groceries,Laptop,1038,Returning,Net Banking,3,39493,23077,0,16416,41.57
+570,2023-07-24,Hyderabad,North,Furniture,Shirt,1771,New,Cash,7,19288,3546,6,15742,81.62
+571,2023-07-25,Bangalore,West,Groceries,Table,1893,New,Net Banking,8,4959,29475,20,-24516,-494.37
+572,2023-07-26,Bangalore,South,Furniture,Table,1002,New,UPI,6,48289,12250,17,36039,74.63
+573,2023-07-27,Hyderabad,West,Electronics,Table,1063,New,Cash,6,12143,13203,11,-1060,-8.73
+574,2023-07-28,Hyderabad,South,Electronics,Sofa,1028,Returning,Card,8,40593,17188,15,23405,57.66
+575,2023-07-29,Delhi,North,Furniture,Mobile,1371,New,Cash,8,40115,23223,29,16892,42.11
+576,2023-07-30,Delhi,North,Groceries,Shirt,1522,Returning,Cash,7,46609,8543,0,38066,81.67
+577,2023-07-31,Bangalore,North,Electronics,Shirt,1096,Returning,Cash,6,23540,5408,26,18132,77.03
+578,2023-08-01,Mumbai,South,Clothing,Table,1869,Returning,UPI,6,36481,27923,14,8558,23.46
+579,2023-08-02,Bangalore,North,Electronics,Shirt,1441,Returning,Cash,6,30969,11127,6,19842,64.07
+580,2023-08-03,Mumbai,South,Clothing,Mobile,1202,Returning,Net Banking,8,12561,3304,27,9257,73.7
+581,2023-08-04,Mumbai,West,Groceries,Mobile,1410,Returning,Cash,1,23578,10676,16,12902,54.72
+582,2023-08-05,Delhi,South,Clothing,Rice,1992,New,Cash,5,13787,4436,2,9351,67.82
+583,2023-08-06,Chennai,West,Clothing,Rice,1020,New,Net Banking,3,7512,17596,10,-10084,-134.24
+584,2023-08-07,Chennai,South,Clothing,Laptop,1550,New,Net Banking,8,11596,23732,5,-12136,-104.66
+585,2023-08-08,Hyderabad,West,Clothing,Mobile,1734,New,Card,6,32746,27971,5,4775,14.58
+586,2023-08-09,Delhi,North,Electronics,Mobile,1101,New,Cash,2,20930,10373,14,10557,50.44
+587,2023-08-10,Mumbai,West,Clothing,Mobile,1045,Returning,UPI,7,48950,26409,6,22541,46.05
+588,2023-08-11,Chennai,North,Electronics,Rice,1065,New,Cash,7,31201,11890,10,19311,61.89
+589,2023-08-12,Mumbai,North,Clothing,Table,1602,New,Cash,5,19687,8866,29,10821,54.97
+590,2023-08-13,Chennai,West,Furniture,Table,1163,New,Net Banking,8,36989,20089,26,16900,45.69
+591,2023-08-14,Chennai,South,Groceries,Shirt,1970,Returning,Card,5,31183,22069,16,9114,29.23
+592,2023-08-15,Chennai,South,Clothing,Table,1110,Returning,Cash,1,21758,26492,22,-4734,-21.76
+593,2023-08-16,Delhi,South,Furniture,Sofa,1337,Returning,UPI,9,2082,27063,17,-24981,-1199.86
+594,2023-08-17,Bangalore,South,Clothing,Rice,1122,New,Cash,4,42405,15114,21,27291,64.36
+595,2023-08-18,Mumbai,South,Clothing,Mobile,1704,New,UPI,2,31832,29929,28,1903,5.98
+596,2023-08-19,Delhi,North,Clothing,Table,1446,New,Net Banking,4,46891,7006,23,39885,85.06
+597,2023-08-20,Delhi,South,Furniture,Rice,1610,New,Card,9,46810,18656,28,28154,60.15
+598,2023-08-21,Delhi,North,Groceries,Table,1290,New,Cash,2,47901,29342,20,18559,38.74
+599,2023-08-22,Delhi,North,Furniture,Laptop,1670,Returning,Card,4,18976,17958,25,1018,5.36
+600,2023-08-23,Delhi,North,Groceries,Mobile,1411,New,Cash,2,39376,22331,18,17045,43.29
+601,2023-08-24,Hyderabad,West,Clothing,Laptop,1614,Returning,UPI,5,6526,29836,26,-23310,-357.19
+602,2023-08-25,Mumbai,West,Electronics,Mobile,1896,New,Card,3,32086,9283,7,22803,71.07
+603,2023-08-26,Delhi,North,Clothing,Rice,1280,Returning,Cash,2,22563,11670,23,10893,48.28
+604,2023-08-27,Mumbai,West,Groceries,Shirt,1042,Returning,Net Banking,9,7472,22148,19,-14676,-196.41
+605,2023-08-28,Hyderabad,South,Furniture,Table,1485,Returning,UPI,5,3775,15109,7,-11334,-300.24
+606,2023-08-29,Hyderabad,South,Clothing,Table,1595,Returning,Card,5,16828,7822,20,9006,53.52
+607,2023-08-30,Mumbai,North,Furniture,Sofa,1962,New,Cash,1,45776,12674,28,33102,72.31
+608,2023-08-31,Chennai,South,Furniture,Laptop,1702,New,Card,6,18974,23535,10,-4561,-24.04
+609,2023-09-01,Bangalore,North,Furniture,Table,1050,New,Cash,7,23388,16708,20,6680,28.56
+610,2023-09-02,Chennai,North,Clothing,Rice,1897,Returning,UPI,1,16055,2910,2,13145,81.87
+611,2023-09-03,Chennai,South,Furniture,Shirt,1209,New,Net Banking,9,19615,14136,22,5479,27.93
+612,2023-09-04,Chennai,West,Furniture,Rice,1125,New,UPI,8,38886,9539,26,29347,75.47
+613,2023-09-05,Delhi,South,Clothing,Laptop,1491,New,Card,8,23838,15490,13,8348,35.02
+614,2023-09-06,Hyderabad,South,Furniture,Sofa,1508,New,Card,7,41728,6941,26,34787,83.37
+615,2023-09-07,Chennai,North,Clothing,Table,1959,Returning,Cash,5,13464,9185,8,4279,31.78
+616,2023-09-08,Hyderabad,North,Groceries,Rice,1969,Returning,UPI,3,41364,25621,24,15743,38.06
+617,2023-09-09,Mumbai,North,Groceries,Mobile,1580,New,Cash,9,8240,14278,0,-6038,-73.28
+618,2023-09-10,Bangalore,North,Groceries,Shirt,1776,New,UPI,7,5942,13691,0,-7749,-130.41
+619,2023-09-11,Mumbai,West,Furniture,Rice,1257,New,Card,8,20622,27362,25,-6740,-32.68
+620,2023-09-12,Mumbai,West,Electronics,Shirt,1929,Returning,Cash,6,14536,27773,27,-13237,-91.06
+621,2023-09-13,Delhi,West,Electronics,Table,1187,Returning,Cash,5,2600,28913,11,-26313,-1012.04
+622,2023-09-14,Bangalore,North,Furniture,Mobile,1229,Returning,UPI,8,6700,10232,10,-3532,-52.72
+623,2023-09-15,Mumbai,North,Electronics,Sofa,1188,New,Net Banking,3,39839,25959,20,13880,34.84
+624,2023-09-16,Mumbai,North,Clothing,Sofa,1414,Returning,UPI,7,11248,4456,0,6792,60.38
+625,2023-09-17,Bangalore,West,Electronics,Mobile,1009,Returning,Net Banking,2,46291,7053,19,39238,84.76
+626,2023-09-18,Bangalore,North,Furniture,Shirt,1113,Returning,UPI,3,18093,23753,11,-5660,-31.28
+627,2023-09-19,Mumbai,South,Furniture,Table,1075,Returning,Card,2,20355,24415,16,-4060,-19.95
+628,2023-09-20,Bangalore,South,Clothing,Rice,1675,Returning,Cash,5,18177,19978,14,-1801,-9.91
+629,2023-09-21,Mumbai,North,Groceries,Mobile,1501,New,UPI,7,20483,2865,1,17618,86.01
+630,2023-09-22,Mumbai,South,Furniture,Laptop,1084,New,Card,1,44815,7168,17,37647,84.01
+631,2023-09-23,Delhi,South,Clothing,Shirt,1048,New,UPI,9,39533,5500,15,34033,86.09
+632,2023-09-24,Chennai,West,Electronics,Sofa,1494,New,Cash,1,1026,24804,3,-23778,-2317.54
+633,2023-09-25,Mumbai,North,Electronics,Mobile,1837,Returning,UPI,1,40461,20231,7,20230,50.0
+634,2023-09-26,Hyderabad,North,Clothing,Sofa,1688,New,Net Banking,8,22706,28147,1,-5441,-23.96
+635,2023-09-27,Chennai,West,Clothing,Shirt,1386,New,Cash,6,25660,4175,13,21485,83.73
+636,2023-09-28,Chennai,South,Furniture,Sofa,1969,New,Net Banking,6,40377,13407,24,26970,66.8
+637,2023-09-29,Chennai,South,Electronics,Mobile,1388,Returning,Card,9,43082,17836,14,25246,58.6
+638,2023-09-30,Delhi,North,Clothing,Shirt,1217,New,Card,4,17258,20184,27,-2926,-16.95
+639,2023-10-01,Mumbai,South,Electronics,Laptop,1700,Returning,UPI,8,39077,28811,8,10266,26.27
+640,2023-10-02,Delhi,West,Clothing,Mobile,1980,Returning,Net Banking,4,33779,20063,1,13716,40.61
+641,2023-10-03,Mumbai,West,Electronics,Rice,1345,Returning,Net Banking,2,25154,15636,16,9518,37.84
+642,2023-10-04,Delhi,North,Groceries,Table,1229,New,Cash,8,30684,11655,25,19029,62.02
+643,2023-10-05,Delhi,West,Furniture,Mobile,1254,Returning,Net Banking,7,16389,12719,9,3670,22.39
+644,2023-10-06,Hyderabad,West,Electronics,Shirt,1235,New,Net Banking,4,27324,3747,8,23577,86.29
+645,2023-10-07,Delhi,North,Groceries,Table,1025,New,Cash,9,28685,4915,1,23770,82.87
+646,2023-10-08,Bangalore,West,Electronics,Mobile,1583,New,Cash,9,28195,20241,23,7954,28.21
+647,2023-10-09,Hyderabad,West,Electronics,Laptop,1260,Returning,Net Banking,8,22797,6972,29,15825,69.42
+648,2023-10-10,Delhi,West,Groceries,Laptop,1765,Returning,UPI,1,47439,22880,18,24559,51.77
+649,2023-10-11,Chennai,South,Electronics,Rice,1270,New,Cash,7,6774,5348,16,1426,21.05
+650,2023-10-12,Bangalore,North,Electronics,Sofa,1122,Returning,Cash,5,32633,27780,10,4853,14.87
+651,2023-10-13,Bangalore,North,Furniture,Table,1655,Returning,Net Banking,7,1796,22359,16,-20563,-1144.93
+652,2023-10-14,Bangalore,North,Groceries,Shirt,1256,Returning,Net Banking,9,41047,1537,9,39510,96.26
+653,2023-10-15,Hyderabad,South,Groceries,Shirt,1655,New,Cash,2,29389,16134,17,13255,45.1
+654,2023-10-16,Delhi,South,Clothing,Sofa,1420,Returning,Net Banking,4,8188,8762,22,-574,-7.01
+655,2023-10-17,Delhi,North,Electronics,Laptop,1258,Returning,Cash,4,24696,11566,27,13130,53.17
+656,2023-10-18,Chennai,South,Furniture,Laptop,1947,New,UPI,2,3024,16054,5,-13030,-430.89
+657,2023-10-19,Chennai,North,Electronics,Mobile,1046,Returning,UPI,3,8666,7508,15,1158,13.36
+658,2023-10-20,Bangalore,South,Electronics,Rice,1862,New,Cash,8,36985,22815,27,14170,38.31
+659,2023-10-21,Chennai,West,Clothing,Table,1524,Returning,Cash,9,7584,15763,26,-8179,-107.85
+660,2023-10-22,Hyderabad,West,Electronics,Rice,1887,Returning,Card,6,26462,16738,17,9724,36.75
+661,2023-10-23,Delhi,North,Furniture,Rice,1207,Returning,Card,2,28044,6142,19,21902,78.1
+662,2023-10-24,Bangalore,South,Furniture,Mobile,1310,Returning,Net Banking,2,6285,16989,17,-10704,-170.31
+663,2023-10-25,Chennai,South,Clothing,Rice,1746,Returning,Net Banking,7,8370,17653,0,-9283,-110.91
+664,2023-10-26,Hyderabad,West,Electronics,Sofa,1148,Returning,Cash,8,18903,27085,27,-8182,-43.28
+665,2023-10-27,Hyderabad,West,Furniture,Mobile,1833,New,Cash,8,33499,19824,2,13675,40.82
+666,2023-10-28,Chennai,South,Electronics,Sofa,1437,Returning,Card,6,33368,15031,14,18337,54.95
+667,2023-10-29,Delhi,South,Electronics,Mobile,1154,Returning,Card,8,23995,10884,19,13111,54.64
+668,2023-10-30,Chennai,South,Electronics,Rice,1677,Returning,Cash,1,40624,16836,9,23788,58.56
+669,2023-10-31,Bangalore,South,Clothing,Sofa,1089,New,UPI,9,36200,24783,20,11417,31.54
+670,2023-11-01,Chennai,South,Electronics,Sofa,1697,New,UPI,1,23841,14161,4,9680,40.6
+671,2023-11-02,Hyderabad,South,Furniture,Sofa,1829,New,Net Banking,3,5866,12187,14,-6321,-107.76
+672,2023-11-03,Chennai,North,Electronics,Mobile,1357,Returning,Cash,9,14566,23498,22,-8932,-61.32
+673,2023-11-04,Delhi,South,Furniture,Shirt,1173,Returning,Cash,5,38822,22689,13,16133,41.56
+674,2023-11-05,Mumbai,West,Electronics,Rice,1216,New,Net Banking,9,42876,29387,14,13489,31.46
+675,2023-11-06,Chennai,North,Furniture,Sofa,1906,New,Card,9,29552,13904,9,15648,52.95
+676,2023-11-07,Delhi,South,Furniture,Table,1455,New,Card,6,35549,4855,23,30694,86.34
+677,2023-11-08,Delhi,West,Electronics,Shirt,1775,Returning,UPI,1,25914,1433,8,24481,94.47
+678,2023-11-09,Hyderabad,North,Electronics,Table,1608,New,Cash,7,44830,9266,11,35564,79.33
+679,2023-11-10,Delhi,West,Furniture,Rice,1628,Returning,Card,6,45542,22544,6,22998,50.5
+680,2023-11-11,Delhi,South,Groceries,Rice,1198,Returning,UPI,9,23333,6406,4,16927,72.55
+681,2023-11-12,Delhi,South,Clothing,Sofa,1831,Returning,UPI,7,16958,29006,24,-12048,-71.05
+682,2023-11-13,Delhi,South,Groceries,Sofa,1485,New,UPI,4,21954,13072,23,8882,40.46
+683,2023-11-14,Bangalore,South,Groceries,Mobile,1532,Returning,Card,7,10638,12779,9,-2141,-20.13
+684,2023-11-15,Bangalore,North,Electronics,Shirt,1199,New,Card,2,35147,11223,24,23924,68.07
+685,2023-11-16,Hyderabad,North,Clothing,Shirt,1370,New,Cash,6,10675,22934,25,-12259,-114.84
+686,2023-11-17,Chennai,West,Groceries,Sofa,1958,New,Cash,6,25054,11111,7,13943,55.65
+687,2023-11-18,Delhi,South,Electronics,Rice,1852,New,UPI,2,44034,8761,21,35273,80.1
+688,2023-11-19,Chennai,West,Groceries,Sofa,1447,Returning,UPI,4,32661,4974,19,27687,84.77
+689,2023-11-20,Chennai,North,Groceries,Rice,1247,Returning,Card,8,18184,26378,24,-8194,-45.06
+690,2023-11-21,Hyderabad,South,Electronics,Rice,1787,Returning,Card,8,48963,28890,15,20073,41.0
+691,2023-11-22,Delhi,South,Electronics,Sofa,1263,Returning,Cash,8,26822,27425,11,-603,-2.25
+692,2023-11-23,Delhi,North,Electronics,Laptop,1057,New,Cash,8,11929,17138,8,-5209,-43.67
+693,2023-11-24,Mumbai,North,Clothing,Shirt,1301,New,Net Banking,1,6267,26783,9,-20516,-327.37
+694,2023-11-25,Chennai,North,Groceries,Table,1030,New,Cash,2,37025,23971,15,13054,35.26
+695,2023-11-26,Chennai,North,Electronics,Rice,1497,New,Card,4,13069,5287,9,7782,59.55
+696,2023-11-27,Bangalore,North,Furniture,Rice,1248,Returning,UPI,9,1981,14075,8,-12094,-610.5
+697,2023-11-28,Mumbai,South,Groceries,Laptop,1604,New,Net Banking,3,44436,8362,29,36074,81.18
+698,2023-11-29,Bangalore,North,Furniture,Table,1776,Returning,Cash,6,19472,25909,25,-6437,-33.06
+699,2023-11-30,Bangalore,South,Clothing,Mobile,1270,New,Cash,7,20336,11456,2,8880,43.67
+700,2023-12-01,Bangalore,South,Electronics,Laptop,1605,New,Card,8,26587,11163,26,15424,58.01
+701,2023-12-02,Hyderabad,North,Furniture,Table,1665,New,Net Banking,7,12656,16620,27,-3964,-31.32
+702,2023-12-03,Hyderabad,North,Clothing,Laptop,1393,New,Cash,3,28326,23240,18,5086,17.96
+703,2023-12-04,Bangalore,South,Electronics,Rice,1796,Returning,UPI,6,19510,4242,10,15268,78.26
+704,2023-12-05,Mumbai,North,Furniture,Shirt,1501,Returning,Card,5,41831,2535,5,39296,93.94
+705,2023-12-06,Chennai,North,Furniture,Laptop,1591,Returning,Net Banking,4,19975,2467,5,17508,87.65
+706,2023-12-07,Mumbai,North,Clothing,Mobile,1803,Returning,Cash,1,10665,25175,14,-14510,-136.05
+707,2023-12-08,Delhi,West,Electronics,Sofa,1083,New,Cash,7,28097,2352,28,25745,91.63
+708,2023-12-09,Hyderabad,South,Electronics,Table,1364,New,Net Banking,8,26741,20067,14,6674,24.96
+709,2023-12-10,Chennai,West,Furniture,Laptop,1885,Returning,Card,2,7437,11047,12,-3610,-48.54
+710,2023-12-11,Chennai,North,Furniture,Laptop,1548,Returning,Net Banking,7,26185,7118,21,19067,72.82
+711,2023-12-12,Delhi,West,Furniture,Mobile,1341,New,Net Banking,6,11375,14359,4,-2984,-26.23
+712,2023-12-13,Delhi,North,Electronics,Shirt,1838,New,Card,5,28107,8803,13,19304,68.68
+713,2023-12-14,Bangalore,West,Clothing,Laptop,1406,Returning,Cash,4,31484,11850,20,19634,62.36
+714,2023-12-15,Hyderabad,North,Clothing,Laptop,1424,Returning,UPI,2,36629,17066,1,19563,53.41
+715,2023-12-16,Hyderabad,West,Electronics,Shirt,1743,Returning,Card,6,46610,23624,29,22986,49.32
+716,2023-12-17,Mumbai,West,Groceries,Mobile,1092,New,UPI,5,26835,28928,22,-2093,-7.8
+717,2023-12-18,Bangalore,West,Clothing,Table,1847,Returning,Cash,2,30743,664,11,30079,97.84
+718,2023-12-19,Bangalore,South,Furniture,Table,1613,Returning,Net Banking,7,31917,7458,19,24459,76.63
+719,2023-12-20,Bangalore,West,Groceries,Laptop,1411,Returning,UPI,6,39995,2637,13,37358,93.41
+720,2023-12-21,Bangalore,South,Groceries,Shirt,1431,Returning,Cash,9,12424,10715,18,1709,13.76
+721,2023-12-22,Hyderabad,North,Clothing,Laptop,1677,Returning,Cash,5,10643,17338,23,-6695,-62.91
+722,2023-12-23,Hyderabad,West,Groceries,Sofa,1158,New,Net Banking,9,11310,19169,19,-7859,-69.49
+723,2023-12-24,Bangalore,North,Groceries,Table,1013,Returning,Net Banking,9,19951,24730,14,-4779,-23.95
+724,2023-12-25,Mumbai,North,Clothing,Rice,1372,New,Cash,1,27568,21706,26,5862,21.26
+725,2023-12-26,Chennai,West,Clothing,Sofa,1224,Returning,Cash,5,16233,17425,19,-1192,-7.34
+726,2023-12-27,Chennai,South,Groceries,Laptop,1504,Returning,UPI,9,14200,6533,23,7667,53.99
+727,2023-12-28,Mumbai,West,Furniture,Mobile,1072,Returning,Cash,7,22548,3165,16,19383,85.96
+728,2023-12-29,Bangalore,North,Electronics,Table,1248,New,Cash,6,11532,27525,24,-15993,-138.68
+729,2023-12-30,Hyderabad,North,Groceries,Rice,1510,New,UPI,6,24465,24033,13,432,1.77
+730,2023-12-31,Chennai,West,Groceries,Sofa,1602,New,Card,7,22291,13629,22,8662,38.86
+731,2024-01-01,Delhi,South,Furniture,Table,1215,Returning,UPI,1,43448,22682,27,20766,47.8
+732,2024-01-02,Delhi,South,Groceries,Shirt,1972,Returning,UPI,4,31580,12625,17,18955,60.02
+733,2024-01-03,Mumbai,North,Groceries,Mobile,1601,New,Net Banking,1,27149,22669,26,4480,16.5
+734,2024-01-04,Bangalore,North,Electronics,Sofa,1540,New,UPI,6,22346,27962,27,-5616,-25.13
+735,2024-01-05,Chennai,South,Electronics,Shirt,1946,Returning,Cash,4,11619,21498,21,-9879,-85.02
+736,2024-01-06,Bangalore,West,Electronics,Laptop,1816,New,Cash,1,40918,21176,23,19742,48.25
+737,2024-01-07,Chennai,North,Clothing,Shirt,1938,Returning,Cash,9,2766,28980,26,-26214,-947.72
+738,2024-01-08,Mumbai,South,Clothing,Sofa,1987,New,Card,4,4549,6689,4,-2140,-47.04
+739,2024-01-09,Mumbai,North,Electronics,Sofa,1219,New,Cash,6,19693,23557,21,-3864,-19.62
+740,2024-01-10,Delhi,West,Electronics,Laptop,1839,New,Card,7,32922,14208,11,18714,56.84
+741,2024-01-11,Bangalore,South,Clothing,Shirt,1726,Returning,Cash,8,43402,18572,9,24830,57.21
+742,2024-01-12,Delhi,North,Furniture,Shirt,1220,Returning,UPI,9,35744,5595,7,30149,84.35
+743,2024-01-13,Bangalore,West,Groceries,Laptop,1388,New,Net Banking,9,49328,14909,28,34419,69.78
+744,2024-01-14,Delhi,North,Groceries,Shirt,1553,Returning,Cash,8,13165,8083,5,5082,38.6
+745,2024-01-15,Hyderabad,West,Electronics,Table,1646,Returning,Card,3,24564,24708,27,-144,-0.59
+746,2024-01-16,Hyderabad,West,Furniture,Laptop,1041,Returning,Card,2,36258,2137,24,34121,94.11
+747,2024-01-17,Hyderabad,South,Clothing,Mobile,1675,Returning,Net Banking,5,26301,15170,14,11131,42.32
+748,2024-01-18,Hyderabad,West,Electronics,Sofa,1872,New,Cash,1,45763,6466,11,39297,85.87
+749,2024-01-19,Chennai,North,Furniture,Mobile,1282,Returning,UPI,3,21765,29804,24,-8039,-36.94
+750,2024-01-20,Hyderabad,West,Furniture,Table,1057,Returning,Cash,1,45787,5170,24,40617,88.71
+751,2024-01-21,Mumbai,West,Furniture,Table,1813,New,Cash,3,8425,29158,5,-20733,-246.09
+752,2024-01-22,Mumbai,South,Clothing,Rice,1833,Returning,Net Banking,4,13857,5703,11,8154,58.84
+753,2024-01-23,Chennai,West,Clothing,Rice,1536,Returning,Cash,7,28463,22018,14,6445,22.64
+754,2024-01-24,Hyderabad,West,Groceries,Rice,1072,Returning,UPI,5,23444,18774,11,4670,19.92
+755,2024-01-25,Hyderabad,North,Groceries,Laptop,1884,New,Card,5,42457,20089,8,22368,52.68
+756,2024-01-26,Hyderabad,South,Furniture,Shirt,1922,New,Net Banking,1,37744,9169,18,28575,75.71
+757,2024-01-27,Delhi,South,Furniture,Table,1128,Returning,UPI,8,15205,15468,20,-263,-1.73
+758,2024-01-28,Bangalore,South,Clothing,Mobile,1598,Returning,Card,4,1704,2866,1,-1162,-68.19
+759,2024-01-29,Delhi,West,Groceries,Mobile,1841,New,Net Banking,5,6452,24443,27,-17991,-278.84
+760,2024-01-30,Bangalore,South,Furniture,Mobile,1425,New,Net Banking,2,46617,19410,12,27207,58.36
+761,2024-01-31,Hyderabad,West,Groceries,Mobile,1947,New,Card,1,39862,24691,12,15171,38.06
+762,2024-02-01,Hyderabad,West,Groceries,Rice,1664,Returning,Card,9,4681,866,7,3815,81.5
+763,2024-02-02,Delhi,North,Furniture,Mobile,1693,Returning,UPI,2,21522,16147,26,5375,24.97
+764,2024-02-03,Delhi,North,Clothing,Shirt,1124,New,Cash,6,19300,26912,12,-7612,-39.44
+765,2024-02-04,Bangalore,North,Furniture,Rice,1066,Returning,Cash,1,10566,23405,3,-12839,-121.51
+766,2024-02-05,Mumbai,North,Furniture,Mobile,1005,Returning,Cash,1,8501,10407,5,-1906,-22.42
+767,2024-02-06,Bangalore,North,Groceries,Laptop,1636,Returning,Cash,9,2845,7106,5,-4261,-149.77
+768,2024-02-07,Delhi,West,Furniture,Sofa,1313,Returning,Cash,4,40181,512,20,39669,98.73
+769,2024-02-08,Delhi,West,Clothing,Sofa,1325,Returning,UPI,9,41758,25611,11,16147,38.67
+770,2024-02-09,Chennai,South,Furniture,Sofa,1564,Returning,Net Banking,5,43396,20123,11,23273,53.63
+771,2024-02-10,Delhi,West,Clothing,Rice,1577,Returning,UPI,7,14230,2817,16,11413,80.2
+772,2024-02-11,Chennai,West,Clothing,Mobile,1825,New,UPI,1,18754,20926,26,-2172,-11.58
+773,2024-02-12,Mumbai,North,Groceries,Table,1505,New,UPI,6,35404,15929,6,19475,55.01
+774,2024-02-13,Bangalore,West,Electronics,Table,1081,New,Net Banking,8,23564,7985,25,15579,66.11
+775,2024-02-14,Bangalore,North,Electronics,Table,1598,New,UPI,1,33362,17259,14,16103,48.27
+776,2024-02-15,Chennai,South,Groceries,Rice,1001,New,UPI,9,19227,26800,23,-7573,-39.39
+777,2024-02-16,Bangalore,South,Furniture,Shirt,1203,New,Net Banking,3,25760,756,16,25004,97.07
+778,2024-02-17,Delhi,West,Groceries,Laptop,1661,New,UPI,1,30723,27340,9,3383,11.01
+779,2024-02-18,Hyderabad,South,Clothing,Laptop,1804,New,Cash,1,48475,17333,22,31142,64.24
+780,2024-02-19,Chennai,West,Electronics,Sofa,1403,New,Card,6,18215,25969,19,-7754,-42.57
+781,2024-02-20,Bangalore,South,Groceries,Sofa,1102,Returning,UPI,6,6538,16403,5,-9865,-150.89
+782,2024-02-21,Chennai,North,Furniture,Table,1535,Returning,Card,1,22699,3712,8,18987,83.65
+783,2024-02-22,Chennai,North,Groceries,Table,1367,New,UPI,3,44085,26260,14,17825,40.43
+784,2024-02-23,Hyderabad,North,Electronics,Sofa,1211,Returning,UPI,7,13454,6675,15,6779,50.39
+785,2024-02-24,Delhi,North,Groceries,Mobile,1576,Returning,Cash,3,49217,22827,20,26390,53.62
+786,2024-02-25,Chennai,West,Groceries,Shirt,1960,New,Net Banking,3,42223,28299,7,13924,32.98
+787,2024-02-26,Bangalore,South,Electronics,Shirt,1208,New,Card,3,22711,24910,15,-2199,-9.68
+788,2024-02-27,Mumbai,West,Clothing,Shirt,1762,New,Net Banking,7,16059,14071,4,1988,12.38
+789,2024-02-28,Chennai,North,Clothing,Shirt,1896,Returning,Cash,4,49398,16587,17,32811,66.42
+790,2024-02-29,Chennai,West,Electronics,Sofa,1116,Returning,Cash,4,2286,7946,19,-5660,-247.59
+791,2024-03-01,Hyderabad,South,Groceries,Laptop,1627,New,Card,3,35297,18192,13,17105,48.46
+792,2024-03-02,Delhi,West,Electronics,Sofa,1748,Returning,Net Banking,9,43768,29781,1,13987,31.96
+793,2024-03-03,Mumbai,South,Clothing,Shirt,1477,Returning,Cash,2,40423,25992,22,14431,35.7
+794,2024-03-04,Bangalore,West,Furniture,Sofa,1104,Returning,UPI,4,35645,15377,22,20268,56.86
+795,2024-03-05,Mumbai,South,Groceries,Shirt,1494,New,UPI,8,43709,25223,29,18486,42.29
+796,2024-03-06,Bangalore,South,Clothing,Rice,1770,Returning,UPI,6,27485,13443,2,14042,51.09
+797,2024-03-07,Delhi,North,Groceries,Table,1045,Returning,Net Banking,7,33267,10806,13,22461,67.52
+798,2024-03-08,Bangalore,South,Electronics,Laptop,1822,Returning,UPI,7,46823,4516,28,42307,90.36
+799,2024-03-09,Hyderabad,North,Furniture,Rice,1330,Returning,UPI,2,28086,20824,6,7262,25.86
+800,2024-03-10,Hyderabad,North,Electronics,Mobile,1215,Returning,Cash,4,17484,23597,14,-6113,-34.96
+801,2024-03-11,Hyderabad,North,Furniture,Sofa,1981,Returning,Cash,6,4087,20955,16,-16868,-412.72
+802,2024-03-12,Hyderabad,West,Groceries,Mobile,1959,Returning,UPI,3,39596,24991,0,14605,36.89
+803,2024-03-13,Mumbai,West,Groceries,Sofa,1491,New,UPI,9,19675,6412,8,13263,67.41
+804,2024-03-14,Delhi,West,Electronics,Table,1812,New,Cash,4,25680,27871,21,-2191,-8.53
+805,2024-03-15,Bangalore,West,Furniture,Rice,1921,Returning,Card,2,18077,942,28,17135,94.79
+806,2024-03-16,Bangalore,South,Furniture,Table,1844,New,Net Banking,6,39174,3444,13,35730,91.21
+807,2024-03-17,Hyderabad,South,Groceries,Shirt,1448,Returning,Net Banking,1,12432,4436,15,7996,64.32
+808,2024-03-18,Hyderabad,West,Electronics,Table,1535,Returning,Cash,6,4491,898,27,3593,80.0
+809,2024-03-19,Chennai,South,Furniture,Table,1510,Returning,Net Banking,1,47126,26227,20,20899,44.35
+810,2024-03-20,Delhi,South,Groceries,Shirt,1457,New,Cash,8,47122,16196,12,30926,65.63
+811,2024-03-21,Mumbai,North,Clothing,Sofa,1546,Returning,Cash,5,4392,28868,5,-24476,-557.29
+812,2024-03-22,Bangalore,North,Electronics,Shirt,1535,Returning,Cash,6,3268,3495,21,-227,-6.95
+813,2024-03-23,Chennai,North,Clothing,Rice,1539,New,Cash,2,39400,6829,0,32571,82.67
+814,2024-03-24,Chennai,North,Electronics,Table,1483,New,Card,2,37551,2716,20,34835,92.77
+815,2024-03-25,Bangalore,South,Groceries,Shirt,1975,Returning,UPI,9,29088,18591,24,10497,36.09
+816,2024-03-26,Mumbai,West,Furniture,Table,1999,New,UPI,3,15479,12023,3,3456,22.33
+817,2024-03-27,Chennai,South,Furniture,Rice,1015,New,Card,6,26465,27063,2,-598,-2.26
+818,2024-03-28,Chennai,South,Furniture,Mobile,1570,Returning,Net Banking,5,49155,22650,16,26505,53.92
+819,2024-03-29,Delhi,South,Electronics,Rice,1976,Returning,Net Banking,4,23357,22561,29,796,3.41
+820,2024-03-30,Mumbai,North,Groceries,Laptop,1242,Returning,UPI,2,6969,29678,1,-22709,-325.86
+821,2024-03-31,Chennai,North,Clothing,Laptop,1949,New,Net Banking,8,9981,3068,18,6913,69.26
+822,2024-04-01,Mumbai,North,Groceries,Laptop,1206,New,UPI,7,22032,24522,19,-2490,-11.3
+823,2024-04-02,Bangalore,West,Clothing,Table,1911,New,UPI,2,42618,660,22,41958,98.45
+824,2024-04-03,Hyderabad,South,Electronics,Sofa,1270,Returning,Card,6,25408,16148,21,9260,36.45
+825,2024-04-04,Chennai,West,Electronics,Sofa,1760,New,Net Banking,8,25241,29511,26,-4270,-16.92
+826,2024-04-05,Delhi,North,Clothing,Sofa,1993,New,Card,7,48940,8567,7,40373,82.49
+827,2024-04-06,Bangalore,West,Clothing,Table,1778,Returning,UPI,1,18402,4404,29,13998,76.07
+828,2024-04-07,Mumbai,South,Clothing,Rice,1704,Returning,UPI,5,26766,4073,24,22693,84.78
+829,2024-04-08,Bangalore,South,Groceries,Sofa,1846,Returning,UPI,2,4657,28253,14,-23596,-506.68
+830,2024-04-09,Chennai,North,Clothing,Mobile,1729,New,Cash,6,22230,2325,5,19905,89.54
+831,2024-04-10,Mumbai,North,Electronics,Laptop,1114,Returning,Cash,7,19680,14286,22,5394,27.41
+832,2024-04-11,Hyderabad,West,Electronics,Rice,1579,New,Cash,7,18158,29000,19,-10842,-59.71
+833,2024-04-12,Bangalore,North,Furniture,Laptop,1298,New,Card,3,20195,10315,1,9880,48.92
+834,2024-04-13,Chennai,North,Clothing,Sofa,1836,Returning,UPI,7,43340,22466,24,20874,48.16
+835,2024-04-14,Delhi,South,Groceries,Rice,1482,Returning,Net Banking,5,36950,14294,24,22656,61.32
+836,2024-04-15,Mumbai,North,Groceries,Shirt,1396,Returning,Card,8,13979,1676,14,12303,88.01
+837,2024-04-16,Bangalore,North,Groceries,Mobile,1393,Returning,Card,8,8867,21802,19,-12935,-145.88
+838,2024-04-17,Bangalore,South,Furniture,Sofa,1074,Returning,Card,7,16155,28796,11,-12641,-78.25
+839,2024-04-18,Hyderabad,South,Electronics,Sofa,1977,New,Net Banking,6,14006,21764,2,-7758,-55.39
+840,2024-04-19,Hyderabad,West,Groceries,Mobile,1481,New,UPI,2,5329,20104,9,-14775,-277.26
+841,2024-04-20,Delhi,North,Electronics,Mobile,1102,New,Cash,6,23551,28335,13,-4784,-20.31
+842,2024-04-21,Delhi,South,Furniture,Shirt,1296,Returning,UPI,9,36865,8320,26,28545,77.43
+843,2024-04-22,Chennai,West,Clothing,Sofa,1177,New,UPI,2,2404,17014,21,-14610,-607.74
+844,2024-04-23,Chennai,West,Clothing,Table,1214,Returning,Card,1,38869,23543,29,15326,39.43
+845,2024-04-24,Delhi,North,Clothing,Sofa,1966,Returning,Card,5,2369,20446,13,-18077,-763.06
+846,2024-04-25,Delhi,North,Groceries,Laptop,1314,New,Card,6,40433,1999,2,38434,95.06
+847,2024-04-26,Mumbai,West,Clothing,Rice,1038,New,Cash,3,19448,24314,0,-4866,-25.02
+848,2024-04-27,Hyderabad,South,Groceries,Rice,1258,Returning,Cash,8,36533,24589,19,11944,32.69
+849,2024-04-28,Chennai,West,Furniture,Laptop,1715,New,Cash,7,25175,8126,0,17049,67.72
+850,2024-04-29,Hyderabad,North,Furniture,Rice,1006,Returning,UPI,2,1716,23563,1,-21847,-1273.14
+851,2024-04-30,Hyderabad,South,Groceries,Mobile,1048,New,Card,7,14850,16637,18,-1787,-12.03
+852,2024-05-01,Delhi,South,Electronics,Rice,1537,New,Net Banking,1,2711,19672,23,-16961,-625.64
+853,2024-05-02,Mumbai,West,Clothing,Rice,1160,New,UPI,9,26801,21760,9,5041,18.81
+854,2024-05-03,Bangalore,North,Clothing,Laptop,1868,New,Cash,7,22751,4208,3,18543,81.5
+855,2024-05-04,Mumbai,West,Clothing,Shirt,1175,New,Net Banking,6,40029,26783,3,13246,33.09
+856,2024-05-05,Mumbai,West,Groceries,Rice,1590,Returning,Net Banking,2,26173,2269,12,23904,91.33
+857,2024-05-06,Hyderabad,West,Furniture,Table,1001,New,Card,3,7086,10010,25,-2924,-41.26
+858,2024-05-07,Mumbai,South,Clothing,Rice,1894,New,Net Banking,1,48130,14726,8,33404,69.4
+859,2024-05-08,Chennai,South,Furniture,Shirt,1454,New,Cash,5,12223,16134,6,-3911,-32.0
+860,2024-05-09,Hyderabad,North,Clothing,Laptop,1927,Returning,Card,9,17220,7231,15,9989,58.01
+861,2024-05-10,Chennai,North,Clothing,Shirt,1643,Returning,Net Banking,6,14392,28455,17,-14063,-97.71
+862,2024-05-11,Bangalore,West,Groceries,Laptop,1275,Returning,Card,5,21051,11465,2,9586,45.54
+863,2024-05-12,Hyderabad,West,Electronics,Mobile,1497,Returning,Net Banking,3,3246,28066,19,-24820,-764.63
+864,2024-05-13,Bangalore,West,Groceries,Laptop,1628,Returning,UPI,5,21010,19928,19,1082,5.15
+865,2024-05-14,Hyderabad,North,Clothing,Mobile,1675,New,UPI,8,3822,875,9,2947,77.11
+866,2024-05-15,Delhi,South,Clothing,Mobile,1799,New,Cash,2,25667,16017,23,9650,37.6
+867,2024-05-16,Mumbai,South,Electronics,Laptop,1027,New,UPI,5,18234,23231,25,-4997,-27.4
+868,2024-05-17,Delhi,West,Furniture,Table,1332,Returning,UPI,6,31654,19920,29,11734,37.07
+869,2024-05-18,Bangalore,West,Furniture,Sofa,1000,Returning,UPI,8,10669,25736,25,-15067,-141.22
+870,2024-05-19,Mumbai,West,Clothing,Laptop,1187,New,Net Banking,8,22784,6718,21,16066,70.51
+871,2024-05-20,Hyderabad,West,Furniture,Rice,1055,Returning,Net Banking,5,30672,26479,15,4193,13.67
+872,2024-05-21,Mumbai,North,Clothing,Table,1546,Returning,Card,9,2082,17624,2,-15542,-746.49
+873,2024-05-22,Chennai,South,Electronics,Table,1111,Returning,Net Banking,4,12148,8995,10,3153,25.95
+874,2024-05-23,Mumbai,West,Electronics,Rice,1797,New,UPI,9,28494,1585,24,26909,94.44
+875,2024-05-24,Chennai,North,Clothing,Sofa,1309,New,Net Banking,7,41935,13573,9,28362,67.63
+876,2024-05-25,Mumbai,West,Electronics,Table,1035,Returning,Cash,6,10557,11871,15,-1314,-12.45
+877,2024-05-26,Chennai,West,Groceries,Mobile,1438,Returning,Card,4,45496,18094,7,27402,60.23
+878,2024-05-27,Bangalore,South,Groceries,Sofa,1728,Returning,Card,2,37719,11726,8,25993,68.91
+879,2024-05-28,Delhi,West,Electronics,Rice,1591,Returning,Net Banking,8,48445,25304,14,23141,47.77
+880,2024-05-29,Hyderabad,South,Clothing,Sofa,1825,New,UPI,6,49737,20003,20,29734,59.78
+881,2024-05-30,Mumbai,South,Clothing,Laptop,1594,Returning,Card,3,42735,10546,2,32189,75.32
+882,2024-05-31,Delhi,South,Electronics,Sofa,1576,New,Cash,7,40536,17151,3,23385,57.69
+883,2024-06-01,Hyderabad,North,Furniture,Mobile,1324,New,Cash,7,15039,19658,29,-4619,-30.71
+884,2024-06-02,Hyderabad,North,Groceries,Laptop,1639,New,Card,6,3303,11541,12,-8238,-249.41
+885,2024-06-03,Chennai,South,Furniture,Shirt,1306,Returning,UPI,2,48931,4849,11,44082,90.09
+886,2024-06-04,Bangalore,West,Clothing,Rice,1533,New,UPI,8,40925,5465,20,35460,86.65
+887,2024-06-05,Bangalore,South,Clothing,Rice,1727,New,Net Banking,1,19281,27210,8,-7929,-41.12
+888,2024-06-06,Delhi,West,Furniture,Sofa,1618,Returning,Net Banking,1,49897,13992,24,35905,71.96
+889,2024-06-07,Bangalore,South,Electronics,Table,1108,Returning,Card,6,23209,13836,13,9373,40.39
+890,2024-06-08,Mumbai,West,Furniture,Laptop,1371,Returning,Net Banking,5,29173,25009,18,4164,14.27
+891,2024-06-09,Bangalore,North,Furniture,Shirt,1356,New,Net Banking,9,43287,20343,6,22944,53.0
+892,2024-06-10,Delhi,West,Groceries,Laptop,1180,Returning,Net Banking,7,26190,27345,15,-1155,-4.41
+893,2024-06-11,Bangalore,South,Groceries,Rice,1355,New,Cash,2,34012,17873,21,16139,47.45
+894,2024-06-12,Mumbai,North,Furniture,Laptop,1675,New,Net Banking,7,42716,13184,19,29532,69.14
+895,2024-06-13,Chennai,West,Furniture,Shirt,1067,Returning,Card,3,42783,17821,4,24962,58.35
+896,2024-06-14,Delhi,West,Clothing,Table,1291,New,UPI,1,44787,7154,29,37633,84.03
+897,2024-06-15,Chennai,West,Groceries,Sofa,1691,New,Net Banking,8,21191,23873,9,-2682,-12.66
+898,2024-06-16,Chennai,West,Groceries,Mobile,1180,New,UPI,3,3779,25515,17,-21736,-575.18
+899,2024-06-17,Chennai,West,Clothing,Laptop,1465,New,Net Banking,8,19230,7842,10,11388,59.22
+900,2024-06-18,Hyderabad,North,Electronics,Mobile,1433,Returning,Card,7,47491,22907,6,24584,51.77
+901,2024-06-19,Hyderabad,North,Groceries,Rice,1463,New,Cash,2,24405,2858,13,21547,88.29
+902,2024-06-20,Chennai,North,Groceries,Sofa,1680,Returning,Card,1,13803,27083,19,-13280,-96.21
+903,2024-06-21,Delhi,North,Electronics,Sofa,1913,New,Cash,7,28825,20229,17,8596,29.82
+904,2024-06-22,Mumbai,South,Groceries,Laptop,1533,New,Net Banking,1,14698,29206,10,-14508,-98.71
+905,2024-06-23,Mumbai,North,Groceries,Table,1065,Returning,Net Banking,6,35560,6860,21,28700,80.71
+906,2024-06-24,Bangalore,West,Electronics,Sofa,1020,New,Cash,8,16376,21700,26,-5324,-32.51
+907,2024-06-25,Delhi,West,Electronics,Laptop,1611,New,Card,7,19118,4243,11,14875,77.81
+908,2024-06-26,Hyderabad,North,Furniture,Laptop,1383,New,Card,4,14117,7659,17,6458,45.75
+909,2024-06-27,Chennai,West,Clothing,Mobile,1811,New,Cash,1,40983,1018,25,39965,97.52
+910,2024-06-28,Bangalore,North,Clothing,Sofa,1614,New,Net Banking,1,38956,17152,1,21804,55.97
+911,2024-06-29,Mumbai,West,Electronics,Laptop,1558,New,Cash,4,49786,13425,22,36361,73.03
+912,2024-06-30,Hyderabad,South,Electronics,Mobile,1038,Returning,Net Banking,5,48469,15310,0,33159,68.41
+913,2024-07-01,Hyderabad,South,Groceries,Shirt,1284,Returning,Cash,7,39049,16739,22,22310,57.13
+914,2024-07-02,Chennai,North,Furniture,Mobile,1821,Returning,Net Banking,4,23242,22328,9,914,3.93
+915,2024-07-03,Mumbai,North,Furniture,Mobile,1601,New,Cash,1,1944,5975,20,-4031,-207.36
+916,2024-07-04,Delhi,North,Electronics,Laptop,1596,New,UPI,7,32695,4685,0,28010,85.67
+917,2024-07-05,Hyderabad,West,Groceries,Rice,1784,New,Net Banking,2,2511,5661,5,-3150,-125.45
+918,2024-07-06,Chennai,North,Groceries,Rice,1335,Returning,Card,2,46486,10080,6,36406,78.32
+919,2024-07-07,Delhi,South,Clothing,Table,1187,New,Cash,8,23502,10386,16,13116,55.81
+920,2024-07-08,Mumbai,West,Clothing,Rice,1670,Returning,Card,5,25805,11965,8,13840,53.63
+921,2024-07-09,Hyderabad,North,Groceries,Mobile,1242,New,Cash,2,27993,26465,6,1528,5.46
+922,2024-07-10,Delhi,West,Clothing,Table,1072,New,Card,5,9369,20749,16,-11380,-121.46
+923,2024-07-11,Delhi,West,Electronics,Laptop,1478,New,Card,8,45888,11721,2,34167,74.46
+924,2024-07-12,Delhi,North,Groceries,Sofa,1973,Returning,Cash,6,47489,24895,15,22594,47.58
+925,2024-07-13,Hyderabad,West,Clothing,Mobile,1560,New,Cash,3,36383,2835,4,33548,92.21
+926,2024-07-14,Hyderabad,South,Furniture,Mobile,1100,Returning,Card,8,18997,4174,19,14823,78.03
+927,2024-07-15,Bangalore,South,Groceries,Table,1513,New,Card,9,16629,5076,17,11553,69.48
+928,2024-07-16,Mumbai,West,Groceries,Laptop,1755,New,Card,5,32949,15472,0,17477,53.04
+929,2024-07-17,Chennai,North,Furniture,Shirt,1175,Returning,Net Banking,2,3840,1000,3,2840,73.96
+930,2024-07-18,Delhi,West,Electronics,Mobile,1237,New,Net Banking,2,15051,26737,22,-11686,-77.64
+931,2024-07-19,Bangalore,South,Furniture,Shirt,1909,New,UPI,7,28523,27175,10,1348,4.73
+932,2024-07-20,Chennai,West,Groceries,Shirt,1058,New,Net Banking,1,2774,8583,19,-5809,-209.41
+933,2024-07-21,Bangalore,West,Electronics,Rice,1864,New,Net Banking,2,14262,8794,8,5468,38.34
+934,2024-07-22,Hyderabad,South,Clothing,Laptop,1098,Returning,Cash,4,4871,16220,29,-11349,-232.99
+935,2024-07-23,Delhi,West,Clothing,Shirt,1953,Returning,UPI,1,9273,6043,7,3230,34.83
+936,2024-07-24,Chennai,West,Clothing,Laptop,1870,New,UPI,4,18229,19630,7,-1401,-7.69
+937,2024-07-25,Chennai,North,Groceries,Rice,1953,New,Net Banking,5,28385,3776,4,24609,86.7
+938,2024-07-26,Chennai,North,Furniture,Laptop,1494,Returning,Cash,9,43176,19969,11,23207,53.75
+939,2024-07-27,Chennai,South,Electronics,Mobile,1946,New,Cash,1,30289,22619,0,7670,25.32
+940,2024-07-28,Chennai,South,Clothing,Shirt,1979,Returning,UPI,5,4260,24680,14,-20420,-479.34
+941,2024-07-29,Bangalore,South,Electronics,Laptop,1513,New,Cash,2,33019,7113,24,25906,78.46
+942,2024-07-30,Delhi,North,Groceries,Sofa,1754,Returning,Card,9,4145,12229,17,-8084,-195.03
+943,2024-07-31,Hyderabad,South,Clothing,Laptop,1296,Returning,Net Banking,6,32753,1827,5,30926,94.42
+944,2024-08-01,Hyderabad,South,Groceries,Shirt,1210,Returning,Card,2,8802,8272,9,530,6.02
+945,2024-08-02,Hyderabad,South,Furniture,Rice,1122,Returning,UPI,3,3263,11166,13,-7903,-242.2
+946,2024-08-03,Hyderabad,North,Groceries,Rice,1228,New,UPI,8,27913,26755,20,1158,4.15
+947,2024-08-04,Bangalore,West,Groceries,Shirt,1593,New,Cash,1,9155,20630,25,-11475,-125.34
+948,2024-08-05,Mumbai,South,Furniture,Mobile,1655,Returning,Cash,3,1922,22568,28,-20646,-1074.19
+949,2024-08-06,Delhi,West,Electronics,Mobile,1387,Returning,UPI,1,7695,16789,7,-9094,-118.18
+950,2024-08-07,Chennai,South,Furniture,Rice,1139,Returning,UPI,8,21672,19446,26,2226,10.27
+951,2024-08-08,Mumbai,West,Furniture,Rice,1540,Returning,Card,1,39526,21047,2,18479,46.75
+952,2024-08-09,Hyderabad,North,Groceries,Shirt,1390,New,Card,5,46344,20201,21,26143,56.41
+953,2024-08-10,Mumbai,North,Electronics,Mobile,1269,Returning,Cash,4,20014,19320,21,694,3.47
+954,2024-08-11,Delhi,South,Clothing,Rice,1758,Returning,Card,7,8816,6269,25,2547,28.89
+955,2024-08-12,Chennai,West,Furniture,Mobile,1011,Returning,Cash,5,26743,25383,18,1360,5.09
+956,2024-08-13,Chennai,North,Electronics,Rice,1866,Returning,Cash,8,41324,29072,11,12252,29.65
+957,2024-08-14,Delhi,South,Furniture,Laptop,1388,Returning,Net Banking,1,49993,14163,11,35830,71.67
+958,2024-08-15,Delhi,South,Furniture,Sofa,1336,Returning,Cash,5,29539,6418,14,23121,78.27
+959,2024-08-16,Hyderabad,North,Furniture,Table,1505,Returning,Card,4,31102,17973,27,13129,42.21
+960,2024-08-17,Chennai,North,Furniture,Laptop,1105,New,UPI,3,39698,5055,6,34643,87.27
+961,2024-08-18,Mumbai,South,Groceries,Table,1031,Returning,UPI,5,12633,2894,26,9739,77.09
+962,2024-08-19,Bangalore,West,Electronics,Rice,1073,Returning,Card,3,24384,23352,3,1032,4.23
+963,2024-08-20,Bangalore,West,Electronics,Sofa,1170,Returning,UPI,8,4512,20888,20,-16376,-362.94
+964,2024-08-21,Delhi,West,Electronics,Sofa,1848,New,Cash,3,7066,1166,8,5900,83.5
+965,2024-08-22,Hyderabad,South,Furniture,Rice,1068,New,UPI,1,32500,22602,21,9898,30.46
+966,2024-08-23,Bangalore,North,Groceries,Rice,1812,New,Card,9,14207,22036,15,-7829,-55.11
+967,2024-08-24,Chennai,South,Furniture,Mobile,1361,Returning,UPI,9,21106,12855,25,8251,39.09
+968,2024-08-25,Delhi,North,Furniture,Rice,1648,Returning,Cash,6,15322,2734,12,12588,82.16
+969,2024-08-26,Mumbai,West,Electronics,Shirt,1432,Returning,Cash,1,35828,6835,3,28993,80.92
+970,2024-08-27,Delhi,West,Furniture,Rice,1928,New,Card,8,47781,18120,23,29661,62.08
+971,2024-08-28,Mumbai,North,Clothing,Shirt,1995,Returning,Card,2,20418,18507,8,1911,9.36
+972,2024-08-29,Delhi,North,Furniture,Rice,1099,New,Card,9,3387,18258,25,-14871,-439.06
+973,2024-08-30,Delhi,South,Clothing,Mobile,1657,New,Net Banking,8,9031,24159,20,-15128,-167.51
+974,2024-08-31,Delhi,West,Furniture,Shirt,1008,New,Net Banking,3,2799,12003,17,-9204,-328.83
+975,2024-09-01,Mumbai,South,Groceries,Laptop,1573,New,Cash,5,36548,6859,14,29689,81.23
+976,2024-09-02,Mumbai,South,Groceries,Shirt,1696,New,Net Banking,9,34895,17060,14,17835,51.11
+977,2024-09-03,Delhi,South,Electronics,Mobile,1028,Returning,Net Banking,1,25914,14376,5,11538,44.52
+978,2024-09-04,Bangalore,West,Furniture,Table,1892,Returning,UPI,9,41133,26429,10,14704,35.75
+979,2024-09-05,Hyderabad,South,Clothing,Shirt,1113,New,Net Banking,4,15635,23588,27,-7953,-50.87
+980,2024-09-06,Hyderabad,South,Clothing,Rice,1461,Returning,UPI,4,41379,3428,7,37951,91.72
+981,2024-09-07,Hyderabad,South,Furniture,Rice,1920,Returning,Card,4,46414,25701,28,20713,44.63
+982,2024-09-08,Mumbai,South,Clothing,Table,1142,New,UPI,9,8535,8117,20,418,4.9
+983,2024-09-09,Mumbai,South,Groceries,Mobile,1389,New,UPI,6,48272,27730,16,20542,42.55
+984,2024-09-10,Bangalore,South,Clothing,Sofa,1631,Returning,Card,8,43132,8114,23,35018,81.19
+985,2024-09-11,Hyderabad,West,Electronics,Rice,1681,Returning,Card,4,3808,28684,24,-24876,-653.26
+986,2024-09-12,Hyderabad,South,Groceries,Laptop,1156,Returning,Cash,3,14055,20599,16,-6544,-46.56
+987,2024-09-13,Delhi,North,Groceries,Mobile,1334,Returning,Cash,1,28605,4774,23,23831,83.31
+988,2024-09-14,Mumbai,South,Groceries,Shirt,1860,New,Cash,7,27665,25470,25,2195,7.93
+989,2024-09-15,Hyderabad,South,Furniture,Shirt,1259,Returning,Cash,4,33767,26244,27,7523,22.28
+990,2024-09-16,Bangalore,West,Furniture,Laptop,1081,New,UPI,8,5297,5471,17,-174,-3.28
+991,2024-09-17,Bangalore,West,Groceries,Rice,1753,New,UPI,3,44977,8889,3,36088,80.24
+992,2024-09-18,Hyderabad,North,Furniture,Mobile,1440,Returning,Cash,1,21943,17852,28,4091,18.64
+993,2024-09-19,Mumbai,North,Clothing,Laptop,1944,Returning,Net Banking,5,34216,28984,14,5232,15.29
+994,2024-09-20,Bangalore,West,Furniture,Rice,1171,Returning,Cash,2,6008,20039,1,-14031,-233.54
+995,2024-09-21,Delhi,West,Furniture,Mobile,1230,New,Net Banking,3,22277,21648,1,629,2.82
+996,2024-09-22,Bangalore,South,Groceries,Shirt,1719,New,Card,6,17820,3004,9,14816,83.14
+997,2024-09-23,Chennai,West,Electronics,Mobile,1074,New,UPI,3,7012,24527,2,-17515,-249.79
+998,2024-09-24,Chennai,North,Electronics,Table,1269,New,UPI,3,23253,26352,29,-3099,-13.33
+999,2024-09-25,Mumbai,South,Electronics,Sofa,1898,Returning,Net Banking,6,30202,6506,7,23696,78.46
+1000,2024-09-26,Hyderabad,North,Clothing,Mobile,1625,New,Cash,5,30236,29243,19,993,3.28
+1001,2024-09-27,Mumbai,South,Furniture,Sofa,1061,New,UPI,9,2620,29394,6,-26774,-1021.91
+1002,2024-09-28,Mumbai,West,Electronics,Mobile,1873,Returning,Net Banking,1,47352,24846,11,22506,47.53
+1003,2024-09-29,Mumbai,North,Groceries,Sofa,1319,New,Card,3,34716,8443,25,26273,75.68
+1004,2024-09-30,Mumbai,South,Electronics,Table,1101,New,Card,3,10319,18153,18,-7834,-75.92
+1005,2024-10-01,Delhi,South,Electronics,Shirt,1428,Returning,UPI,6,17575,18248,25,-673,-3.83
+1006,2024-10-02,Delhi,West,Furniture,Rice,1873,New,Cash,8,13204,23600,27,-10396,-78.73
+1007,2024-10-03,Bangalore,West,Furniture,Sofa,1721,New,Net Banking,3,12952,1423,29,11529,89.01
+1008,2024-10-04,Chennai,West,Furniture,Table,1953,New,UPI,3,18787,17354,14,1433,7.63
+1009,2024-10-05,Mumbai,North,Clothing,Sofa,1254,New,Card,6,34872,23481,13,11391,32.67
+1010,2024-10-06,Bangalore,South,Clothing,Shirt,1531,Returning,Cash,8,30376,28092,15,2284,7.52
+1011,2024-10-07,Chennai,West,Electronics,Sofa,1569,New,Net Banking,6,1548,10746,28,-9198,-594.19
+1012,2024-10-08,Hyderabad,North,Furniture,Table,1111,Returning,UPI,3,12640,12975,26,-335,-2.65
+1013,2024-10-09,Delhi,North,Electronics,Table,1984,New,Net Banking,4,27437,27127,13,310,1.13
+1014,2024-10-10,Chennai,North,Groceries,Laptop,1312,Returning,Cash,1,23145,19838,2,3307,14.29
+1015,2024-10-11,Hyderabad,West,Groceries,Shirt,1997,Returning,Cash,8,8903,18032,17,-9129,-102.54
+1016,2024-10-12,Chennai,West,Furniture,Laptop,1460,Returning,Card,4,19168,3586,28,15582,81.29
+1017,2024-10-13,Delhi,South,Furniture,Shirt,1707,New,Cash,6,27863,26035,27,1828,6.56
+1018,2024-10-14,Delhi,South,Groceries,Sofa,1886,New,UPI,3,44381,15360,21,29021,65.39
+1019,2024-10-15,Bangalore,West,Furniture,Table,1461,New,Net Banking,6,29548,17513,5,12035,40.73
+1020,2024-10-16,Mumbai,North,Clothing,Laptop,1864,Returning,Cash,9,9990,7907,16,2083,20.85
+1021,2024-10-17,Chennai,North,Clothing,Sofa,1091,New,Cash,9,12467,1274,22,11193,89.78
+1022,2024-10-18,Chennai,North,Furniture,Table,1051,New,UPI,3,24901,25435,27,-534,-2.14
+1023,2024-10-19,Hyderabad,South,Groceries,Shirt,1804,New,Net Banking,3,24301,9209,13,15092,62.1
+1024,2024-10-20,Delhi,North,Electronics,Table,1519,New,Net Banking,4,38006,16811,13,21195,55.77
+1025,2024-10-21,Chennai,South,Furniture,Sofa,1811,Returning,Card,7,20644,1843,19,18801,91.07
+1026,2024-10-22,Delhi,South,Furniture,Laptop,1097,Returning,Card,3,5367,24282,12,-18915,-352.43
+1027,2024-10-23,Chennai,North,Electronics,Laptop,1235,New,Net Banking,8,39419,10661,26,28758,72.95
+1028,2024-10-24,Bangalore,North,Furniture,Table,1900,New,UPI,8,17204,24081,27,-6877,-39.97
+1029,2024-10-25,Mumbai,West,Electronics,Sofa,1373,New,UPI,6,20755,21900,2,-1145,-5.52
+1030,2024-10-26,Chennai,West,Groceries,Mobile,1580,Returning,Card,4,3093,11919,12,-8826,-285.35
+1031,2024-10-27,Delhi,North,Clothing,Shirt,1926,New,Cash,5,5001,8297,28,-3296,-65.91
+1032,2024-10-28,Bangalore,South,Groceries,Shirt,1556,Returning,UPI,2,31783,19783,23,12000,37.76
+1033,2024-10-29,Chennai,South,Clothing,Sofa,1648,Returning,Cash,6,23940,1434,1,22506,94.01
+1034,2024-10-30,Hyderabad,South,Electronics,Mobile,1233,New,UPI,3,8810,2486,8,6324,71.78
+1035,2024-10-31,Mumbai,South,Clothing,Laptop,1031,New,Net Banking,6,45040,21880,12,23160,51.42
+1036,2024-11-01,Chennai,South,Groceries,Rice,1288,New,Card,5,38322,14516,7,23806,62.12
+1037,2024-11-02,Bangalore,West,Clothing,Rice,1637,Returning,Cash,2,27008,23426,15,3582,13.26
+1038,2024-11-03,Hyderabad,North,Electronics,Sofa,1578,Returning,Cash,5,19901,5965,23,13936,70.03
+1039,2024-11-04,Bangalore,West,Clothing,Mobile,1541,New,Net Banking,5,28433,23195,28,5238,18.42
+1040,2024-11-05,Bangalore,South,Furniture,Mobile,1113,Returning,UPI,9,42465,25452,2,17013,40.06
+1041,2024-11-06,Hyderabad,South,Groceries,Shirt,1203,New,Cash,8,23189,28636,12,-5447,-23.49
+1042,2024-11-07,Bangalore,South,Furniture,Laptop,1028,New,UPI,7,46139,10466,3,35673,77.32
+1043,2024-11-08,Hyderabad,South,Electronics,Table,1642,Returning,Net Banking,3,29730,16221,17,13509,45.44
+1044,2024-11-09,Chennai,North,Clothing,Mobile,1473,Returning,Card,4,10236,2005,1,8231,80.41
+1045,2024-11-10,Hyderabad,South,Furniture,Table,1696,Returning,Cash,6,47537,5863,19,41674,87.67
+1046,2024-11-11,Hyderabad,North,Furniture,Rice,1252,Returning,UPI,3,8061,16440,21,-8379,-103.94
+1047,2024-11-12,Mumbai,South,Clothing,Table,1797,New,Cash,9,19588,11346,20,8242,42.08
+1048,2024-11-13,Hyderabad,North,Clothing,Laptop,1904,New,UPI,8,4902,1510,14,3392,69.2
+1049,2024-11-14,Hyderabad,West,Groceries,Laptop,1921,New,UPI,6,35120,15424,16,19696,56.08
+1050,2024-11-15,Chennai,South,Furniture,Table,1385,Returning,UPI,4,35364,13982,28,21382,60.46
+1051,2024-11-16,Mumbai,North,Furniture,Sofa,1061,New,Net Banking,7,42535,20361,9,22174,52.13
+1052,2024-11-17,Delhi,West,Electronics,Mobile,1514,Returning,Card,3,34447,24625,0,9822,28.51
+1053,2024-11-18,Chennai,South,Groceries,Sofa,1429,Returning,Cash,8,29874,26306,5,3568,11.94
+1054,2024-11-19,Chennai,South,Electronics,Table,1579,Returning,Card,1,21096,9869,2,11227,53.22
+1055,2024-11-20,Delhi,South,Furniture,Mobile,1536,New,UPI,3,13020,4357,18,8663,66.54
+1056,2024-11-21,Hyderabad,North,Electronics,Shirt,1690,Returning,UPI,5,45864,27171,6,18693,40.76
+1057,2024-11-22,Bangalore,North,Furniture,Sofa,1140,Returning,Card,5,45153,10364,12,34789,77.05
+1058,2024-11-23,Mumbai,West,Furniture,Sofa,1742,Returning,Card,2,42277,10620,12,31657,74.88
+1059,2024-11-24,Bangalore,North,Electronics,Table,1299,Returning,Cash,8,22685,20723,16,1962,8.65
+1060,2024-11-25,Delhi,North,Electronics,Rice,1674,Returning,UPI,5,39502,11870,0,27632,69.95
+1061,2024-11-26,Chennai,South,Clothing,Table,1310,Returning,Card,7,16675,21152,13,-4477,-26.85
+1062,2024-11-27,Chennai,South,Clothing,Sofa,1470,Returning,Net Banking,7,25365,3053,28,22312,87.96
+1063,2024-11-28,Mumbai,South,Clothing,Mobile,1392,Returning,UPI,5,23276,15989,25,7287,31.31
+1064,2024-11-29,Chennai,South,Furniture,Rice,1641,Returning,UPI,8,13693,27521,2,-13828,-100.99
+1065,2024-11-30,Chennai,South,Electronics,Table,1444,Returning,Cash,9,24513,4889,13,19624,80.06
+1066,2024-12-01,Mumbai,South,Groceries,Table,1757,Returning,Net Banking,4,24621,17435,23,7186,29.19
+1067,2024-12-02,Mumbai,South,Furniture,Sofa,1808,Returning,Cash,4,24711,22450,0,2261,9.15
+1068,2024-12-03,Delhi,West,Groceries,Sofa,1171,New,Net Banking,8,41175,11589,15,29586,71.85
+1069,2024-12-04,Chennai,West,Electronics,Shirt,1575,New,Cash,1,45554,9731,9,35823,78.64
+1070,2024-12-05,Chennai,West,Furniture,Table,1030,Returning,Net Banking,4,28785,22642,12,6143,21.34
+1071,2024-12-06,Delhi,West,Groceries,Sofa,1046,Returning,Net Banking,6,3542,25960,3,-22418,-632.92
+1072,2024-12-07,Hyderabad,South,Groceries,Laptop,1129,Returning,Net Banking,4,18062,3551,8,14511,80.34
+1073,2024-12-08,Hyderabad,West,Clothing,Rice,1351,New,Card,6,6366,5822,13,544,8.55
+1074,2024-12-09,Hyderabad,South,Clothing,Laptop,1977,New,UPI,5,27465,29305,3,-1840,-6.7
+1075,2024-12-10,Delhi,West,Clothing,Rice,1844,New,Net Banking,9,33286,29942,9,3344,10.05
+1076,2024-12-11,Chennai,North,Furniture,Table,1621,Returning,Card,9,41178,12289,7,28889,70.16
+1077,2024-12-12,Delhi,West,Electronics,Shirt,1580,Returning,Card,4,43603,3055,22,40548,92.99
+1078,2024-12-13,Delhi,West,Electronics,Sofa,1057,Returning,Cash,4,14647,17973,2,-3326,-22.71
+1079,2024-12-14,Hyderabad,South,Clothing,Sofa,1105,Returning,UPI,8,39309,13267,22,26042,66.25
+1080,2024-12-15,Bangalore,West,Clothing,Sofa,1811,New,UPI,4,44201,958,6,43243,97.83
+1081,2024-12-16,Chennai,North,Clothing,Table,1329,Returning,Cash,2,44315,16201,9,28114,63.44
+1082,2024-12-17,Hyderabad,South,Groceries,Rice,1767,New,UPI,2,10860,16566,2,-5706,-52.54
+1083,2024-12-18,Bangalore,South,Clothing,Sofa,1823,New,Cash,1,11745,5221,1,6524,55.55
+1084,2024-12-19,Bangalore,West,Groceries,Laptop,1682,Returning,Card,5,7818,12946,14,-5128,-65.59
+1085,2024-12-20,Mumbai,South,Electronics,Sofa,1382,New,Card,6,15101,6804,8,8297,54.94
+1086,2024-12-21,Chennai,South,Furniture,Table,1984,New,Net Banking,9,6028,14065,14,-8037,-133.33
+1087,2024-12-22,Bangalore,South,Furniture,Shirt,1161,New,Cash,5,33725,10699,16,23026,68.28
+1088,2024-12-23,Hyderabad,South,Furniture,Laptop,1996,New,Card,6,49566,2420,29,47146,95.12
+1089,2024-12-24,Mumbai,South,Furniture,Sofa,1285,Returning,Card,6,44722,13727,6,30995,69.31
+1090,2024-12-25,Chennai,South,Groceries,Sofa,1070,Returning,Cash,3,22087,8194,19,13893,62.9
+1091,2024-12-26,Delhi,North,Groceries,Mobile,1766,New,Card,4,46538,22552,17,23986,51.54
+1092,2024-12-27,Hyderabad,West,Clothing,Rice,1453,Returning,UPI,1,10438,6798,14,3640,34.87
+1093,2024-12-28,Bangalore,North,Groceries,Laptop,1885,New,Card,4,19156,7129,17,12027,62.78
+1094,2024-12-29,Bangalore,South,Clothing,Mobile,1566,Returning,Cash,1,19548,13219,23,6329,32.38
+1095,2024-12-30,Hyderabad,South,Clothing,Shirt,1834,Returning,UPI,5,40879,5646,22,35233,86.19
+1096,2024-12-31,Bangalore,West,Furniture,Rice,1396,Returning,UPI,8,25767,17887,11,7880,30.58
+1097,2025-01-01,Mumbai,North,Groceries,Laptop,1514,Returning,Card,8,39881,19967,22,19914,49.93
+1098,2025-01-02,Chennai,West,Groceries,Sofa,1025,Returning,Net Banking,5,3563,10806,20,-7243,-203.28
+1099,2025-01-03,Mumbai,North,Clothing,Laptop,1312,New,UPI,2,49657,3089,29,46568,93.78
+1100,2025-01-04,Bangalore,South,Clothing,Sofa,1125,Returning,Cash,6,9498,27219,25,-17721,-186.58
+1101,2025-01-05,Delhi,West,Electronics,Rice,1407,New,Net Banking,1,9131,4810,7,4321,47.32
+1102,2025-01-06,Chennai,West,Electronics,Sofa,1564,New,Net Banking,7,26107,2741,29,23366,89.5
+1103,2025-01-07,Chennai,South,Clothing,Shirt,1197,Returning,UPI,4,29793,22650,1,7143,23.98
+1104,2025-01-08,Hyderabad,West,Electronics,Table,1810,New,Card,5,3696,14101,1,-10405,-281.52
+1105,2025-01-09,Hyderabad,North,Electronics,Sofa,1187,Returning,Net Banking,6,24705,8211,4,16494,66.76
+1106,2025-01-10,Delhi,North,Clothing,Shirt,1697,New,Card,1,24397,21864,0,2533,10.38
+1107,2025-01-11,Chennai,North,Clothing,Table,1816,New,UPI,9,8704,27162,21,-18458,-212.06
+1108,2025-01-12,Delhi,North,Groceries,Rice,1809,Returning,Cash,4,17442,1438,3,16004,91.76
+1109,2025-01-13,Hyderabad,South,Clothing,Rice,1715,Returning,Net Banking,8,10765,4801,5,5964,55.4
+1110,2025-01-14,Hyderabad,West,Clothing,Laptop,1483,Returning,Cash,5,11002,4470,22,6532,59.37
+1111,2025-01-15,Chennai,North,Furniture,Shirt,1449,Returning,Card,8,12390,4499,12,7891,63.69
+1112,2025-01-16,Mumbai,South,Groceries,Shirt,1522,New,Card,1,45436,21534,18,23902,52.61
+1113,2025-01-17,Bangalore,West,Groceries,Mobile,1870,Returning,Cash,8,19946,23511,10,-3565,-17.87
+1114,2025-01-18,Hyderabad,West,Groceries,Mobile,1353,New,UPI,4,7641,3908,12,3733,48.85
+1115,2025-01-19,Hyderabad,South,Furniture,Table,1985,New,UPI,2,34709,14307,7,20402,58.78
+1116,2025-01-20,Mumbai,South,Clothing,Table,1657,New,Net Banking,6,46583,9462,6,37121,79.69
+1117,2025-01-21,Mumbai,North,Groceries,Mobile,1596,New,Net Banking,2,40309,17132,12,23177,57.5
+1118,2025-01-22,Delhi,West,Groceries,Table,1099,New,UPI,5,16624,13885,0,2739,16.48
+1119,2025-01-23,Delhi,West,Electronics,Sofa,1615,New,UPI,2,10966,25448,5,-14482,-132.06
+1120,2025-01-24,Bangalore,South,Groceries,Mobile,1947,Returning,Cash,3,24814,6450,6,18364,74.01
+1121,2025-01-25,Bangalore,West,Clothing,Shirt,1557,New,Card,6,35189,3426,15,31763,90.26
+1122,2025-01-26,Chennai,North,Clothing,Sofa,1555,New,Card,1,6765,8475,29,-1710,-25.28
+1123,2025-01-27,Delhi,West,Electronics,Table,1277,New,Net Banking,6,31222,20741,26,10481,33.57
+1124,2025-01-28,Hyderabad,South,Groceries,Rice,1692,Returning,UPI,3,18223,21814,14,-3591,-19.71
+1125,2025-01-29,Delhi,South,Groceries,Laptop,1698,Returning,Cash,7,37769,23898,19,13871,36.73
+1126,2025-01-30,Hyderabad,North,Groceries,Mobile,1989,New,Net Banking,2,13647,25777,29,-12130,-88.88
+1127,2025-01-31,Mumbai,North,Furniture,Rice,1625,Returning,Cash,6,39016,27261,1,11755,30.13
+1128,2025-02-01,Delhi,West,Groceries,Table,1490,New,UPI,8,5959,7466,25,-1507,-25.29
+1129,2025-02-02,Mumbai,West,Clothing,Shirt,1254,Returning,UPI,1,28257,9633,24,18624,65.91
+1130,2025-02-03,Bangalore,South,Clothing,Laptop,1380,New,UPI,9,32984,28990,22,3994,12.11
+1131,2025-02-04,Bangalore,North,Furniture,Rice,1891,Returning,Card,5,23212,7087,15,16125,69.47
+1132,2025-02-05,Chennai,North,Furniture,Laptop,1541,Returning,UPI,5,28215,23380,16,4835,17.14
+1133,2025-02-06,Delhi,North,Groceries,Mobile,1263,Returning,Net Banking,5,37657,5591,23,32066,85.15
+1134,2025-02-07,Mumbai,West,Electronics,Table,1609,New,Card,6,30057,9485,14,20572,68.44
+1135,2025-02-08,Hyderabad,North,Furniture,Shirt,1824,New,Cash,2,35094,17561,2,17533,49.96
+1136,2025-02-09,Bangalore,South,Furniture,Table,1878,New,Net Banking,6,39669,22793,3,16876,42.54
+1137,2025-02-10,Bangalore,South,Groceries,Laptop,1328,Returning,Net Banking,4,37126,2061,11,35065,94.45
+1138,2025-02-11,Hyderabad,West,Groceries,Rice,1114,Returning,Cash,8,35353,20937,4,14416,40.78
+1139,2025-02-12,Mumbai,West,Furniture,Mobile,1275,New,Card,9,14500,9144,16,5356,36.94
+1140,2025-02-13,Mumbai,North,Electronics,Mobile,1487,Returning,Net Banking,9,45328,27542,5,17786,39.24
+1141,2025-02-14,Delhi,West,Furniture,Table,1280,New,Net Banking,8,17772,15285,9,2487,13.99
+1142,2025-02-15,Delhi,South,Groceries,Rice,1274,New,Net Banking,3,49586,4156,21,45430,91.62
+1143,2025-02-16,Chennai,North,Groceries,Rice,1772,New,Card,4,4332,22118,17,-17786,-410.57
+1144,2025-02-17,Bangalore,South,Furniture,Laptop,1842,New,Card,1,23218,21030,26,2188,9.42
+1145,2025-02-18,Delhi,North,Electronics,Table,1718,Returning,Card,9,36588,22372,9,14216,38.85
+1146,2025-02-19,Mumbai,West,Furniture,Table,1895,Returning,Net Banking,5,16472,24965,5,-8493,-51.56
+1147,2025-02-20,Hyderabad,North,Furniture,Sofa,1327,Returning,UPI,6,5959,28830,23,-22871,-383.81
+1148,2025-02-21,Mumbai,North,Groceries,Table,1210,New,Cash,3,18443,16639,5,1804,9.78
+1149,2025-02-22,Bangalore,South,Electronics,Mobile,1726,Returning,UPI,8,46134,709,19,45425,98.46
+1150,2025-02-23,Mumbai,South,Clothing,Laptop,1922,New,Card,7,26874,5483,14,21391,79.6
+1151,2025-02-24,Chennai,North,Electronics,Rice,1551,New,Net Banking,1,2301,7641,3,-5340,-232.07
+1152,2025-02-25,Bangalore,West,Furniture,Table,1991,New,Net Banking,5,44319,10618,24,33701,76.04
+1153,2025-02-26,Hyderabad,West,Furniture,Laptop,1025,New,UPI,9,25080,16761,15,8319,33.17
+1154,2025-02-27,Chennai,South,Furniture,Table,1026,New,UPI,6,21683,21829,21,-146,-0.67
+1155,2025-02-28,Bangalore,West,Electronics,Rice,1701,New,Cash,8,30656,24864,23,5792,18.89
+1156,2025-03-01,Hyderabad,South,Groceries,Shirt,1082,Returning,Net Banking,1,23455,4466,7,18989,80.96
+1157,2025-03-02,Chennai,West,Furniture,Rice,1895,Returning,UPI,7,5112,10569,6,-5457,-106.75
+1158,2025-03-03,Chennai,North,Furniture,Rice,1945,Returning,Cash,3,46531,9318,18,37213,79.97
+1159,2025-03-04,Bangalore,South,Electronics,Rice,1681,Returning,Card,9,45542,11418,25,34124,74.93
+1160,2025-03-05,Delhi,South,Clothing,Table,1412,New,UPI,6,17882,10150,16,7732,43.24
+1161,2025-03-06,Chennai,North,Clothing,Sofa,1166,New,Card,5,33145,19708,20,13437,40.54
+1162,2025-03-07,Chennai,South,Groceries,Rice,1699,Returning,Cash,8,42388,1750,12,40638,95.87
+1163,2025-03-08,Hyderabad,West,Groceries,Mobile,1168,Returning,Card,8,33735,5258,14,28477,84.41
+1164,2025-03-09,Mumbai,West,Furniture,Mobile,1800,Returning,Net Banking,3,8245,4863,25,3382,41.02
+1165,2025-03-10,Bangalore,South,Electronics,Laptop,1978,Returning,Net Banking,2,45599,2663,25,42936,94.16
+1166,2025-03-11,Bangalore,West,Furniture,Sofa,1228,Returning,Card,2,3105,10315,1,-7210,-232.21
+1167,2025-03-12,Delhi,South,Groceries,Laptop,1978,Returning,Net Banking,5,43513,2353,27,41160,94.59
+1168,2025-03-13,Delhi,North,Electronics,Mobile,1608,Returning,Cash,7,22711,17637,9,5074,22.34
+1169,2025-03-14,Bangalore,South,Electronics,Mobile,1366,Returning,Net Banking,8,6630,22332,12,-15702,-236.83
+1170,2025-03-15,Delhi,North,Groceries,Shirt,1527,New,Card,8,4206,2368,17,1838,43.7
+1171,2025-03-16,Hyderabad,West,Clothing,Rice,1790,New,Card,8,19953,17065,29,2888,14.47
+1172,2025-03-17,Bangalore,North,Clothing,Mobile,1646,New,Card,3,36396,18397,22,17999,49.45
+1173,2025-03-18,Delhi,West,Electronics,Table,1537,New,UPI,2,11068,16068,10,-5000,-45.18
+1174,2025-03-19,Bangalore,South,Furniture,Table,1863,Returning,Card,4,14394,9594,12,4800,33.35
+1175,2025-03-20,Mumbai,West,Clothing,Laptop,1523,New,Cash,1,2067,20228,18,-18161,-878.62
+1176,2025-03-21,Chennai,South,Furniture,Laptop,1071,Returning,Net Banking,3,16245,5738,28,10507,64.68
+1177,2025-03-22,Bangalore,South,Clothing,Rice,1644,New,Net Banking,9,10859,28529,23,-17670,-162.72
+1178,2025-03-23,Chennai,North,Clothing,Rice,1105,Returning,UPI,7,30164,7589,24,22575,74.84
+1179,2025-03-24,Delhi,North,Furniture,Shirt,1731,Returning,UPI,7,40410,28683,29,11727,29.02
+1180,2025-03-25,Chennai,North,Groceries,Sofa,1884,New,Cash,1,16377,23285,28,-6908,-42.18
+1181,2025-03-26,Bangalore,North,Clothing,Laptop,1964,New,Card,7,37834,19440,23,18394,48.62
+1182,2025-03-27,Mumbai,West,Clothing,Rice,1688,Returning,UPI,7,34715,27215,21,7500,21.6
+1183,2025-03-28,Delhi,West,Furniture,Laptop,1281,Returning,Net Banking,4,21773,22982,4,-1209,-5.55
+1184,2025-03-29,Bangalore,West,Groceries,Rice,1132,Returning,UPI,7,34939,5780,2,29159,83.46
+1185,2025-03-30,Delhi,South,Clothing,Mobile,1533,New,UPI,8,49599,4744,18,44855,90.44
+1186,2025-03-31,Hyderabad,West,Clothing,Laptop,1974,New,Card,3,7114,2664,22,4450,62.55
+1187,2025-04-01,Chennai,West,Groceries,Mobile,1268,Returning,UPI,2,33939,23485,12,10454,30.8
+1188,2025-04-02,Hyderabad,West,Clothing,Laptop,1411,New,Cash,7,13818,27688,4,-13870,-100.38
+1189,2025-04-03,Bangalore,North,Groceries,Sofa,1672,Returning,Net Banking,5,10335,15649,11,-5314,-51.42
+1190,2025-04-04,Mumbai,West,Groceries,Shirt,1618,New,Card,5,43819,14588,13,29231,66.71
+1191,2025-04-05,Delhi,South,Furniture,Table,1790,New,Net Banking,5,7209,18905,5,-11696,-162.24
+1192,2025-04-06,Chennai,North,Electronics,Table,1864,New,Cash,7,44148,3321,29,40827,92.48
+1193,2025-04-07,Delhi,South,Groceries,Table,1746,New,Cash,9,4577,22822,21,-18245,-398.62
+1194,2025-04-08,Bangalore,West,Furniture,Mobile,1017,New,UPI,8,9380,23016,8,-13636,-145.37
+1195,2025-04-09,Delhi,North,Electronics,Rice,1753,Returning,UPI,6,5076,10973,16,-5897,-116.17
+1196,2025-04-10,Chennai,South,Clothing,Table,1116,Returning,UPI,7,33925,14186,7,19739,58.18
+1197,2025-04-11,Bangalore,West,Electronics,Sofa,1797,New,Net Banking,9,41545,10262,25,31283,75.3
+1198,2025-04-12,Delhi,South,Groceries,Table,1793,Returning,Cash,6,42205,6469,12,35736,84.67
+1199,2025-04-13,Mumbai,South,Groceries,Laptop,1143,Returning,Card,1,12095,27048,28,-14953,-123.63
+1200,2025-04-14,Bangalore,South,Groceries,Mobile,1716,New,UPI,4,49047,12678,4,36369,74.15
+1201,2025-04-15,Bangalore,West,Groceries,Laptop,1550,Returning,Net Banking,8,20179,27320,28,-7141,-35.39
+1202,2025-04-16,Mumbai,West,Groceries,Laptop,1928,New,UPI,7,40968,6668,21,34300,83.72
+1203,2025-04-17,Hyderabad,South,Furniture,Laptop,1665,Returning,Cash,3,29400,27518,21,1882,6.4
+1204,2025-04-18,Chennai,North,Groceries,Shirt,1687,Returning,Card,3,19761,17597,16,2164,10.95
+1205,2025-04-19,Hyderabad,North,Furniture,Shirt,1960,Returning,Cash,3,48615,14596,2,34019,69.98
+1206,2025-04-20,Delhi,West,Clothing,Rice,1752,Returning,Net Banking,1,42809,7703,27,35106,82.01
+1207,2025-04-21,Mumbai,West,Groceries,Mobile,1421,Returning,UPI,1,2810,4045,5,-1235,-43.95
+1208,2025-04-22,Hyderabad,West,Groceries,Sofa,1897,Returning,Cash,6,22574,25298,13,-2724,-12.07
+1209,2025-04-23,Bangalore,West,Electronics,Sofa,1368,Returning,Net Banking,1,29562,1363,14,28199,95.39
+1210,2025-04-24,Delhi,West,Clothing,Sofa,1645,New,UPI,5,41663,16648,13,25015,60.04
+1211,2025-04-25,Delhi,North,Groceries,Laptop,1557,New,Card,4,19510,21509,10,-1999,-10.25
+1212,2025-04-26,Hyderabad,West,Groceries,Shirt,1049,New,Cash,5,7953,22191,10,-14238,-179.03
+1213,2025-04-27,Hyderabad,South,Clothing,Mobile,1677,New,UPI,7,40091,18309,8,21782,54.33
+1214,2025-04-28,Mumbai,South,Furniture,Laptop,1105,Returning,UPI,6,23131,19188,5,3943,17.05
+1215,2025-04-29,Chennai,North,Groceries,Shirt,1215,Returning,UPI,9,27883,1153,14,26730,95.86
+1216,2025-04-30,Hyderabad,South,Electronics,Shirt,1657,Returning,UPI,6,39373,26235,11,13138,33.37
+1217,2025-05-01,Hyderabad,North,Groceries,Table,1922,New,Cash,9,6891,8629,28,-1738,-25.22
+1218,2025-05-02,Bangalore,North,Electronics,Table,1424,New,UPI,4,36844,26918,5,9926,26.94
+1219,2025-05-03,Delhi,South,Electronics,Mobile,1071,New,Net Banking,1,19728,23618,0,-3890,-19.72
+1220,2025-05-04,Chennai,West,Groceries,Mobile,1987,Returning,Cash,1,34387,943,24,33444,97.26
+1221,2025-05-05,Bangalore,South,Groceries,Mobile,1841,New,UPI,7,12094,27541,15,-15447,-127.72
+1222,2025-05-06,Mumbai,South,Electronics,Laptop,1784,Returning,Cash,3,3407,24343,19,-20936,-614.5
+1223,2025-05-07,Mumbai,North,Clothing,Rice,1758,New,Net Banking,2,13644,21553,14,-7909,-57.97
+1224,2025-05-08,Hyderabad,South,Clothing,Mobile,1445,Returning,Net Banking,6,36772,5606,1,31166,84.75
+1225,2025-05-09,Hyderabad,North,Groceries,Table,1924,New,Cash,6,21298,4936,16,16362,76.82
+1226,2025-05-10,Mumbai,West,Furniture,Rice,1185,Returning,UPI,7,44446,19741,2,24705,55.58
+1227,2025-05-11,Hyderabad,West,Clothing,Laptop,1069,New,UPI,5,37807,9972,2,27835,73.62
+1228,2025-05-12,Chennai,West,Groceries,Rice,1973,New,Net Banking,8,35072,3539,4,31533,89.91
+1229,2025-05-13,Hyderabad,South,Clothing,Sofa,1149,Returning,UPI,7,39398,28871,16,10527,26.72
+1230,2025-05-14,Delhi,North,Furniture,Rice,1245,Returning,Net Banking,2,29669,28713,22,956,3.22
+1231,2025-05-15,Hyderabad,West,Groceries,Mobile,1773,New,UPI,1,31161,28834,28,2327,7.47
+1232,2025-05-16,Bangalore,North,Furniture,Laptop,1537,Returning,Net Banking,9,8282,8791,16,-509,-6.15
+1233,2025-05-17,Chennai,North,Groceries,Mobile,1934,New,Card,5,27539,10778,19,16761,60.86
+1234,2025-05-18,Bangalore,West,Furniture,Table,1651,Returning,UPI,5,4307,16785,5,-12478,-289.71
+1235,2025-05-19,Bangalore,West,Clothing,Sofa,1098,New,UPI,4,18745,27386,0,-8641,-46.1
+1236,2025-05-20,Delhi,North,Clothing,Table,1909,Returning,UPI,2,40433,29321,6,11112,27.48
+1237,2025-05-21,Chennai,West,Furniture,Mobile,1277,New,Cash,5,38062,14444,25,23618,62.05
+1238,2025-05-22,Chennai,North,Furniture,Mobile,1562,New,UPI,2,35555,3237,14,32318,90.9
+1239,2025-05-23,Chennai,North,Furniture,Mobile,1662,New,Cash,7,2073,23840,6,-21767,-1050.02
+1240,2025-05-24,Chennai,West,Groceries,Shirt,1943,Returning,Cash,9,33683,22123,18,11560,34.32
+1241,2025-05-25,Chennai,South,Clothing,Sofa,1454,New,Net Banking,9,26741,2107,19,24634,92.12
+1242,2025-05-26,Delhi,West,Groceries,Mobile,1103,Returning,Cash,6,23286,3453,21,19833,85.17
+1243,2025-05-27,Hyderabad,South,Clothing,Mobile,1945,Returning,Cash,1,4599,12673,29,-8074,-175.56
+1244,2025-05-28,Bangalore,North,Electronics,Table,1600,Returning,Card,6,28293,6433,10,21860,77.26
+1245,2025-05-29,Chennai,North,Groceries,Table,1652,New,UPI,5,16389,11886,22,4503,27.48
+1246,2025-05-30,Hyderabad,South,Clothing,Mobile,1724,Returning,Cash,4,45113,29415,13,15698,34.8
+1247,2025-05-31,Hyderabad,North,Clothing,Laptop,1232,Returning,UPI,6,13318,15721,12,-2403,-18.04
+1248,2025-06-01,Bangalore,South,Groceries,Shirt,1393,Returning,Cash,6,49875,5182,19,44693,89.61
+1249,2025-06-02,Delhi,South,Groceries,Table,1500,New,Net Banking,6,4055,15353,25,-11298,-278.62
+1250,2025-06-03,Mumbai,North,Clothing,Laptop,1694,Returning,Card,2,18043,11784,26,6259,34.69
+1251,2025-06-04,Mumbai,South,Groceries,Shirt,1250,Returning,Cash,7,7320,23217,24,-15897,-217.17
+1252,2025-06-05,Hyderabad,West,Furniture,Mobile,1520,Returning,UPI,4,40281,24276,8,16005,39.73
+1253,2025-06-06,Bangalore,West,Groceries,Sofa,1078,Returning,Net Banking,9,5642,11654,8,-6012,-106.56
+1254,2025-06-07,Mumbai,North,Groceries,Rice,1051,New,UPI,2,28158,27738,15,420,1.49
+1255,2025-06-08,Hyderabad,North,Groceries,Rice,1897,New,Net Banking,5,10321,9547,11,774,7.5
+1256,2025-06-09,Delhi,South,Clothing,Mobile,1920,Returning,Card,4,15432,23493,9,-8061,-52.24
+1257,2025-06-10,Mumbai,South,Furniture,Table,1780,Returning,Net Banking,9,23757,10838,5,12919,54.38
+1258,2025-06-11,Hyderabad,South,Electronics,Laptop,1225,Returning,UPI,4,38234,14823,17,23411,61.23
+1259,2025-06-12,Hyderabad,South,Electronics,Sofa,1050,Returning,UPI,8,27044,5425,1,21619,79.94
+1260,2025-06-13,Chennai,West,Furniture,Shirt,1185,New,Cash,8,22971,26462,26,-3491,-15.2
+1261,2025-06-14,Delhi,West,Furniture,Mobile,1033,New,Net Banking,6,45226,24134,19,21092,46.64
+1262,2025-06-15,Chennai,North,Furniture,Sofa,1802,New,UPI,6,49647,26792,8,22855,46.04
+1263,2025-06-16,Bangalore,South,Clothing,Sofa,1741,New,Cash,8,26727,6283,18,20444,76.49
+1264,2025-06-17,Chennai,South,Electronics,Table,1130,Returning,Card,9,23559,12843,5,10716,45.49
+1265,2025-06-18,Chennai,North,Furniture,Shirt,1631,Returning,UPI,5,9284,10417,1,-1133,-12.2
+1266,2025-06-19,Mumbai,South,Clothing,Sofa,1442,New,Cash,1,44526,10645,14,33881,76.09
+1267,2025-06-20,Hyderabad,South,Electronics,Table,1837,New,UPI,1,18665,7223,16,11442,61.3
+1268,2025-06-21,Delhi,South,Groceries,Laptop,1758,Returning,Net Banking,2,28476,17068,15,11408,40.06
+1269,2025-06-22,Chennai,South,Clothing,Table,1431,Returning,Cash,5,11991,17405,27,-5414,-45.15
+1270,2025-06-23,Delhi,South,Electronics,Laptop,1703,Returning,Net Banking,4,20561,27387,20,-6826,-33.2
+1271,2025-06-24,Chennai,North,Clothing,Laptop,1496,Returning,Card,1,5511,18132,7,-12621,-229.01
+1272,2025-06-25,Bangalore,South,Electronics,Sofa,1402,Returning,Net Banking,4,11796,26734,9,-14938,-126.64
+1273,2025-06-26,Chennai,North,Electronics,Table,1322,New,Cash,4,4881,13849,9,-8968,-183.73
+1274,2025-06-27,Mumbai,South,Groceries,Laptop,1209,New,UPI,4,16668,1502,17,15166,90.99
+1275,2025-06-28,Hyderabad,West,Clothing,Shirt,1614,Returning,Cash,1,36181,6766,9,29415,81.3
+1276,2025-06-29,Bangalore,West,Furniture,Sofa,1328,Returning,Net Banking,9,35312,28303,8,7009,19.85
+1277,2025-06-30,Chennai,West,Groceries,Table,1371,New,Net Banking,3,29106,23328,27,5778,19.85
+1278,2025-07-01,Delhi,West,Groceries,Table,1459,Returning,UPI,4,28222,11830,23,16392,58.08
+1279,2025-07-02,Bangalore,North,Electronics,Rice,1132,New,Card,5,16729,27004,18,-10275,-61.42
+1280,2025-07-03,Bangalore,North,Furniture,Table,1834,New,Cash,7,5784,15480,0,-9696,-167.63
+1281,2025-07-04,Chennai,South,Clothing,Sofa,1650,New,UPI,6,39394,7517,3,31877,80.92
+1282,2025-07-05,Bangalore,West,Furniture,Shirt,1120,New,UPI,5,38282,9085,23,29197,76.27
+1283,2025-07-06,Delhi,North,Furniture,Table,1605,Returning,UPI,8,34913,16511,2,18402,52.71
+1284,2025-07-07,Bangalore,South,Furniture,Rice,1451,Returning,Cash,1,10102,18501,9,-8399,-83.14
+1285,2025-07-08,Delhi,South,Furniture,Sofa,1964,New,Cash,7,45266,28717,11,16549,36.56
+1286,2025-07-09,Chennai,North,Furniture,Laptop,1128,Returning,Cash,6,39218,17544,17,21674,55.27
+1287,2025-07-10,Hyderabad,West,Electronics,Mobile,1090,Returning,Card,5,18950,6024,22,12926,68.21
+1288,2025-07-11,Bangalore,South,Electronics,Mobile,1603,Returning,UPI,7,5507,24500,19,-18993,-344.89
+1289,2025-07-12,Hyderabad,West,Groceries,Laptop,1574,Returning,Net Banking,3,47303,5750,5,41553,87.84
+1290,2025-07-13,Delhi,West,Electronics,Table,1028,New,Net Banking,1,38016,29240,20,8776,23.09
+1291,2025-07-14,Bangalore,West,Groceries,Mobile,1721,Returning,UPI,9,14523,8012,1,6511,44.83
+1292,2025-07-15,Mumbai,South,Groceries,Mobile,1523,New,Net Banking,2,25667,23789,9,1878,7.32
+1293,2025-07-16,Hyderabad,West,Clothing,Laptop,1332,New,Card,3,4992,819,1,4173,83.59
+1294,2025-07-17,Bangalore,South,Furniture,Table,1296,Returning,Card,8,42290,10916,29,31374,74.19
+1295,2025-07-18,Hyderabad,West,Electronics,Table,1129,New,Cash,9,9027,25659,8,-16632,-184.25
+1296,2025-07-19,Bangalore,South,Clothing,Laptop,1292,Returning,Cash,3,23144,4100,26,19044,82.28
+1297,2025-07-20,Chennai,West,Electronics,Table,1172,Returning,Cash,6,26530,22844,9,3686,13.89
+1298,2025-07-21,Hyderabad,North,Groceries,Table,1719,New,Cash,7,45740,5779,1,39961,87.37
+1299,2025-07-22,Mumbai,West,Electronics,Sofa,1943,Returning,Cash,1,16305,25657,7,-9352,-57.36
+1300,2025-07-23,Mumbai,West,Furniture,Sofa,1023,New,Net Banking,7,44561,28772,23,15789,35.43
+1301,2025-07-24,Delhi,South,Groceries,Laptop,1098,New,Net Banking,4,22731,18651,16,4080,17.95
+1302,2025-07-25,Bangalore,South,Groceries,Shirt,1405,Returning,Cash,5,21673,26632,16,-4959,-22.88
+1303,2025-07-26,Hyderabad,West,Clothing,Mobile,1355,Returning,Card,8,34297,15994,28,18303,53.37
+1304,2025-07-27,Delhi,North,Furniture,Sofa,1138,Returning,Net Banking,4,26842,18682,3,8160,30.4
+1305,2025-07-28,Hyderabad,North,Groceries,Mobile,1502,New,Card,4,24827,12898,17,11929,48.05
+1306,2025-07-29,Bangalore,South,Furniture,Rice,1825,Returning,Card,8,38502,26074,11,12428,32.28
+1307,2025-07-30,Mumbai,North,Electronics,Laptop,1173,New,UPI,5,47666,25833,16,21833,45.8
+1308,2025-07-31,Chennai,West,Furniture,Shirt,1028,New,UPI,6,27173,782,8,26391,97.12
+1309,2025-08-01,Mumbai,South,Groceries,Rice,1930,Returning,Cash,5,19909,14530,28,5379,27.02
+1310,2025-08-02,Delhi,West,Clothing,Rice,1495,Returning,Card,1,32007,23221,18,8786,27.45
+1311,2025-08-03,Chennai,South,Groceries,Table,1654,Returning,Net Banking,7,13985,15802,13,-1817,-12.99
+1312,2025-08-04,Delhi,South,Furniture,Rice,1827,New,UPI,6,23525,5666,13,17859,75.91
+1313,2025-08-05,Bangalore,South,Furniture,Laptop,1350,Returning,UPI,2,47757,7621,29,40136,84.04
+1314,2025-08-06,Chennai,South,Groceries,Sofa,1553,New,Card,7,36510,15177,16,21333,58.43
+1315,2025-08-07,Delhi,North,Furniture,Laptop,1298,Returning,UPI,6,38403,24293,1,14110,36.74
+1316,2025-08-08,Bangalore,West,Electronics,Sofa,1719,Returning,UPI,5,38193,16873,7,21320,55.82
+1317,2025-08-09,Mumbai,West,Groceries,Rice,1841,New,Net Banking,8,42429,22373,4,20056,47.27
+1318,2025-08-10,Bangalore,West,Clothing,Rice,1944,New,Card,5,4830,5396,26,-566,-11.72
+1319,2025-08-11,Hyderabad,South,Groceries,Shirt,1191,Returning,UPI,2,1533,17014,6,-15481,-1009.85
+1320,2025-08-12,Bangalore,North,Electronics,Sofa,1671,Returning,Card,6,48018,1793,21,46225,96.27
+1321,2025-08-13,Bangalore,West,Electronics,Rice,1063,Returning,UPI,1,21946,22943,28,-997,-4.54
+1322,2025-08-14,Hyderabad,North,Electronics,Table,1754,Returning,Net Banking,5,24504,7457,15,17047,69.57
+1323,2025-08-15,Delhi,South,Electronics,Mobile,1769,Returning,Card,6,46015,16944,15,29071,63.18
+1324,2025-08-16,Delhi,West,Electronics,Shirt,1663,New,UPI,7,29255,19095,16,10160,34.73
+1325,2025-08-17,Bangalore,North,Clothing,Laptop,1214,New,Net Banking,2,37855,10240,21,27615,72.95
+1326,2025-08-18,Hyderabad,South,Furniture,Shirt,1833,New,UPI,1,42721,13059,26,29662,69.43
+1327,2025-08-19,Hyderabad,North,Electronics,Mobile,1165,New,Card,6,47061,10473,6,36588,77.75
+1328,2025-08-20,Mumbai,West,Electronics,Sofa,1542,Returning,UPI,3,42850,6776,19,36074,84.19
+1329,2025-08-21,Delhi,West,Groceries,Laptop,1882,New,Card,5,36123,22247,7,13876,38.41
+1330,2025-08-22,Chennai,South,Clothing,Laptop,1231,New,Card,2,35723,8652,7,27071,75.78
+1331,2025-08-23,Delhi,South,Clothing,Sofa,1793,New,UPI,1,36739,8473,22,28266,76.94
+1332,2025-08-24,Delhi,South,Furniture,Shirt,1540,Returning,Net Banking,1,6539,15833,10,-9294,-142.13
+1333,2025-08-25,Mumbai,North,Clothing,Rice,1194,New,Cash,4,8493,537,14,7956,93.68
+1334,2025-08-26,Chennai,North,Groceries,Shirt,1505,Returning,Net Banking,2,36604,6490,17,30114,82.27
+1335,2025-08-27,Mumbai,North,Groceries,Mobile,1333,New,Net Banking,1,22311,5938,5,16373,73.39
+1336,2025-08-28,Chennai,South,Furniture,Table,1767,Returning,UPI,6,38707,24561,21,14146,36.55
+1337,2025-08-29,Bangalore,West,Groceries,Rice,1792,New,Net Banking,4,4644,16235,11,-11591,-249.59
+1338,2025-08-30,Chennai,West,Electronics,Shirt,1303,Returning,Net Banking,7,21445,28707,14,-7262,-33.86
+1339,2025-08-31,Mumbai,North,Electronics,Table,1832,New,Cash,6,36934,11356,27,25578,69.25
+1340,2025-09-01,Delhi,North,Groceries,Table,1436,Returning,Net Banking,5,10511,973,22,9538,90.74
+1341,2025-09-02,Chennai,West,Furniture,Sofa,1322,Returning,Cash,2,1183,558,5,625,52.83
+1342,2025-09-03,Chennai,West,Clothing,Mobile,1501,New,UPI,5,10475,3136,17,7339,70.06
+1343,2025-09-04,Hyderabad,North,Furniture,Mobile,1857,Returning,Cash,9,20230,15334,23,4896,24.2
+1344,2025-09-05,Delhi,North,Clothing,Mobile,1913,Returning,Card,9,27008,16077,19,10931,40.47
+1345,2025-09-06,Bangalore,West,Groceries,Rice,1392,New,Card,2,12332,19498,8,-7166,-58.11
+1346,2025-09-07,Mumbai,South,Groceries,Laptop,1805,New,Cash,7,48941,27690,7,21251,43.42
+1347,2025-09-08,Bangalore,North,Electronics,Rice,1598,Returning,Card,4,43756,7796,13,35960,82.18
+1348,2025-09-09,Delhi,West,Clothing,Shirt,1148,New,UPI,3,5722,21883,18,-16161,-282.44
+1349,2025-09-10,Chennai,West,Furniture,Table,1760,New,Card,1,16194,13170,18,3024,18.67
+1350,2025-09-11,Chennai,West,Groceries,Table,1832,New,Cash,3,27631,26487,7,1144,4.14
+1351,2025-09-12,Delhi,West,Furniture,Laptop,1404,Returning,UPI,9,28912,25160,1,3752,12.98
+1352,2025-09-13,Chennai,South,Electronics,Shirt,1282,Returning,Card,9,18166,10225,24,7941,43.71
+1353,2025-09-14,Chennai,West,Clothing,Laptop,1361,Returning,UPI,7,47840,20681,3,27159,56.77
+1354,2025-09-15,Chennai,North,Clothing,Table,1378,Returning,Cash,3,16976,3174,5,13802,81.3
+1355,2025-09-16,Mumbai,South,Groceries,Rice,1197,Returning,Card,3,39623,16296,2,23327,58.87
+1356,2025-09-17,Mumbai,West,Clothing,Mobile,1555,Returning,UPI,4,47062,11565,2,35497,75.43
+1357,2025-09-18,Hyderabad,South,Groceries,Table,1355,Returning,UPI,7,13046,23320,18,-10274,-78.75
+1358,2025-09-19,Bangalore,North,Electronics,Sofa,1539,New,Card,7,34444,20004,10,14440,41.92
+1359,2025-09-20,Delhi,West,Clothing,Mobile,1428,Returning,UPI,2,24634,26166,28,-1532,-6.22
+1360,2025-09-21,Delhi,North,Groceries,Table,1016,Returning,UPI,5,5090,11526,9,-6436,-126.44
+1361,2025-09-22,Delhi,West,Furniture,Rice,1638,New,Cash,7,46266,29300,11,16966,36.67
+1362,2025-09-23,Hyderabad,West,Groceries,Laptop,1378,New,Cash,7,31008,2576,13,28432,91.69
+1363,2025-09-24,Mumbai,West,Clothing,Mobile,1679,New,Cash,6,23107,20074,29,3033,13.13
+1364,2025-09-25,Hyderabad,West,Electronics,Rice,1505,Returning,Cash,8,46545,5287,29,41258,88.64
+1365,2025-09-26,Delhi,West,Clothing,Shirt,1755,New,Cash,3,9382,22940,27,-13558,-144.51
+1366,2025-09-27,Bangalore,South,Clothing,Sofa,1898,Returning,Cash,1,48774,29304,17,19470,39.92
+1367,2025-09-28,Chennai,West,Groceries,Mobile,1075,Returning,Card,3,10034,7994,23,2040,20.33
+1368,2025-09-29,Mumbai,West,Furniture,Laptop,1230,Returning,Cash,2,9526,26284,8,-16758,-175.92
+1369,2025-09-30,Mumbai,South,Clothing,Shirt,1715,New,UPI,2,25073,20461,14,4612,18.39
+1370,2025-10-01,Hyderabad,South,Furniture,Rice,1961,New,Card,2,47698,21625,23,26073,54.66
+1371,2025-10-02,Mumbai,South,Groceries,Sofa,1247,Returning,UPI,5,2110,23716,25,-21606,-1023.98
+1372,2025-10-03,Delhi,South,Furniture,Laptop,1301,Returning,Cash,1,17445,3081,2,14364,82.34
+1373,2025-10-04,Delhi,South,Groceries,Rice,1725,Returning,Cash,4,1386,16100,22,-14714,-1061.62
+1374,2025-10-05,Hyderabad,South,Electronics,Rice,1214,New,UPI,5,19584,20671,10,-1087,-5.55
+1375,2025-10-06,Delhi,West,Furniture,Mobile,1157,Returning,UPI,2,46674,25591,9,21083,45.17
+1376,2025-10-07,Bangalore,West,Furniture,Mobile,1068,New,UPI,5,35451,14833,17,20618,58.16
+1377,2025-10-08,Hyderabad,North,Electronics,Laptop,1392,Returning,Net Banking,4,48801,23987,3,24814,50.85
+1378,2025-10-09,Bangalore,West,Furniture,Table,1084,New,Net Banking,8,49476,10904,27,38572,77.96
+1379,2025-10-10,Chennai,West,Electronics,Table,1266,Returning,Net Banking,1,31549,11666,12,19883,63.02
+1380,2025-10-11,Bangalore,South,Clothing,Rice,1068,New,Net Banking,5,7321,1432,29,5889,80.44
+1381,2025-10-12,Chennai,South,Groceries,Mobile,1610,New,Card,1,25440,18547,28,6893,27.1
+1382,2025-10-13,Chennai,West,Electronics,Sofa,1346,New,Cash,4,32566,9248,5,23318,71.6
+1383,2025-10-14,Bangalore,North,Furniture,Sofa,1961,New,UPI,8,42446,16077,26,26369,62.12
+1384,2025-10-15,Hyderabad,South,Electronics,Rice,1727,New,Cash,1,33521,24798,20,8723,26.02
+1385,2025-10-16,Delhi,West,Furniture,Mobile,1926,New,UPI,2,45692,26747,12,18945,41.46
+1386,2025-10-17,Delhi,West,Clothing,Laptop,1672,Returning,Cash,1,24798,15515,24,9283,37.43
+1387,2025-10-18,Chennai,North,Electronics,Laptop,1422,Returning,Card,7,14565,26068,25,-11503,-78.98
+1388,2025-10-19,Chennai,North,Clothing,Laptop,1605,Returning,Net Banking,2,24027,16608,19,7419,30.88
+1389,2025-10-20,Hyderabad,South,Groceries,Sofa,1173,Returning,Cash,1,42500,26704,4,15796,37.17
+1390,2025-10-21,Mumbai,North,Furniture,Mobile,1676,New,UPI,6,33095,26767,19,6328,19.12
+1391,2025-10-22,Bangalore,West,Furniture,Mobile,1114,Returning,Cash,6,6631,21736,13,-15105,-227.79
+1392,2025-10-23,Chennai,West,Clothing,Sofa,1219,New,Card,2,25329,1604,12,23725,93.67
+1393,2025-10-24,Delhi,North,Groceries,Laptop,1955,New,Card,1,44020,18154,13,25866,58.76
+1394,2025-10-25,Hyderabad,North,Electronics,Laptop,1030,New,Cash,3,46206,27978,7,18228,39.45
+1395,2025-10-26,Bangalore,North,Electronics,Rice,1522,Returning,Net Banking,5,38937,13436,15,25501,65.49
+1396,2025-10-27,Hyderabad,North,Furniture,Table,1342,New,UPI,6,7787,10101,12,-2314,-29.72
+1397,2025-10-28,Bangalore,South,Clothing,Shirt,1376,Returning,Card,3,39000,4146,23,34854,89.37
+1398,2025-10-29,Bangalore,North,Clothing,Table,1129,Returning,Card,9,27875,21971,14,5904,21.18
+1399,2025-10-30,Chennai,South,Electronics,Mobile,1999,Returning,Cash,5,25514,26406,18,-892,-3.5
+1400,2025-10-31,Hyderabad,West,Groceries,Mobile,1616,Returning,Card,2,23580,21607,0,1973,8.37
+1401,2025-11-01,Hyderabad,North,Groceries,Mobile,1538,Returning,Card,6,21291,15460,21,5831,27.39
+1402,2025-11-02,Delhi,South,Electronics,Table,1738,New,UPI,8,5288,15378,1,-10090,-190.81
+1403,2025-11-03,Delhi,North,Electronics,Shirt,1001,New,Net Banking,6,7734,18938,17,-11204,-144.87
+1404,2025-11-04,Chennai,West,Clothing,Rice,1870,Returning,UPI,4,18464,9645,18,8819,47.76
+1405,2025-11-05,Chennai,West,Groceries,Table,1100,New,Net Banking,6,40008,23542,7,16466,41.16
+1406,2025-11-06,Mumbai,West,Electronics,Shirt,1532,Returning,UPI,8,8814,18726,2,-9912,-112.46
+1407,2025-11-07,Delhi,North,Electronics,Laptop,1057,New,Cash,8,44154,3302,22,40852,92.52
+1408,2025-11-08,Bangalore,North,Furniture,Laptop,1388,New,Card,2,8851,24619,25,-15768,-178.15
+1409,2025-11-09,Hyderabad,South,Electronics,Mobile,1691,New,Net Banking,8,2600,25085,13,-22485,-864.81
+1410,2025-11-10,Chennai,West,Electronics,Sofa,1940,New,Cash,6,7866,16865,25,-8999,-114.4
+1411,2025-11-11,Hyderabad,North,Groceries,Mobile,1340,New,Card,2,4692,27685,8,-22993,-490.05
+1412,2025-11-12,Hyderabad,West,Clothing,Sofa,1860,New,Card,1,21373,25197,28,-3824,-17.89
+1413,2025-11-13,Mumbai,West,Groceries,Shirt,1019,New,Card,6,34100,29858,7,4242,12.44
+1414,2025-11-14,Delhi,South,Clothing,Laptop,1254,New,UPI,7,47477,6605,16,40872,86.09
+1415,2025-11-15,Chennai,South,Furniture,Table,1316,New,Cash,5,47877,19444,22,28433,59.39
+1416,2025-11-16,Hyderabad,South,Electronics,Sofa,1037,New,Cash,8,15847,19921,22,-4074,-25.71
+1417,2025-11-17,Chennai,South,Furniture,Shirt,1659,New,Card,9,15507,25516,23,-10009,-64.55
+1418,2025-11-18,Bangalore,West,Clothing,Laptop,1536,New,Net Banking,4,10963,3249,15,7714,70.36
+1419,2025-11-19,Mumbai,South,Groceries,Table,1385,New,Cash,7,7106,17474,9,-10368,-145.9
+1420,2025-11-20,Bangalore,South,Groceries,Sofa,1632,Returning,UPI,8,8333,18252,20,-9919,-119.03
+1421,2025-11-21,Chennai,South,Furniture,Mobile,1927,New,Net Banking,6,49826,10681,9,39145,78.56
+1422,2025-11-22,Chennai,South,Clothing,Mobile,1025,New,Net Banking,2,32913,1861,24,31052,94.35
+1423,2025-11-23,Delhi,West,Furniture,Mobile,1453,New,Net Banking,7,32283,25012,24,7271,22.52
+1424,2025-11-24,Hyderabad,South,Furniture,Shirt,1680,New,Net Banking,9,40423,4273,23,36150,89.43
+1425,2025-11-25,Hyderabad,West,Electronics,Mobile,1322,New,Cash,5,39076,13995,5,25081,64.19
+1426,2025-11-26,Bangalore,North,Furniture,Rice,1736,New,Card,2,30815,2564,21,28251,91.68
+1427,2025-11-27,Mumbai,West,Electronics,Laptop,1512,Returning,Net Banking,4,21584,19299,16,2285,10.59
+1428,2025-11-28,Hyderabad,West,Electronics,Shirt,1818,Returning,UPI,3,26382,19835,28,6547,24.82
+1429,2025-11-29,Delhi,South,Groceries,Table,1772,Returning,UPI,4,2064,6116,15,-4052,-196.32
+1430,2025-11-30,Bangalore,North,Electronics,Mobile,1012,New,Card,7,42848,8475,14,34373,80.22
+1431,2025-12-01,Bangalore,North,Electronics,Laptop,1914,New,Cash,8,44883,11460,21,33423,74.47
+1432,2025-12-02,Delhi,North,Groceries,Sofa,1907,New,Card,1,7820,28492,13,-20672,-264.35
+1433,2025-12-03,Mumbai,North,Furniture,Mobile,1559,Returning,Net Banking,8,9512,23985,3,-14473,-152.16
+1434,2025-12-04,Delhi,West,Clothing,Laptop,1920,New,Cash,5,37725,26652,3,11073,29.35
+1435,2025-12-05,Mumbai,North,Clothing,Rice,1824,New,Cash,7,20615,21887,29,-1272,-6.17
+1436,2025-12-06,Delhi,West,Clothing,Sofa,1370,Returning,Net Banking,1,40776,15824,1,24952,61.19
+1437,2025-12-07,Delhi,West,Furniture,Rice,1290,Returning,UPI,2,49812,25190,28,24622,49.43
+1438,2025-12-08,Chennai,West,Electronics,Table,1331,New,Net Banking,1,18884,6743,10,12141,64.29
+1439,2025-12-09,Bangalore,North,Clothing,Laptop,1605,New,Card,5,48455,23465,29,24990,51.57
+1440,2025-12-10,Delhi,South,Furniture,Rice,1260,New,Net Banking,6,18952,10060,3,8892,46.92
+1441,2025-12-11,Delhi,South,Electronics,Table,1993,New,UPI,9,10711,15184,20,-4473,-41.76
+1442,2025-12-12,Hyderabad,North,Groceries,Laptop,1789,Returning,Net Banking,8,21473,8830,28,12643,58.88
+1443,2025-12-13,Bangalore,South,Clothing,Laptop,1870,New,Card,7,19249,5423,27,13826,71.83
+1444,2025-12-14,Hyderabad,South,Electronics,Rice,1204,New,Card,5,10597,6967,20,3630,34.25
+1445,2025-12-15,Bangalore,West,Clothing,Laptop,1696,Returning,UPI,3,22984,21825,15,1159,5.04
+1446,2025-12-16,Hyderabad,West,Clothing,Mobile,1686,New,Card,9,49022,28449,20,20573,41.97
+1447,2025-12-17,Delhi,North,Clothing,Laptop,1949,New,Card,5,17388,23321,3,-5933,-34.12
+1448,2025-12-18,Delhi,North,Electronics,Shirt,1386,Returning,Net Banking,3,48137,6576,0,41561,86.34
+1449,2025-12-19,Chennai,South,Furniture,Table,1891,Returning,Cash,3,41727,22532,29,19195,46.0
+1450,2025-12-20,Hyderabad,West,Electronics,Laptop,1820,New,Card,3,19782,8501,25,11281,57.03
+1451,2025-12-21,Mumbai,North,Clothing,Shirt,1467,Returning,Card,6,7608,15803,23,-8195,-107.72
+1452,2025-12-22,Chennai,North,Electronics,Laptop,1414,Returning,UPI,1,34115,18199,18,15916,46.65
+1453,2025-12-23,Hyderabad,North,Groceries,Laptop,1068,New,UPI,4,46180,16957,1,29223,63.28
+1454,2025-12-24,Hyderabad,North,Furniture,Rice,1471,Returning,Net Banking,8,43773,28922,8,14851,33.93
+1455,2025-12-25,Chennai,North,Electronics,Mobile,1103,New,Net Banking,3,7500,9175,22,-1675,-22.33
+1456,2025-12-26,Delhi,North,Groceries,Table,1757,New,Card,5,36342,12803,24,23539,64.77
+1457,2025-12-27,Hyderabad,South,Furniture,Mobile,1160,New,Cash,2,21209,18433,12,2776,13.09
+1458,2025-12-28,Delhi,West,Groceries,Sofa,1199,New,Cash,2,21977,18243,17,3734,16.99
+1459,2025-12-29,Chennai,West,Furniture,Rice,1215,Returning,Net Banking,7,39040,15628,15,23412,59.97
+1460,2025-12-30,Delhi,North,Electronics,Rice,1945,New,UPI,3,42462,18780,15,23682,55.77
+1461,2025-12-31,Bangalore,West,Groceries,Mobile,1211,New,Card,5,4521,7159,24,-2638,-58.35
+1462,2026-01-01,Mumbai,West,Clothing,Rice,1507,New,Card,3,2300,5746,9,-3446,-149.83
+1463,2026-01-02,Hyderabad,West,Groceries,Mobile,1015,New,Cash,6,28075,7467,8,20608,73.4
+1464,2026-01-03,Mumbai,North,Furniture,Rice,1497,Returning,Net Banking,3,24979,7161,10,17818,71.33
+1465,2026-01-04,Delhi,North,Electronics,Laptop,1883,Returning,Cash,8,31802,12916,24,18886,59.39
+1466,2026-01-05,Hyderabad,West,Furniture,Mobile,1331,Returning,Cash,2,13225,1010,25,12215,92.36
+1467,2026-01-06,Delhi,West,Groceries,Mobile,1716,New,Net Banking,3,12481,9114,28,3367,26.98
+1468,2026-01-07,Bangalore,North,Groceries,Shirt,1876,Returning,UPI,8,22217,2932,25,19285,86.8
+1469,2026-01-08,Chennai,South,Clothing,Rice,1550,Returning,Card,8,45813,2406,3,43407,94.75
+1470,2026-01-09,Hyderabad,West,Electronics,Rice,1600,New,UPI,1,38153,29403,9,8750,22.93
+1471,2026-01-10,Bangalore,South,Electronics,Mobile,1941,Returning,Net Banking,8,15755,26034,2,-10279,-65.24
+1472,2026-01-11,Bangalore,West,Groceries,Laptop,1255,New,Net Banking,2,25914,25900,5,14,0.05
+1473,2026-01-12,Hyderabad,South,Electronics,Laptop,1991,Returning,Card,7,36592,16054,2,20538,56.13
+1474,2026-01-13,Delhi,South,Clothing,Table,1765,Returning,UPI,6,27269,16948,26,10321,37.85
+1475,2026-01-14,Bangalore,South,Furniture,Laptop,1727,Returning,Card,2,39732,5428,8,34304,86.34
+1476,2026-01-15,Mumbai,North,Electronics,Rice,1879,Returning,Cash,5,25555,5210,2,20345,79.61
+1477,2026-01-16,Bangalore,South,Groceries,Shirt,1814,New,Cash,7,20874,12040,17,8834,42.32
+1478,2026-01-17,Delhi,South,Furniture,Mobile,1171,New,Cash,8,37535,6624,7,30911,82.35
+1479,2026-01-18,Delhi,South,Furniture,Sofa,1648,Returning,UPI,3,47344,8337,21,39007,82.39
+1480,2026-01-19,Mumbai,West,Clothing,Shirt,1999,New,Cash,1,46036,16083,7,29953,65.06
+1481,2026-01-20,Bangalore,South,Groceries,Sofa,1497,Returning,Card,7,8925,17684,14,-8759,-98.14
+1482,2026-01-21,Delhi,West,Electronics,Shirt,1470,Returning,UPI,5,4107,22947,12,-18840,-458.73
+1483,2026-01-22,Hyderabad,South,Groceries,Laptop,1383,Returning,Card,5,21852,25353,6,-3501,-16.02
+1484,2026-01-23,Chennai,South,Furniture,Rice,1689,Returning,Net Banking,7,31183,6609,18,24574,78.81
+1485,2026-01-24,Chennai,North,Groceries,Sofa,1588,Returning,UPI,1,28617,10409,7,18208,63.63
+1486,2026-01-25,Chennai,West,Electronics,Shirt,1699,Returning,Card,8,9722,27489,9,-17767,-182.75
+1487,2026-01-26,Bangalore,South,Electronics,Rice,1506,New,Card,5,23631,7159,16,16472,69.71
+1488,2026-01-27,Mumbai,West,Clothing,Sofa,1991,New,UPI,8,32622,1738,0,30884,94.67
+1489,2026-01-28,Delhi,West,Electronics,Mobile,1526,Returning,Net Banking,5,8883,23466,12,-14583,-164.17
+1490,2026-01-29,Hyderabad,North,Electronics,Shirt,1803,New,UPI,7,20708,21407,28,-699,-3.38
+1491,2026-01-30,Hyderabad,North,Groceries,Mobile,1830,Returning,Cash,3,47221,15564,25,31657,67.04
+1492,2026-01-31,Bangalore,North,Groceries,Laptop,1324,New,Cash,2,18197,6120,12,12077,66.37
+1493,2026-02-01,Chennai,North,Furniture,Mobile,1213,New,Net Banking,6,22134,1986,23,20148,91.03
+1494,2026-02-02,Bangalore,North,Clothing,Mobile,1207,New,Card,5,41386,5181,15,36205,87.48
+1495,2026-02-03,Mumbai,North,Groceries,Table,1168,Returning,Card,9,34550,11990,28,22560,65.3
+1496,2026-02-04,Mumbai,North,Electronics,Shirt,1329,New,Card,4,15642,4970,8,10672,68.23
+1497,2026-02-05,Delhi,North,Furniture,Laptop,1279,Returning,UPI,3,21439,22503,9,-1064,-4.96
+1498,2026-02-06,Delhi,South,Groceries,Mobile,1977,Returning,UPI,9,33243,28071,5,5172,15.56
+1499,2026-02-07,Mumbai,West,Clothing,Rice,1304,Returning,Net Banking,8,41557,25168,4,16389,39.44
+1500,2026-02-08,Mumbai,North,Clothing,Sofa,1145,New,Cash,6,25583,12223,1,13360,52.22
+1501,2026-02-09,Mumbai,North,Furniture,Mobile,1774,New,Card,1,29349,14388,10,14961,50.98
+1502,2026-02-10,Bangalore,West,Furniture,Laptop,1515,New,Cash,1,15002,7677,8,7325,48.83
+1503,2026-02-11,Mumbai,South,Furniture,Mobile,1089,Returning,UPI,6,20523,13701,5,6822,33.24
+1504,2026-02-12,Hyderabad,West,Furniture,Sofa,1452,Returning,UPI,3,45749,5941,7,39808,87.01
+1505,2026-02-13,Chennai,West,Furniture,Laptop,1059,New,UPI,3,6007,18724,8,-12717,-211.7
+1506,2026-02-14,Mumbai,North,Electronics,Shirt,1310,Returning,Cash,6,21435,12219,8,9216,43.0
+1507,2026-02-15,Chennai,West,Electronics,Laptop,1527,New,Net Banking,3,41343,5897,7,35446,85.74
+1508,2026-02-16,Bangalore,West,Groceries,Shirt,1226,New,Net Banking,6,26093,2121,11,23972,91.87
+1509,2026-02-17,Chennai,North,Clothing,Laptop,1473,New,UPI,5,49952,18445,25,31507,63.07
+1510,2026-02-18,Bangalore,North,Electronics,Sofa,1977,New,Card,4,12294,22733,7,-10439,-84.91
+1511,2026-02-19,Hyderabad,North,Electronics,Sofa,1540,Returning,Cash,8,39405,18300,2,21105,53.56
+1512,2026-02-20,Bangalore,North,Electronics,Laptop,1662,New,UPI,2,46538,28040,12,18498,39.75
+1513,2026-02-21,Bangalore,West,Groceries,Mobile,1756,New,Cash,7,48310,4690,18,43620,90.29
+1514,2026-02-22,Delhi,West,Furniture,Sofa,1781,New,Cash,4,11908,5554,1,6354,53.36
+1515,2026-02-23,Mumbai,South,Groceries,Shirt,1078,New,Net Banking,2,13699,1630,16,12069,88.1
+1516,2026-02-24,Mumbai,South,Clothing,Shirt,1432,New,UPI,7,35633,26489,15,9144,25.66
+1517,2026-02-25,Hyderabad,West,Clothing,Rice,1800,New,Net Banking,1,2376,14571,3,-12195,-513.26
+1518,2026-02-26,Hyderabad,South,Clothing,Table,1152,New,UPI,4,15255,20481,17,-5226,-34.26
+1519,2026-02-27,Mumbai,West,Clothing,Table,1788,Returning,Cash,9,14647,12436,13,2211,15.1
+1520,2026-02-28,Delhi,South,Electronics,Table,1400,Returning,Net Banking,4,39176,2618,29,36558,93.32
+1521,2026-03-01,Mumbai,North,Electronics,Shirt,1278,Returning,Cash,3,9163,1163,1,8000,87.31
+1522,2026-03-02,Delhi,South,Groceries,Rice,1056,Returning,UPI,2,40051,19518,12,20533,51.27
+1523,2026-03-03,Hyderabad,North,Furniture,Table,1976,New,Card,3,35744,16235,26,19509,54.58
+1524,2026-03-04,Chennai,North,Clothing,Table,1185,Returning,Net Banking,1,7443,19658,26,-12215,-164.11
+1525,2026-03-05,Hyderabad,North,Groceries,Laptop,1397,Returning,Net Banking,8,14324,23078,20,-8754,-61.11
+1526,2026-03-06,Hyderabad,North,Electronics,Laptop,1604,Returning,Cash,1,22143,20853,19,1290,5.83
+1527,2026-03-07,Bangalore,South,Electronics,Laptop,1787,New,Cash,3,41363,20374,16,20989,50.74
+1528,2026-03-08,Bangalore,West,Furniture,Mobile,1157,Returning,Card,3,5920,10263,14,-4343,-73.36
+1529,2026-03-09,Bangalore,North,Furniture,Table,1786,Returning,Net Banking,2,18375,18407,24,-32,-0.17
+1530,2026-03-10,Bangalore,South,Furniture,Mobile,1692,New,UPI,5,38996,8553,29,30443,78.07
+1531,2026-03-11,Delhi,North,Groceries,Rice,1358,Returning,UPI,3,12748,17871,19,-5123,-40.19
+1532,2026-03-12,Mumbai,South,Electronics,Shirt,1439,New,Net Banking,3,29535,28314,4,1221,4.13
+1533,2026-03-13,Chennai,South,Electronics,Table,1588,Returning,Net Banking,8,16715,24799,6,-8084,-48.36
+1534,2026-03-14,Hyderabad,South,Furniture,Shirt,1465,New,Net Banking,4,48252,23287,17,24965,51.74
+1535,2026-03-15,Delhi,West,Clothing,Laptop,1662,Returning,Card,4,7450,22205,23,-14755,-198.05
+1536,2026-03-16,Chennai,South,Furniture,Table,1445,Returning,UPI,3,26010,4345,10,21665,83.29
+1537,2026-03-17,Delhi,South,Groceries,Sofa,1749,Returning,UPI,1,1020,13996,17,-12976,-1272.16
+1538,2026-03-18,Delhi,West,Furniture,Mobile,1800,New,Cash,8,15717,6801,26,8916,56.73
+1539,2026-03-19,Hyderabad,West,Furniture,Mobile,1742,Returning,Cash,1,48348,12385,25,35963,74.38
+1540,2026-03-20,Mumbai,South,Groceries,Table,1487,New,Net Banking,7,43885,16982,4,26903,61.3
+1541,2026-03-21,Bangalore,West,Furniture,Laptop,1529,New,Cash,5,10664,2788,12,7876,73.86
+1542,2026-03-22,Mumbai,North,Electronics,Mobile,1072,New,Card,4,2099,26590,27,-24491,-1166.79
+1543,2026-03-23,Hyderabad,North,Clothing,Laptop,1928,New,UPI,4,24225,21181,17,3044,12.57
+1544,2026-03-24,Hyderabad,West,Furniture,Rice,1927,Returning,UPI,8,3637,25709,1,-22072,-606.87
+1545,2026-03-25,Hyderabad,West,Groceries,Shirt,1700,Returning,Cash,6,42349,8296,19,34053,80.41
+1546,2026-03-26,Chennai,South,Clothing,Sofa,1949,Returning,Net Banking,1,41512,7763,3,33749,81.3
+1547,2026-03-27,Mumbai,West,Groceries,Shirt,1016,New,Cash,8,20797,29917,12,-9120,-43.85
+1548,2026-03-28,Mumbai,South,Clothing,Shirt,1530,Returning,Net Banking,2,41225,13277,23,27948,67.79
+1549,2026-03-29,Delhi,North,Clothing,Rice,1730,New,Card,6,11807,9270,28,2537,21.49
+1550,2026-03-30,Delhi,West,Furniture,Mobile,1325,New,UPI,9,18738,20843,15,-2105,-11.23
+1551,2026-03-31,Delhi,South,Electronics,Sofa,1994,New,Card,1,7402,7885,5,-483,-6.53
+1552,2026-04-01,Hyderabad,South,Furniture,Mobile,1631,Returning,UPI,6,5521,15362,25,-9841,-178.25
+1553,2026-04-02,Mumbai,North,Groceries,Table,1612,Returning,Card,8,9382,8964,7,418,4.46
+1554,2026-04-03,Hyderabad,West,Groceries,Shirt,1545,New,Cash,2,46460,22222,15,24238,52.17
+1555,2026-04-04,Chennai,North,Clothing,Table,1595,Returning,Card,5,38121,5381,12,32740,85.88
+1556,2026-04-05,Delhi,South,Clothing,Laptop,1920,Returning,Card,6,16065,20838,22,-4773,-29.71
+1557,2026-04-06,Hyderabad,South,Electronics,Shirt,1707,New,Cash,5,20934,16518,28,4416,21.09
+1558,2026-04-07,Hyderabad,West,Furniture,Mobile,1841,New,UPI,3,15425,16191,25,-766,-4.97
+1559,2026-04-08,Chennai,South,Groceries,Shirt,1201,Returning,UPI,4,14111,20811,3,-6700,-47.48
+1560,2026-04-09,Bangalore,West,Clothing,Laptop,1343,New,Cash,7,41799,25528,1,16271,38.93
+1561,2026-04-10,Mumbai,North,Electronics,Rice,1852,New,Card,4,16510,9867,8,6643,40.24
+1562,2026-04-11,Bangalore,West,Groceries,Table,1522,Returning,Card,9,38851,21795,17,17056,43.9
+1563,2026-04-12,Delhi,West,Clothing,Table,1858,Returning,Card,2,9816,913,16,8903,90.7
+1564,2026-04-13,Hyderabad,South,Groceries,Mobile,1399,New,Net Banking,5,13317,18434,7,-5117,-38.42
+1565,2026-04-14,Chennai,South,Electronics,Shirt,1217,Returning,UPI,8,3175,21410,25,-18235,-574.33
+1566,2026-04-15,Chennai,West,Electronics,Mobile,1444,New,Card,5,12341,15214,14,-2873,-23.28
+1567,2026-04-16,Mumbai,South,Groceries,Rice,1764,New,UPI,8,26654,7641,8,19013,71.33
+1568,2026-04-17,Bangalore,South,Furniture,Shirt,1221,Returning,Card,8,22608,13682,16,8926,39.48
+1569,2026-04-18,Mumbai,South,Groceries,Shirt,1382,New,Cash,9,18579,23455,22,-4876,-26.24
+1570,2026-04-19,Hyderabad,West,Clothing,Mobile,1880,New,Cash,6,31194,16725,1,14469,46.38
+1571,2026-04-20,Mumbai,South,Furniture,Mobile,1591,New,UPI,4,35837,2446,5,33391,93.17
+1572,2026-04-21,Chennai,West,Clothing,Laptop,1006,Returning,UPI,3,4358,22087,28,-17729,-406.82
+1573,2026-04-22,Chennai,South,Groceries,Rice,1271,Returning,Cash,5,19822,691,26,19131,96.51
+1574,2026-04-23,Delhi,North,Furniture,Laptop,1738,Returning,Net Banking,6,42576,16924,4,25652,60.25
+1575,2026-04-24,Delhi,South,Clothing,Table,1015,New,Cash,3,38012,14675,16,23337,61.39
+1576,2026-04-25,Hyderabad,South,Groceries,Shirt,1423,New,Card,2,20727,10551,1,10176,49.1
+1577,2026-04-26,Bangalore,West,Groceries,Mobile,1523,Returning,Net Banking,7,35579,6392,17,29187,82.03
+1578,2026-04-27,Mumbai,West,Furniture,Shirt,1802,Returning,Cash,5,32018,26408,9,5610,17.52
+1579,2026-04-28,Hyderabad,South,Groceries,Shirt,1752,Returning,Net Banking,9,17555,3949,9,13606,77.5
+1580,2026-04-29,Delhi,North,Electronics,Sofa,1020,New,Net Banking,3,6906,8827,5,-1921,-27.82
+1581,2026-04-30,Mumbai,South,Clothing,Table,1689,Returning,Net Banking,8,41751,6409,26,35342,84.65
+1582,2026-05-01,Delhi,South,Clothing,Sofa,1938,New,UPI,6,5063,12893,11,-7830,-154.65
+1583,2026-05-02,Mumbai,North,Groceries,Shirt,1227,Returning,Cash,4,44214,29690,16,14524,32.85
+1584,2026-05-03,Bangalore,West,Groceries,Mobile,1784,New,UPI,9,9644,2441,26,7203,74.69
+1585,2026-05-04,Hyderabad,South,Electronics,Shirt,1287,New,UPI,5,43378,26641,12,16737,38.58
+1586,2026-05-05,Mumbai,West,Furniture,Table,1808,Returning,Card,6,9142,4721,19,4421,48.36
+1587,2026-05-06,Chennai,West,Groceries,Sofa,1133,New,Card,9,32644,24408,27,8236,25.23
+1588,2026-05-07,Chennai,North,Groceries,Mobile,1983,Returning,Net Banking,7,34521,7043,15,27478,79.6
+1589,2026-05-08,Mumbai,North,Groceries,Shirt,1282,New,Net Banking,5,12564,23106,9,-10542,-83.91
+1590,2026-05-09,Mumbai,West,Groceries,Rice,1403,New,Card,2,40619,25464,26,15155,37.31
+1591,2026-05-10,Mumbai,South,Clothing,Table,1664,Returning,Card,4,6104,18442,20,-12338,-202.13
+1592,2026-05-11,Chennai,West,Groceries,Table,1065,New,Cash,2,28299,14512,1,13787,48.72
+1593,2026-05-12,Chennai,South,Clothing,Rice,1648,Returning,Net Banking,3,48958,2621,1,46337,94.65
+1594,2026-05-13,Mumbai,South,Groceries,Shirt,1603,Returning,Net Banking,3,14421,17912,22,-3491,-24.21
+1595,2026-05-14,Delhi,North,Furniture,Table,1436,Returning,Card,4,24211,12226,6,11985,49.5
+1596,2026-05-15,Delhi,South,Electronics,Mobile,1828,New,Cash,6,12202,25157,5,-12955,-106.17
+1597,2026-05-16,Bangalore,South,Furniture,Shirt,1933,New,Card,3,44871,6156,0,38715,86.28
+1598,2026-05-17,Hyderabad,West,Groceries,Shirt,1258,New,Card,1,43185,9467,11,33718,78.08
+1599,2026-05-18,Delhi,North,Groceries,Sofa,1979,Returning,UPI,1,42127,19922,12,22205,52.71
+1600,2026-05-19,Chennai,South,Groceries,Table,1965,Returning,Net Banking,9,4685,16264,11,-11579,-247.15
+1601,2026-05-20,Delhi,South,Furniture,Table,1102,New,Cash,9,25661,16373,18,9288,36.2
+1602,2026-05-21,Bangalore,North,Groceries,Rice,1992,New,UPI,5,43637,29449,8,14188,32.51
+1603,2026-05-22,Bangalore,West,Furniture,Sofa,1566,Returning,Net Banking,9,19366,11579,9,7787,40.21
+1604,2026-05-23,Hyderabad,North,Clothing,Sofa,1768,New,Card,7,38712,18762,16,19950,51.53
+1605,2026-05-24,Delhi,North,Electronics,Table,1100,Returning,Cash,9,25276,2771,17,22505,89.04
+1606,2026-05-25,Chennai,South,Electronics,Shirt,1197,New,Net Banking,7,16410,2107,7,14303,87.16
+1607,2026-05-26,Chennai,South,Furniture,Sofa,1812,Returning,Card,9,49239,20023,6,29216,59.34
+1608,2026-05-27,Mumbai,West,Clothing,Rice,1225,New,UPI,2,10678,16179,8,-5501,-51.52
+1609,2026-05-28,Chennai,South,Furniture,Sofa,1942,New,Cash,8,25575,17489,9,8086,31.62
+1610,2026-05-29,Hyderabad,South,Clothing,Rice,1462,Returning,Net Banking,7,42401,21619,11,20782,49.01
+1611,2026-05-30,Hyderabad,North,Groceries,Sofa,1236,Returning,UPI,6,42230,28490,14,13740,32.54
+1612,2026-05-31,Chennai,South,Clothing,Rice,1025,Returning,Card,5,14888,4165,14,10723,72.02
+1613,2026-06-01,Chennai,West,Clothing,Sofa,1120,New,Card,4,17727,16808,27,919,5.18
+1614,2026-06-02,Mumbai,North,Clothing,Sofa,1909,Returning,Net Banking,7,49971,6352,3,43619,87.29
+1615,2026-06-03,Chennai,West,Electronics,Mobile,1505,Returning,Card,3,4081,5962,3,-1881,-46.09
+1616,2026-06-04,Mumbai,North,Clothing,Rice,1181,New,Cash,8,24021,19028,22,4993,20.79
+1617,2026-06-05,Mumbai,South,Groceries,Rice,1710,Returning,Net Banking,2,10449,4770,0,5679,54.35
+1618,2026-06-06,Chennai,North,Groceries,Rice,1813,Returning,UPI,1,16657,16197,25,460,2.76
+1619,2026-06-07,Bangalore,North,Groceries,Laptop,1766,Returning,Net Banking,2,36059,28841,11,7218,20.02
+1620,2026-06-08,Bangalore,South,Clothing,Sofa,1633,New,Net Banking,9,2532,24991,24,-22459,-887.01
+1621,2026-06-09,Mumbai,South,Furniture,Rice,1542,New,UPI,5,38130,18260,1,19870,52.11
+1622,2026-06-10,Chennai,West,Furniture,Table,1983,New,Card,8,17015,3962,14,13053,76.71
+1623,2026-06-11,Bangalore,West,Groceries,Laptop,1314,Returning,UPI,3,38756,15974,16,22782,58.78
+1624,2026-06-12,Chennai,South,Electronics,Mobile,1990,New,Cash,7,7344,847,6,6497,88.47
+1625,2026-06-13,Chennai,South,Furniture,Rice,1796,Returning,Card,2,42198,16884,5,25314,59.99
+1626,2026-06-14,Chennai,South,Clothing,Rice,1617,Returning,Net Banking,8,49461,562,11,48899,98.86
+1627,2026-06-15,Delhi,North,Furniture,Laptop,1735,Returning,Card,7,10106,2283,18,7823,77.41
+1628,2026-06-16,Chennai,North,Groceries,Sofa,1272,New,Card,5,35206,28890,0,6316,17.94
+1629,2026-06-17,Delhi,North,Electronics,Table,1909,New,Cash,4,48587,8917,27,39670,81.65
+1630,2026-06-18,Mumbai,South,Furniture,Mobile,1231,Returning,Card,1,10652,7066,20,3586,33.67
+1631,2026-06-19,Bangalore,West,Furniture,Rice,1419,Returning,Card,5,25550,17926,25,7624,29.84
+1632,2026-06-20,Bangalore,South,Groceries,Sofa,1767,New,Card,9,7389,25920,13,-18531,-250.79
+1633,2026-06-21,Bangalore,North,Electronics,Table,1441,New,Net Banking,4,23361,11372,3,11989,51.32
+1634,2026-06-22,Bangalore,North,Electronics,Table,1495,New,Card,9,36847,29195,4,7652,20.77
+1635,2026-06-23,Bangalore,South,Groceries,Mobile,1023,Returning,UPI,2,40063,15818,0,24245,60.52
+1636,2026-06-24,Bangalore,South,Clothing,Shirt,1108,New,Card,4,14703,1734,0,12969,88.21
+1637,2026-06-25,Bangalore,North,Furniture,Table,1702,New,Cash,9,19642,2484,20,17158,87.35
+1638,2026-06-26,Mumbai,North,Clothing,Shirt,1501,New,Card,4,42326,29332,5,12994,30.7
+1639,2026-06-27,Chennai,North,Furniture,Table,1858,Returning,Card,5,37509,26354,4,11155,29.74
+1640,2026-06-28,Hyderabad,South,Furniture,Mobile,1024,New,Net Banking,8,14881,18478,1,-3597,-24.17
+1641,2026-06-29,Delhi,North,Clothing,Laptop,1186,Returning,UPI,1,16414,23141,24,-6727,-40.98
+1642,2026-06-30,Hyderabad,North,Groceries,Mobile,1287,Returning,Card,1,15329,27627,20,-12298,-80.23
+1643,2026-07-01,Hyderabad,West,Groceries,Mobile,1627,Returning,UPI,9,23831,2452,26,21379,89.71
+1644,2026-07-02,Chennai,South,Furniture,Laptop,1337,New,Cash,9,42091,18579,26,23512,55.86
+1645,2026-07-03,Chennai,West,Groceries,Laptop,1877,New,Net Banking,4,8588,17838,4,-9250,-107.71
+1646,2026-07-04,Chennai,West,Furniture,Sofa,1913,New,UPI,2,1903,3791,25,-1888,-99.21
+1647,2026-07-05,Bangalore,North,Groceries,Table,1036,Returning,Net Banking,9,45416,9048,8,36368,80.08
+1648,2026-07-06,Mumbai,South,Furniture,Sofa,1793,New,Card,4,43723,15004,18,28719,65.68
+1649,2026-07-07,Bangalore,North,Groceries,Laptop,1136,Returning,Cash,6,36572,12287,20,24285,66.4
+1650,2026-07-08,Mumbai,South,Electronics,Shirt,1507,New,Net Banking,1,18610,1468,14,17142,92.11
+1651,2026-07-09,Mumbai,West,Clothing,Shirt,1226,New,Card,9,35052,17125,12,17927,51.14
+1652,2026-07-10,Hyderabad,South,Electronics,Mobile,1319,New,UPI,5,34457,28522,11,5935,17.22
+1653,2026-07-11,Hyderabad,North,Clothing,Rice,1839,New,Cash,3,22527,4734,4,17793,78.99
+1654,2026-07-12,Mumbai,North,Clothing,Mobile,1915,Returning,Cash,4,38550,27220,1,11330,29.39
+1655,2026-07-13,Mumbai,North,Furniture,Mobile,1181,Returning,UPI,1,30011,8838,26,21173,70.55
+1656,2026-07-14,Bangalore,South,Clothing,Rice,1873,Returning,UPI,9,38275,7849,3,30426,79.49
+1657,2026-07-15,Bangalore,West,Electronics,Table,1085,Returning,Cash,8,35764,13868,26,21896,61.22
+1658,2026-07-16,Hyderabad,West,Electronics,Laptop,1466,New,Net Banking,4,33004,22045,26,10959,33.21
+1659,2026-07-17,Chennai,South,Groceries,Shirt,1925,Returning,Cash,2,25064,15701,17,9363,37.36
+1660,2026-07-18,Mumbai,North,Electronics,Mobile,1052,Returning,UPI,9,29702,16570,20,13132,44.21
+1661,2026-07-19,Bangalore,West,Groceries,Rice,1859,Returning,Net Banking,4,21165,9234,9,11931,56.37
+1662,2026-07-20,Hyderabad,North,Clothing,Sofa,1866,New,Card,9,9631,9383,12,248,2.58
+1663,2026-07-21,Bangalore,South,Electronics,Mobile,1234,Returning,Cash,3,22852,1525,11,21327,93.33
+1664,2026-07-22,Mumbai,North,Clothing,Shirt,1958,Returning,UPI,7,5507,29126,1,-23619,-428.89
+1665,2026-07-23,Mumbai,West,Electronics,Laptop,1778,New,Card,7,1527,12697,25,-11170,-731.5
+1666,2026-07-24,Delhi,West,Electronics,Mobile,1798,New,Cash,4,29981,3859,14,26122,87.13
+1667,2026-07-25,Chennai,North,Groceries,Mobile,1432,Returning,Cash,2,36764,5757,13,31007,84.34
+1668,2026-07-26,Delhi,South,Clothing,Table,1495,Returning,Net Banking,9,37235,22620,24,14615,39.25
+1669,2026-07-27,Hyderabad,North,Electronics,Rice,1998,New,UPI,4,48540,24563,9,23977,49.4
+1670,2026-07-28,Bangalore,South,Furniture,Sofa,1099,Returning,Card,8,34471,3451,21,31020,89.99
+1671,2026-07-29,Hyderabad,North,Clothing,Sofa,1989,New,Cash,2,1662,25805,7,-24143,-1452.65
+1672,2026-07-30,Mumbai,West,Clothing,Laptop,1598,Returning,Net Banking,8,25940,7889,24,18051,69.59
+1673,2026-07-31,Delhi,South,Clothing,Shirt,1402,Returning,Card,5,42882,15166,14,27716,64.63
+1674,2026-08-01,Delhi,South,Groceries,Laptop,1395,Returning,Card,7,7256,15452,12,-8196,-112.95
+1675,2026-08-02,Delhi,South,Furniture,Mobile,1526,Returning,Cash,7,29432,29575,7,-143,-0.49
+1676,2026-08-03,Hyderabad,West,Clothing,Mobile,1414,Returning,Card,9,9367,19439,20,-10072,-107.53
+1677,2026-08-04,Mumbai,North,Electronics,Sofa,1938,New,Cash,3,47228,14727,20,32501,68.82
+1678,2026-08-05,Bangalore,West,Electronics,Shirt,1612,New,Net Banking,4,39065,18034,21,21031,53.84
+1679,2026-08-06,Bangalore,South,Groceries,Rice,1676,Returning,Net Banking,4,26511,16124,13,10387,39.18
+1680,2026-08-07,Hyderabad,North,Electronics,Shirt,1462,Returning,Card,5,9573,2235,0,7338,76.65
+1681,2026-08-08,Delhi,West,Clothing,Mobile,1540,Returning,Cash,6,16582,24815,12,-8233,-49.65
+1682,2026-08-09,Chennai,South,Electronics,Rice,1625,New,UPI,3,6378,17922,26,-11544,-181.0
+1683,2026-08-10,Hyderabad,South,Clothing,Shirt,1618,New,Net Banking,4,14500,6869,7,7631,52.63
+1684,2026-08-11,Hyderabad,West,Electronics,Shirt,1921,New,Cash,3,1305,7627,17,-6322,-484.44
+1685,2026-08-12,Mumbai,West,Furniture,Rice,1363,New,Cash,2,22881,3412,21,19469,85.09
+1686,2026-08-13,Bangalore,West,Groceries,Mobile,1129,New,Cash,9,5697,15964,29,-10267,-180.22
+1687,2026-08-14,Hyderabad,South,Groceries,Shirt,1083,New,Card,1,8222,21724,29,-13502,-164.22
+1688,2026-08-15,Hyderabad,West,Furniture,Rice,1270,New,UPI,2,8933,27616,8,-18683,-209.15
+1689,2026-08-16,Delhi,South,Furniture,Table,1243,New,Card,8,18849,13106,12,5743,30.47
+1690,2026-08-17,Delhi,West,Groceries,Table,1387,Returning,Net Banking,7,25236,1742,2,23494,93.1
+1691,2026-08-18,Chennai,South,Furniture,Mobile,1213,New,Card,1,45231,16136,17,29095,64.33
+1692,2026-08-19,Mumbai,South,Clothing,Rice,1817,New,Cash,5,34170,25848,9,8322,24.35
+1693,2026-08-20,Chennai,North,Electronics,Table,1165,New,Card,6,13901,10608,4,3293,23.69
+1694,2026-08-21,Delhi,West,Groceries,Rice,1790,New,Cash,5,7940,8598,26,-658,-8.29
+1695,2026-08-22,Bangalore,West,Furniture,Shirt,1058,Returning,UPI,4,49790,3912,24,45878,92.14
+1696,2026-08-23,Delhi,South,Clothing,Mobile,1601,New,Card,1,20054,19383,5,671,3.35
+1697,2026-08-24,Mumbai,South,Groceries,Table,1882,Returning,Card,7,41863,12132,29,29731,71.02
+1698,2026-08-25,Delhi,South,Furniture,Shirt,1842,Returning,Card,9,44610,13731,7,30879,69.22
+1699,2026-08-26,Mumbai,North,Groceries,Laptop,1923,Returning,Cash,6,5544,15683,23,-10139,-182.88
+1700,2026-08-27,Mumbai,North,Furniture,Laptop,1503,New,Cash,3,26318,7660,6,18658,70.89
+1701,2026-08-28,Mumbai,South,Groceries,Mobile,1705,New,Card,4,7074,22994,20,-15920,-225.05
+1702,2026-08-29,Mumbai,West,Clothing,Table,1122,New,Card,5,40618,20429,17,20189,49.7
+1703,2026-08-30,Mumbai,West,Clothing,Table,1647,Returning,UPI,1,34518,18097,13,16421,47.57
+1704,2026-08-31,Bangalore,North,Electronics,Table,1412,Returning,UPI,5,26444,11623,14,14821,56.05
+1705,2026-09-01,Chennai,North,Groceries,Rice,1138,Returning,Net Banking,1,21446,17302,9,4144,19.32
+1706,2026-09-02,Hyderabad,South,Electronics,Shirt,1228,Returning,UPI,9,29543,28857,25,686,2.32
+1707,2026-09-03,Chennai,West,Groceries,Table,1273,New,UPI,7,25789,5460,20,20329,78.83
+1708,2026-09-04,Mumbai,South,Furniture,Shirt,1438,New,UPI,3,2617,1288,11,1329,50.78
+1709,2026-09-05,Bangalore,North,Furniture,Mobile,1561,New,Cash,9,36298,18755,6,17543,48.33
+1710,2026-09-06,Delhi,West,Electronics,Table,1909,Returning,UPI,2,4333,29666,27,-25333,-584.65
+1711,2026-09-07,Bangalore,West,Groceries,Mobile,1117,Returning,UPI,7,41002,13850,27,27152,66.22
+1712,2026-09-08,Mumbai,North,Electronics,Table,1713,New,Card,9,23152,18909,6,4243,18.33
+1713,2026-09-09,Bangalore,South,Clothing,Laptop,1994,New,Cash,6,25091,23148,10,1943,7.74
+1714,2026-09-10,Bangalore,South,Electronics,Sofa,1904,Returning,Net Banking,5,1511,2946,12,-1435,-94.97
+1715,2026-09-11,Mumbai,West,Electronics,Mobile,1482,New,Net Banking,7,48314,24313,14,24001,49.68
+1716,2026-09-12,Bangalore,North,Furniture,Table,1394,New,UPI,6,38850,21707,17,17143,44.13
+1717,2026-09-13,Hyderabad,West,Electronics,Sofa,1702,Returning,Net Banking,5,17636,16683,6,953,5.4
+1718,2026-09-14,Hyderabad,North,Groceries,Mobile,1875,Returning,Net Banking,2,21517,9252,5,12265,57.0
+1719,2026-09-15,Bangalore,South,Furniture,Rice,1459,Returning,Net Banking,8,32786,19535,22,13251,40.42
+1720,2026-09-16,Delhi,North,Electronics,Table,1834,New,UPI,7,9820,13940,10,-4120,-41.96
+1721,2026-09-17,Mumbai,South,Clothing,Rice,1692,Returning,Net Banking,6,37244,12596,7,24648,66.18
+1722,2026-09-18,Hyderabad,North,Electronics,Laptop,1934,New,UPI,5,10178,17423,19,-7245,-71.18
+1723,2026-09-19,Delhi,West,Electronics,Table,1077,New,Card,5,2725,6999,0,-4274,-156.84
+1724,2026-09-20,Bangalore,South,Electronics,Laptop,1951,Returning,Card,9,19477,21639,7,-2162,-11.1
+1725,2026-09-21,Delhi,West,Furniture,Sofa,1411,New,Net Banking,1,47533,15267,7,32266,67.88
+1726,2026-09-22,Chennai,West,Groceries,Mobile,1074,Returning,Card,9,35469,22843,18,12626,35.6
+1727,2026-09-23,Hyderabad,South,Clothing,Shirt,1294,Returning,UPI,6,9496,28212,2,-18716,-197.09
+1728,2026-09-24,Bangalore,South,Electronics,Laptop,1792,New,Card,4,13270,20173,4,-6903,-52.02
+1729,2026-09-25,Mumbai,West,Groceries,Shirt,1020,New,Net Banking,7,11472,27686,29,-16214,-141.34
+1730,2026-09-26,Bangalore,West,Groceries,Shirt,1905,Returning,UPI,9,21724,22430,2,-706,-3.25
+1731,2026-09-27,Mumbai,West,Furniture,Mobile,1170,Returning,Cash,5,31416,29988,14,1428,4.55
+1732,2026-09-28,Bangalore,West,Clothing,Sofa,1014,Returning,UPI,5,36575,27020,13,9555,26.12
+1733,2026-09-29,Delhi,South,Furniture,Mobile,1210,Returning,Card,8,16654,11837,20,4817,28.92
+1734,2026-09-30,Delhi,South,Groceries,Table,1559,Returning,Cash,7,12078,16319,14,-4241,-35.11
+1735,2026-10-01,Delhi,West,Groceries,Laptop,1085,Returning,UPI,8,29030,16284,23,12746,43.91
+1736,2026-10-02,Chennai,North,Groceries,Shirt,1148,New,Cash,2,8572,19642,16,-11070,-129.14
+1737,2026-10-03,Mumbai,North,Furniture,Mobile,1699,New,Cash,9,18408,5811,17,12597,68.43
+1738,2026-10-04,Delhi,South,Clothing,Mobile,1371,New,Cash,3,20359,11952,1,8407,41.29
+1739,2026-10-05,Chennai,West,Electronics,Mobile,1479,New,UPI,6,9698,20991,11,-11293,-116.45
+1740,2026-10-06,Mumbai,West,Furniture,Laptop,1817,Returning,Card,6,5856,15074,15,-9218,-157.41
+1741,2026-10-07,Bangalore,South,Groceries,Sofa,1150,New,UPI,2,28527,18779,3,9748,34.17
+1742,2026-10-08,Chennai,North,Furniture,Mobile,1140,New,Card,7,40492,16452,24,24040,59.37
+1743,2026-10-09,Hyderabad,North,Groceries,Laptop,1068,Returning,UPI,9,10245,3000,1,7245,70.72
+1744,2026-10-10,Chennai,North,Electronics,Shirt,1259,New,UPI,1,44634,15218,27,29416,65.9
+1745,2026-10-11,Chennai,South,Electronics,Table,1987,Returning,UPI,8,43864,3329,13,40535,92.41
+1746,2026-10-12,Mumbai,North,Clothing,Rice,1845,Returning,Card,2,29946,28949,10,997,3.33
+1747,2026-10-13,Bangalore,South,Groceries,Laptop,1967,Returning,UPI,1,38355,547,12,37808,98.57
+1748,2026-10-14,Hyderabad,South,Clothing,Rice,1520,Returning,Cash,8,38690,2864,27,35826,92.6
+1749,2026-10-15,Delhi,West,Clothing,Mobile,1632,Returning,UPI,2,38814,27332,24,11482,29.58
+1750,2026-10-16,Delhi,North,Electronics,Mobile,1370,New,Cash,6,32645,22550,6,10095,30.92
+1751,2026-10-17,Chennai,South,Furniture,Laptop,1418,New,Net Banking,6,20278,13364,9,6914,34.1
+1752,2026-10-18,Mumbai,North,Furniture,Rice,1100,New,Net Banking,5,8203,23342,23,-15139,-184.55
+1753,2026-10-19,Mumbai,North,Clothing,Mobile,1660,Returning,Card,8,49171,25829,0,23342,47.47
+1754,2026-10-20,Delhi,West,Electronics,Shirt,1953,New,Card,3,22658,8677,28,13981,61.7
+1755,2026-10-21,Hyderabad,North,Groceries,Sofa,1657,New,Net Banking,4,43596,13847,20,29749,68.24
+1756,2026-10-22,Bangalore,West,Furniture,Sofa,1864,New,UPI,7,16797,24514,24,-7717,-45.94
+1757,2026-10-23,Hyderabad,South,Clothing,Mobile,1967,New,UPI,7,33806,8431,27,25375,75.06
+1758,2026-10-24,Bangalore,North,Furniture,Rice,1242,Returning,UPI,8,31958,23942,3,8016,25.08
+1759,2026-10-25,Delhi,South,Furniture,Table,1752,New,Net Banking,2,7265,19686,17,-12421,-170.97
+1760,2026-10-26,Bangalore,North,Groceries,Mobile,1511,Returning,Cash,2,7598,13341,5,-5743,-75.59
+1761,2026-10-27,Mumbai,South,Electronics,Table,1848,Returning,Card,4,36183,12344,1,23839,65.88
+1762,2026-10-28,Chennai,North,Groceries,Table,1554,New,Cash,9,18142,9094,2,9048,49.87
+1763,2026-10-29,Chennai,North,Electronics,Rice,1094,Returning,Net Banking,9,27998,13918,13,14080,50.29
+1764,2026-10-30,Delhi,North,Furniture,Table,1225,Returning,Cash,4,26890,2586,7,24304,90.38
+1765,2026-10-31,Mumbai,North,Clothing,Shirt,1517,Returning,UPI,9,29878,23608,15,6270,20.99
+1766,2026-11-01,Hyderabad,North,Groceries,Rice,1213,Returning,UPI,3,15306,10919,18,4387,28.66
+1767,2026-11-02,Mumbai,North,Electronics,Mobile,1717,Returning,Cash,5,48345,23039,17,25306,52.34
+1768,2026-11-03,Chennai,North,Furniture,Shirt,1066,Returning,Net Banking,9,12885,12102,5,783,6.08
+1769,2026-11-04,Chennai,North,Electronics,Laptop,1395,Returning,Cash,6,45145,11682,13,33463,74.12
+1770,2026-11-05,Mumbai,North,Electronics,Sofa,1611,New,UPI,3,44826,13335,2,31491,70.25
+1771,2026-11-06,Mumbai,South,Electronics,Mobile,1011,New,UPI,9,8443,18033,15,-9590,-113.59
+1772,2026-11-07,Chennai,West,Furniture,Mobile,1236,Returning,Net Banking,6,32839,16946,0,15893,48.4
+1773,2026-11-08,Hyderabad,North,Clothing,Mobile,1833,Returning,Cash,4,18084,3653,11,14431,79.8
+1774,2026-11-09,Delhi,West,Clothing,Shirt,1769,New,UPI,4,24911,9700,29,15211,61.06
+1775,2026-11-10,Delhi,North,Clothing,Laptop,1398,New,UPI,8,5383,22822,13,-17439,-323.96
+1776,2026-11-11,Mumbai,North,Electronics,Rice,1406,New,Cash,7,27777,10723,18,17054,61.4
+1777,2026-11-12,Delhi,South,Furniture,Laptop,1924,New,Cash,1,35361,26398,21,8963,25.35
+1778,2026-11-13,Chennai,South,Electronics,Shirt,1848,Returning,Card,6,15758,10773,18,4985,31.63
+1779,2026-11-14,Chennai,West,Clothing,Mobile,1479,Returning,Net Banking,8,30521,1251,8,29270,95.9
+1780,2026-11-15,Mumbai,South,Clothing,Sofa,1646,New,Net Banking,3,21529,24660,6,-3131,-14.54
+1781,2026-11-16,Mumbai,South,Furniture,Mobile,1221,New,Cash,9,24091,29220,13,-5129,-21.29
+1782,2026-11-17,Mumbai,West,Electronics,Rice,1155,New,Net Banking,2,40794,9349,4,31445,77.08
+1783,2026-11-18,Hyderabad,South,Groceries,Table,1653,New,UPI,6,32381,26736,17,5645,17.43
+1784,2026-11-19,Delhi,North,Groceries,Sofa,1427,Returning,Cash,1,36380,17584,8,18796,51.67
+1785,2026-11-20,Mumbai,West,Clothing,Mobile,1157,New,Cash,2,31932,26156,20,5776,18.09
+1786,2026-11-21,Bangalore,West,Furniture,Sofa,1976,New,Cash,5,45097,16720,6,28377,62.92
+1787,2026-11-22,Bangalore,North,Electronics,Table,1415,New,Card,1,2908,10848,8,-7940,-273.04
+1788,2026-11-23,Chennai,South,Electronics,Laptop,1325,Returning,Net Banking,8,40722,18424,3,22298,54.76
+1789,2026-11-24,Delhi,West,Clothing,Shirt,1370,Returning,Card,1,48953,19916,24,29037,59.32
+1790,2026-11-25,Mumbai,West,Clothing,Mobile,1343,Returning,UPI,9,31358,6667,16,24691,78.74
+1791,2026-11-26,Bangalore,North,Electronics,Rice,1261,New,Net Banking,3,31412,6864,11,24548,78.15
+1792,2026-11-27,Delhi,North,Electronics,Laptop,1282,New,Card,2,19174,2483,5,16691,87.05
+1793,2026-11-28,Chennai,South,Clothing,Mobile,1849,New,Cash,1,16496,25390,17,-8894,-53.92
+1794,2026-11-29,Hyderabad,West,Electronics,Laptop,1855,Returning,Card,9,3928,15129,7,-11201,-285.16
+1795,2026-11-30,Delhi,South,Groceries,Rice,1228,Returning,Cash,4,31632,16788,20,14844,46.93
+1796,2026-12-01,Delhi,South,Clothing,Mobile,1887,New,Card,1,33309,11773,14,21536,64.66
+1797,2026-12-02,Hyderabad,North,Electronics,Table,1279,New,Card,1,10280,22680,2,-12400,-120.62
+1798,2026-12-03,Delhi,West,Clothing,Table,1869,Returning,Card,7,41449,8148,1,33301,80.34
+1799,2026-12-04,Chennai,West,Furniture,Rice,1289,New,Cash,2,22635,8394,23,14241,62.92
+1800,2026-12-05,Chennai,West,Clothing,Sofa,1679,New,Card,7,27957,13805,22,14152,50.62
+1801,2026-12-06,Hyderabad,North,Clothing,Rice,1046,New,Net Banking,7,37895,13425,8,24470,64.57
+1802,2026-12-07,Mumbai,North,Furniture,Sofa,1974,Returning,Net Banking,9,5963,19198,7,-13235,-221.95
+1803,2026-12-08,Bangalore,North,Groceries,Mobile,1714,New,Net Banking,7,28521,24843,26,3678,12.9
+1804,2026-12-09,Mumbai,North,Electronics,Sofa,1213,New,Cash,1,33615,10827,3,22788,67.79
+1805,2026-12-10,Delhi,North,Furniture,Mobile,1757,New,Cash,8,45529,18533,1,26996,59.29
+1806,2026-12-11,Bangalore,West,Clothing,Mobile,1023,New,Net Banking,8,47322,24584,13,22738,48.05
+1807,2026-12-12,Hyderabad,South,Electronics,Shirt,1320,Returning,Net Banking,4,22695,11911,28,10784,47.52
+1808,2026-12-13,Hyderabad,West,Furniture,Mobile,1273,Returning,Net Banking,8,10357,7400,1,2957,28.55
+1809,2026-12-14,Bangalore,South,Electronics,Sofa,1555,Returning,UPI,4,26176,16637,1,9539,36.44
+1810,2026-12-15,Chennai,North,Electronics,Shirt,1843,New,Net Banking,8,19409,4300,29,15109,77.85
+1811,2026-12-16,Bangalore,South,Furniture,Shirt,1312,Returning,Card,5,1987,2978,26,-991,-49.87
+1812,2026-12-17,Delhi,West,Electronics,Mobile,1362,New,UPI,4,2965,29143,27,-26178,-882.9
+1813,2026-12-18,Chennai,West,Groceries,Rice,1667,Returning,UPI,6,41084,10467,21,30617,74.52
+1814,2026-12-19,Hyderabad,South,Furniture,Rice,1999,New,Cash,2,32318,10658,6,21660,67.02
+1815,2026-12-20,Bangalore,North,Groceries,Table,1379,Returning,Card,2,27015,7554,11,19461,72.04
+1816,2026-12-21,Mumbai,North,Clothing,Shirt,1710,Returning,Cash,2,30191,6559,5,23632,78.27
+1817,2026-12-22,Mumbai,West,Electronics,Mobile,1918,Returning,Cash,9,47814,10459,17,37355,78.13
+1818,2026-12-23,Delhi,South,Clothing,Rice,1980,New,Card,3,1868,12507,3,-10639,-569.54
+1819,2026-12-24,Mumbai,North,Clothing,Mobile,1673,New,Cash,4,38146,8933,18,29213,76.58
+1820,2026-12-25,Bangalore,North,Electronics,Mobile,1906,New,Card,8,49231,29873,26,19358,39.32
+1821,2026-12-26,Bangalore,West,Furniture,Shirt,1469,Returning,Card,4,30032,28025,12,2007,6.68
+1822,2026-12-27,Mumbai,North,Electronics,Table,1745,New,Cash,7,29305,29912,19,-607,-2.07
+1823,2026-12-28,Bangalore,South,Clothing,Shirt,1674,New,Net Banking,5,23640,6709,20,16931,71.62
+1824,2026-12-29,Delhi,West,Clothing,Laptop,1115,New,Cash,9,19318,7615,22,11703,60.58
+1825,2026-12-30,Chennai,West,Furniture,Rice,1604,New,UPI,4,14246,13568,29,678,4.76
+1826,2026-12-31,Delhi,South,Electronics,Rice,1041,New,Cash,3,34844,19140,24,15704,45.07
+1827,2027-01-01,Delhi,West,Clothing,Rice,1795,New,Card,2,33602,29187,26,4415,13.14
+1828,2027-01-02,Bangalore,North,Groceries,Sofa,1378,Returning,UPI,1,22584,3868,1,18716,82.87
+1829,2027-01-03,Chennai,North,Clothing,Mobile,1721,Returning,Card,6,16169,24271,7,-8102,-50.11
+1830,2027-01-04,Bangalore,South,Clothing,Shirt,1205,New,Net Banking,2,26968,16628,18,10340,38.34
+1831,2027-01-05,Hyderabad,North,Furniture,Rice,1465,Returning,Net Banking,8,7385,25442,8,-18057,-244.51
+1832,2027-01-06,Bangalore,South,Groceries,Laptop,1731,Returning,UPI,6,9222,3327,25,5895,63.92
+1833,2027-01-07,Bangalore,South,Clothing,Rice,1279,New,Net Banking,5,26444,26328,27,116,0.44
+1834,2027-01-08,Bangalore,North,Clothing,Table,1647,New,Net Banking,2,39248,16490,3,22758,57.99
+1835,2027-01-09,Chennai,South,Groceries,Mobile,1617,Returning,Cash,7,41545,2987,15,38558,92.81
+1836,2027-01-10,Bangalore,North,Electronics,Mobile,1117,New,Cash,2,6362,29861,18,-23499,-369.36
+1837,2027-01-11,Chennai,West,Electronics,Shirt,1236,Returning,Net Banking,5,34718,20487,9,14231,40.99
+1838,2027-01-12,Mumbai,West,Clothing,Sofa,1308,Returning,Net Banking,2,9250,20405,5,-11155,-120.59
+1839,2027-01-13,Hyderabad,South,Clothing,Shirt,1455,Returning,Cash,2,3818,13847,15,-10029,-262.68
+1840,2027-01-14,Chennai,North,Electronics,Rice,1899,New,Net Banking,7,37368,21401,9,15967,42.73
+1841,2027-01-15,Mumbai,North,Furniture,Table,1474,Returning,Net Banking,9,45109,16777,12,28332,62.81
+1842,2027-01-16,Chennai,West,Groceries,Laptop,1099,New,Card,5,16053,2143,8,13910,86.65
+1843,2027-01-17,Chennai,West,Groceries,Shirt,1260,New,Net Banking,7,28426,18096,6,10330,36.34
+1844,2027-01-18,Hyderabad,North,Furniture,Sofa,1992,New,UPI,4,48101,24229,3,23872,49.63
+1845,2027-01-19,Delhi,South,Furniture,Shirt,1304,New,Card,2,40023,21587,18,18436,46.06
+1846,2027-01-20,Delhi,West,Furniture,Mobile,1353,New,UPI,3,25892,22318,25,3574,13.8
+1847,2027-01-21,Chennai,South,Furniture,Rice,1285,Returning,Net Banking,2,44675,519,3,44156,98.84
+1848,2027-01-22,Bangalore,South,Furniture,Rice,1327,New,Cash,5,30361,1175,18,29186,96.13
+1849,2027-01-23,Mumbai,West,Furniture,Rice,1102,New,Card,6,17007,21361,27,-4354,-25.6
+1850,2027-01-24,Bangalore,South,Groceries,Rice,1062,New,Cash,7,15241,17492,18,-2251,-14.77
+1851,2027-01-25,Bangalore,South,Furniture,Rice,1686,New,Card,3,45858,23170,11,22688,49.47
+1852,2027-01-26,Chennai,North,Electronics,Rice,1281,New,Cash,4,46073,16945,29,29128,63.22
+1853,2027-01-27,Chennai,South,Furniture,Laptop,1440,Returning,Card,8,24902,9957,12,14945,60.02
+1854,2027-01-28,Chennai,North,Furniture,Sofa,1292,New,Card,4,25506,27361,24,-1855,-7.27
+1855,2027-01-29,Chennai,West,Groceries,Rice,1737,New,UPI,7,18562,1654,3,16908,91.09
+1856,2027-01-30,Delhi,West,Groceries,Sofa,1006,Returning,Cash,6,21239,10320,24,10919,51.41
+1857,2027-01-31,Chennai,North,Furniture,Table,1638,New,UPI,7,14065,10318,27,3747,26.64
+1858,2027-02-01,Delhi,West,Groceries,Rice,1935,Returning,UPI,1,46415,4216,9,42199,90.92
+1859,2027-02-02,Delhi,South,Clothing,Shirt,1091,Returning,Cash,3,42291,5742,20,36549,86.42
+1860,2027-02-03,Chennai,South,Groceries,Rice,1934,Returning,Card,6,39805,22443,6,17362,43.62
+1861,2027-02-04,Hyderabad,South,Groceries,Mobile,1189,Returning,UPI,3,34295,5522,29,28773,83.9
+1862,2027-02-05,Mumbai,West,Groceries,Laptop,1870,New,Cash,7,19443,23369,4,-3926,-20.19
+1863,2027-02-06,Bangalore,South,Groceries,Shirt,1475,New,Card,9,10290,18326,16,-8036,-78.1
+1864,2027-02-07,Delhi,West,Electronics,Shirt,1510,Returning,UPI,3,1211,2153,17,-942,-77.79
+1865,2027-02-08,Mumbai,South,Electronics,Mobile,1461,Returning,UPI,1,19098,3002,10,16096,84.28
+1866,2027-02-09,Hyderabad,North,Electronics,Rice,1052,New,UPI,6,20072,20153,14,-81,-0.4
+1867,2027-02-10,Bangalore,West,Furniture,Laptop,1753,Returning,Card,1,44290,17165,20,27125,61.24
+1868,2027-02-11,Bangalore,West,Furniture,Shirt,1485,Returning,UPI,1,20650,26100,21,-5450,-26.39
+1869,2027-02-12,Delhi,South,Clothing,Laptop,1643,Returning,Card,8,16115,29894,6,-13779,-85.5
+1870,2027-02-13,Chennai,West,Electronics,Shirt,1489,New,Net Banking,9,6149,14586,17,-8437,-137.21
+1871,2027-02-14,Hyderabad,West,Furniture,Rice,1977,Returning,UPI,2,42992,3903,25,39089,90.92
+1872,2027-02-15,Delhi,North,Groceries,Table,1363,New,Net Banking,9,18716,1735,24,16981,90.73
+1873,2027-02-16,Hyderabad,North,Groceries,Shirt,1111,New,Cash,5,33188,29258,5,3930,11.84
+1874,2027-02-17,Chennai,South,Electronics,Table,1408,New,UPI,8,14621,21644,17,-7023,-48.03
+1875,2027-02-18,Chennai,North,Clothing,Shirt,1006,Returning,Cash,7,7820,13649,15,-5829,-74.54
+1876,2027-02-19,Delhi,South,Clothing,Sofa,1741,Returning,Cash,7,48529,14896,1,33633,69.3
+1877,2027-02-20,Chennai,South,Groceries,Rice,1667,New,Cash,4,43800,23824,18,19976,45.61
+1878,2027-02-21,Mumbai,South,Clothing,Mobile,1196,New,Net Banking,2,31399,14930,0,16469,52.45
+1879,2027-02-22,Bangalore,West,Electronics,Table,1834,New,Card,5,15002,17669,24,-2667,-17.78
+1880,2027-02-23,Delhi,North,Groceries,Mobile,1875,Returning,Net Banking,3,44098,14364,29,29734,67.43
+1881,2027-02-24,Hyderabad,South,Furniture,Rice,1734,Returning,Net Banking,9,46511,16006,25,30505,65.59
+1882,2027-02-25,Mumbai,North,Furniture,Mobile,1366,New,Cash,6,29750,12009,10,17741,59.63
+1883,2027-02-26,Delhi,South,Clothing,Rice,1249,New,UPI,1,27074,26743,19,331,1.22
+1884,2027-02-27,Chennai,North,Groceries,Mobile,1915,Returning,Card,3,18310,28084,4,-9774,-53.38
+1885,2027-02-28,Chennai,North,Groceries,Table,1594,New,Cash,4,18006,3694,15,14312,79.48
+1886,2027-03-01,Chennai,South,Furniture,Sofa,1239,Returning,Card,9,10671,5289,22,5382,50.44
+1887,2027-03-02,Chennai,West,Groceries,Mobile,1379,Returning,Net Banking,6,45345,20659,0,24686,54.44
+1888,2027-03-03,Hyderabad,North,Groceries,Table,1906,New,Card,4,28894,11138,18,17756,61.45
+1889,2027-03-04,Mumbai,West,Groceries,Shirt,1871,New,Card,1,27193,28866,13,-1673,-6.15
+1890,2027-03-05,Bangalore,West,Clothing,Rice,1834,Returning,UPI,8,11222,5850,2,5372,47.87
+1891,2027-03-06,Hyderabad,South,Groceries,Laptop,1470,Returning,Cash,2,24786,1033,1,23753,95.83
+1892,2027-03-07,Hyderabad,South,Electronics,Laptop,1774,Returning,Card,8,32509,25477,23,7032,21.63
+1893,2027-03-08,Bangalore,South,Clothing,Rice,1918,Returning,Card,6,1386,4163,4,-2777,-200.36
+1894,2027-03-09,Bangalore,North,Groceries,Sofa,1700,Returning,Net Banking,8,2634,629,16,2005,76.12
+1895,2027-03-10,Chennai,South,Groceries,Mobile,1454,New,Net Banking,6,41878,27415,27,14463,34.54
+1896,2027-03-11,Hyderabad,South,Electronics,Sofa,1365,Returning,Card,5,5133,13063,17,-7930,-154.49
+1897,2027-03-12,Delhi,North,Clothing,Laptop,1289,Returning,Cash,5,43144,19843,0,23301,54.01
+1898,2027-03-13,Bangalore,North,Furniture,Table,1873,Returning,Card,8,39349,2358,14,36991,94.01
+1899,2027-03-14,Bangalore,South,Furniture,Rice,1402,New,Card,7,35735,16235,21,19500,54.57
+1900,2027-03-15,Mumbai,South,Clothing,Rice,1057,New,UPI,8,22952,28049,8,-5097,-22.21
+1901,2027-03-16,Delhi,South,Groceries,Sofa,1520,Returning,Cash,8,25816,12842,26,12974,50.26
+1902,2027-03-17,Delhi,South,Groceries,Table,1303,Returning,UPI,7,22529,4149,22,18380,81.58
+1903,2027-03-18,Bangalore,West,Furniture,Sofa,1114,New,Cash,2,6767,11478,4,-4711,-69.62
+1904,2027-03-19,Chennai,West,Furniture,Mobile,1209,New,Cash,9,42521,19981,27,22540,53.01
+1905,2027-03-20,Mumbai,South,Furniture,Shirt,1040,New,Cash,7,19383,20396,12,-1013,-5.23
+1906,2027-03-21,Delhi,West,Electronics,Table,1815,New,UPI,6,5901,5360,18,541,9.17
+1907,2027-03-22,Bangalore,North,Furniture,Shirt,1172,Returning,UPI,9,43889,9912,27,33977,77.42
+1908,2027-03-23,Delhi,West,Electronics,Mobile,1233,New,UPI,1,15633,9333,27,6300,40.3
+1909,2027-03-24,Mumbai,West,Clothing,Shirt,1792,Returning,Net Banking,2,20163,28390,23,-8227,-40.8
+1910,2027-03-25,Mumbai,South,Groceries,Laptop,1883,Returning,UPI,1,11707,14635,9,-2928,-25.01
+1911,2027-03-26,Hyderabad,West,Furniture,Shirt,1589,New,Net Banking,3,23576,1223,19,22353,94.81
+1912,2027-03-27,Bangalore,West,Groceries,Mobile,1619,New,Net Banking,5,19061,29973,24,-10912,-57.25
+1913,2027-03-28,Mumbai,West,Groceries,Shirt,1792,New,Net Banking,1,46101,1237,20,44864,97.32
+1914,2027-03-29,Hyderabad,West,Furniture,Rice,1402,New,Card,4,45706,29929,13,15777,34.52
+1915,2027-03-30,Hyderabad,North,Furniture,Sofa,1038,Returning,Card,8,12548,14379,21,-1831,-14.59
+1916,2027-03-31,Delhi,South,Clothing,Laptop,1118,Returning,Card,6,16115,1799,20,14316,88.84
+1917,2027-04-01,Delhi,South,Electronics,Rice,1334,Returning,Net Banking,1,10843,20364,25,-9521,-87.81
+1918,2027-04-02,Hyderabad,North,Electronics,Rice,1335,New,Net Banking,1,37945,839,11,37106,97.79
+1919,2027-04-03,Delhi,West,Groceries,Mobile,1538,Returning,Cash,3,40979,652,10,40327,98.41
+1920,2027-04-04,Mumbai,North,Furniture,Sofa,1615,New,Net Banking,8,41641,22568,22,19073,45.8
+1921,2027-04-05,Chennai,West,Clothing,Sofa,1073,Returning,Card,8,4841,10113,6,-5272,-108.9
+1922,2027-04-06,Mumbai,North,Clothing,Table,1190,New,Net Banking,3,7416,14255,16,-6839,-92.22
+1923,2027-04-07,Hyderabad,South,Clothing,Laptop,1323,Returning,Net Banking,7,11633,16482,17,-4849,-41.68
+1924,2027-04-08,Hyderabad,South,Clothing,Mobile,1146,Returning,Cash,3,38653,19935,6,18718,48.43
+1925,2027-04-09,Mumbai,South,Clothing,Laptop,1766,New,Net Banking,4,1594,926,23,668,41.91
+1926,2027-04-10,Delhi,West,Electronics,Table,1283,Returning,UPI,9,15393,24030,19,-8637,-56.11
+1927,2027-04-11,Delhi,West,Electronics,Shirt,1212,Returning,Cash,4,36380,25009,5,11371,31.26
+1928,2027-04-12,Hyderabad,North,Electronics,Rice,1634,New,Net Banking,3,46056,28634,10,17422,37.83
+1929,2027-04-13,Bangalore,North,Furniture,Laptop,1717,New,Net Banking,5,23743,23231,11,512,2.16
+1930,2027-04-14,Delhi,South,Groceries,Rice,1928,New,Cash,7,32971,9827,25,23144,70.2
+1931,2027-04-15,Mumbai,West,Clothing,Mobile,1751,New,Net Banking,5,5861,19256,15,-13395,-228.54
+1932,2027-04-16,Delhi,North,Furniture,Shirt,1393,New,Card,4,38534,25010,18,13524,35.1
+1933,2027-04-17,Mumbai,West,Clothing,Mobile,1338,Returning,UPI,8,37126,12021,22,25105,67.62
+1934,2027-04-18,Hyderabad,West,Electronics,Shirt,1797,New,UPI,4,15846,17833,26,-1987,-12.54
+1935,2027-04-19,Delhi,South,Furniture,Shirt,1021,Returning,Card,2,27177,24579,18,2598,9.56
+1936,2027-04-20,Mumbai,South,Electronics,Rice,1770,Returning,Net Banking,6,34682,1873,10,32809,94.6
+1937,2027-04-21,Hyderabad,West,Clothing,Mobile,1868,New,Net Banking,2,19228,7582,15,11646,60.57
+1938,2027-04-22,Bangalore,West,Clothing,Mobile,1104,Returning,UPI,3,35763,26032,22,9731,27.21
+1939,2027-04-23,Mumbai,West,Groceries,Laptop,1465,Returning,Net Banking,1,25009,10393,27,14616,58.44
+1940,2027-04-24,Bangalore,West,Clothing,Mobile,1458,New,UPI,5,1094,28017,26,-26923,-2460.97
+1941,2027-04-25,Bangalore,South,Electronics,Laptop,1431,Returning,UPI,9,42452,19366,11,23086,54.38
+1942,2027-04-26,Chennai,North,Clothing,Sofa,1769,New,Card,2,16100,8093,26,8007,49.73
+1943,2027-04-27,Delhi,South,Groceries,Sofa,1715,New,UPI,7,33917,9995,7,23922,70.53
+1944,2027-04-28,Mumbai,North,Groceries,Sofa,1821,New,Net Banking,5,18430,17254,2,1176,6.38
+1945,2027-04-29,Bangalore,West,Electronics,Table,1773,Returning,Net Banking,2,36571,8337,1,28234,77.2
+1946,2027-04-30,Chennai,North,Furniture,Mobile,1618,Returning,Cash,8,25974,11672,27,14302,55.06
+1947,2027-05-01,Hyderabad,South,Clothing,Table,1762,Returning,Net Banking,6,32129,19180,5,12949,40.3
+1948,2027-05-02,Mumbai,South,Groceries,Mobile,1935,Returning,Cash,4,48234,23918,15,24316,50.41
+1949,2027-05-03,Bangalore,West,Clothing,Laptop,1220,New,UPI,4,21860,23208,19,-1348,-6.17
+1950,2027-05-04,Delhi,South,Clothing,Table,1378,Returning,Net Banking,2,8276,29874,23,-21598,-260.97
+1951,2027-05-05,Chennai,West,Furniture,Table,1221,New,Card,3,1551,24026,28,-22475,-1449.07
+1952,2027-05-06,Bangalore,South,Groceries,Table,1257,Returning,Card,7,49248,10817,14,38431,78.04
+1953,2027-05-07,Delhi,South,Clothing,Shirt,1712,Returning,Card,3,9486,28042,13,-18556,-195.61
+1954,2027-05-08,Bangalore,West,Groceries,Laptop,1366,Returning,UPI,5,18527,23912,1,-5385,-29.07
+1955,2027-05-09,Mumbai,North,Electronics,Sofa,1769,Returning,UPI,6,10745,23363,19,-12618,-117.43
+1956,2027-05-10,Mumbai,South,Electronics,Laptop,1348,Returning,Cash,6,42128,21029,17,21099,50.08
+1957,2027-05-11,Mumbai,North,Clothing,Shirt,1224,New,Card,4,13997,11434,13,2563,18.31
+1958,2027-05-12,Chennai,South,Groceries,Mobile,1713,Returning,Cash,6,19330,20905,17,-1575,-8.15
+1959,2027-05-13,Mumbai,South,Clothing,Laptop,1737,Returning,Cash,3,41078,19248,1,21830,53.14
+1960,2027-05-14,Delhi,South,Groceries,Table,1235,Returning,Net Banking,7,39585,5730,0,33855,85.52
+1961,2027-05-15,Bangalore,South,Groceries,Sofa,1182,Returning,Net Banking,7,25829,14145,19,11684,45.24
+1962,2027-05-16,Hyderabad,North,Furniture,Sofa,1711,New,Card,4,44336,22854,1,21482,48.45
+1963,2027-05-17,Delhi,North,Furniture,Mobile,1868,Returning,UPI,2,9070,9454,8,-384,-4.23
+1964,2027-05-18,Delhi,South,Furniture,Laptop,1757,New,Net Banking,7,2320,24184,8,-21864,-942.41
+1965,2027-05-19,Mumbai,South,Clothing,Shirt,1443,Returning,UPI,3,24507,23639,15,868,3.54
+1966,2027-05-20,Chennai,North,Furniture,Mobile,1864,New,Cash,1,39921,12754,10,27167,68.05
+1967,2027-05-21,Bangalore,West,Furniture,Laptop,1622,New,Cash,2,7589,17888,26,-10299,-135.71
+1968,2027-05-22,Chennai,West,Electronics,Rice,1005,New,Cash,9,28459,7557,22,20902,73.45
+1969,2027-05-23,Bangalore,North,Groceries,Sofa,1235,New,Cash,8,16589,4255,5,12334,74.35
+1970,2027-05-24,Bangalore,South,Groceries,Shirt,1126,New,Card,6,37375,3346,11,34029,91.05
+1971,2027-05-25,Chennai,South,Furniture,Table,1103,Returning,Cash,6,44085,23146,2,20939,47.5
+1972,2027-05-26,Delhi,West,Groceries,Shirt,1748,New,Net Banking,1,44200,25425,29,18775,42.48
+1973,2027-05-27,Bangalore,West,Electronics,Table,1914,Returning,Cash,2,34168,3464,11,30704,89.86
+1974,2027-05-28,Chennai,North,Electronics,Shirt,1479,New,UPI,4,27732,9378,29,18354,66.18
+1975,2027-05-29,Bangalore,West,Furniture,Sofa,1154,New,Net Banking,3,32511,21521,22,10990,33.8
+1976,2027-05-30,Hyderabad,North,Electronics,Table,1256,Returning,UPI,1,23426,28202,0,-4776,-20.39
+1977,2027-05-31,Delhi,West,Groceries,Laptop,1234,New,UPI,8,31982,13148,8,18834,58.89
+1978,2027-06-01,Mumbai,West,Clothing,Table,1499,New,Card,7,17746,3255,19,14491,81.66
+1979,2027-06-02,Bangalore,West,Groceries,Mobile,1288,New,Card,4,29514,28600,21,914,3.1
+1980,2027-06-03,Hyderabad,South,Clothing,Laptop,1509,New,UPI,9,4851,20508,5,-15657,-322.76
+1981,2027-06-04,Mumbai,South,Furniture,Mobile,1551,Returning,UPI,4,20796,19616,10,1180,5.67
+1982,2027-06-05,Mumbai,South,Clothing,Shirt,1799,New,Cash,1,11498,6973,2,4525,39.35
+1983,2027-06-06,Bangalore,West,Electronics,Laptop,1708,New,Net Banking,1,33852,15054,3,18798,55.53
+1984,2027-06-07,Chennai,North,Groceries,Shirt,1784,Returning,Cash,1,35592,23235,28,12357,34.72
+1985,2027-06-08,Bangalore,North,Clothing,Rice,1893,Returning,Card,1,45845,2193,26,43652,95.22
+1986,2027-06-09,Hyderabad,North,Groceries,Shirt,1775,New,Card,4,16930,11584,9,5346,31.58
+1987,2027-06-10,Mumbai,North,Furniture,Shirt,1568,New,Cash,1,46317,12503,18,33814,73.01
+1988,2027-06-11,Bangalore,South,Furniture,Mobile,1297,Returning,Net Banking,2,43881,29256,28,14625,33.33
+1989,2027-06-12,Chennai,South,Electronics,Table,1609,New,UPI,4,48900,17568,5,31332,64.07
+1990,2027-06-13,Bangalore,West,Furniture,Rice,1136,Returning,Cash,7,42590,29416,0,13174,30.93
+1991,2027-06-14,Delhi,West,Clothing,Shirt,1375,New,Card,2,22159,3419,7,18740,84.57
+1992,2027-06-15,Chennai,North,Furniture,Shirt,1086,Returning,Net Banking,8,30536,24050,7,6486,21.24
+1993,2027-06-16,Hyderabad,South,Electronics,Rice,1418,Returning,Card,7,25252,4256,24,20996,83.15
+1994,2027-06-17,Mumbai,North,Groceries,Rice,1753,Returning,Net Banking,9,25003,22338,5,2665,10.66
+1995,2027-06-18,Bangalore,West,Groceries,Laptop,1198,New,Net Banking,6,41186,3783,16,37403,90.81
+1996,2027-06-19,Chennai,West,Furniture,Mobile,1462,New,Net Banking,4,36139,5191,18,30948,85.64
+1997,2027-06-20,Delhi,North,Clothing,Rice,1436,New,Cash,6,40836,23712,0,17124,41.93
+1998,2027-06-21,Chennai,West,Electronics,Rice,1309,New,Cash,4,23205,7850,14,15355,66.17
+1999,2027-06-22,Delhi,North,Clothing,Sofa,1595,Returning,Cash,7,31523,29102,12,2421,7.68
+2000,2027-06-23,Hyderabad,South,Electronics,Table,1753,Returning,Net Banking,9,45627,18040,20,27587,60.46
